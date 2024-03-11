@@ -149,6 +149,7 @@ def main():
                               _get_mean(results, "search times"), _get_mean(results, "check times"),
                               _get_mean(results, "superset times"), _get_mean(results, "times")))
         print("")
+        pickle.dump(results, open(results_file, "wb"), protocol=-1)
 
 
 def _get_mean(results: Dict[str, Any], key: str) -> float:
