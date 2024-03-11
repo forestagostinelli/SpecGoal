@@ -67,7 +67,7 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
                       model_batch_size: int, search_batch_size: int, weight: float, max_search_itrs: int,
                       bk_add: Optional[str] = None, times: Optional[Times] = None, spec_verbose: bool = False,
                       search_verbose: bool = False,
-                      viz_model: bool = False) -> Tuple[bool, List[State], List[Any], float, Times]:
+                      viz_model: bool = False) -> Tuple[bool, List[State], List[Any], float, int, int, Times]:
     """
 
     :param env: EnvGrndAtoms environment
@@ -88,7 +88,7 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
     """
     # Init
     if times is None:
-        times = Times()
+        times = Times(time_names=["ASP init", "Model samp", "Search", "Check", "Model superset"])
     models_banned: List[Model] = []
 
     # Initialize ASP
@@ -103,6 +103,8 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
                                          models_banned=models_banned)
     times.record_time("Model samp", time.time() - start_time)
 
+    num_models_init: int = len(models)
+    num_models_superset: int = 0
     while len(models) > 0:
         if spec_verbose:
             print(f"{len(models)} models")
@@ -124,28 +126,30 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
             continue
 
         # check for goal states
-        start_time = time.time()
         models_terminal: List[Model] = env.state_to_model([goal_node.state for goal_node in goal_nodes])
         for goal_node, model_terminal in zip(goal_nodes, models_terminal):
-            if asp.check_model(spec_clauses, model_terminal):
+            start_time = time.time()
+            is_model = asp.check_model(spec_clauses, model_terminal)
+            times.record_time("Check", time.time() - start_time)
+            if is_model:
                 if spec_verbose:
                     print("Found a goal state")
                 path_states, path_actions, path_cost = get_path(goal_node)
-                return True, path_states, path_actions, path_cost, times
-        times.record_time("Check", time.time() - start_time)
+                return True, path_states, path_actions, path_cost, num_models_init, num_models_superset, times
 
         # Get supersets of models
         start_time = time.time()
         samp_per_model: List[int] = misc_utils.split_evenly(model_batch_size, len(models))
-        models_new: List[Model] = []
+        models_superset: List[Model] = []
         for num_samp_i, model in zip(samp_per_model, models):
-            models_new += asp.get_models(spec_clauses, env.on_model, minimal=True, num_models=num_samp_i,
-                                         assumed_true=model, models_banned=models_banned, num_atoms_gt=len(model))
+            models_superset += asp.get_models(spec_clauses, env.on_model, minimal=True, num_models=num_samp_i,
+                                              assumed_true=model, models_banned=models_banned, num_atoms_gt=len(model))
 
-        models = models_new
+        num_models_superset += len(models_superset)
+        models = models_superset
         times.record_time("Model superset", time.time() - start_time)
 
     if spec_verbose:
         print("No path found")
 
-    return False, [], [], -1.0, times
+    return False, [], [], -1.0, num_models_init, num_models_superset, times
