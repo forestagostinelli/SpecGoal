@@ -47,6 +47,7 @@ def main():
     parser.add_argument('--viz_model', action='store_true', default=False, help="Set to visualize each model before "
                                                                                 "search")
     parser.add_argument('--viz_goal', action='store_true', default=False, help="Set to visualize reached goal state")
+    parser.add_argument('--redo', action='store_true', default=False, help="Set to start from scratch")
     parser.add_argument('--debug', action='store_true', default=False, help="Set when debugging with breakpoints")
 
     args = parser.parse_args()
