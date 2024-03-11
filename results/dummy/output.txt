@@ -1,0 +1,13 @@
+device: cuda:0, devices: [0, 1], on_gpu: True
+Times - pop: 0.00, expand: 0.09, check: 0.05, heur: 2.73, add: 0.00, itr: 2.88, num_itrs: 80
+State: 0, SolnCost: 22.00, # Nodes Gen: 9,492, Itrs: 80, Itrs/sec: 24.44, Solved: True, Time: 3.27
+Means, SolnCost: 22.00, # Nodes Gen: 9492.00, Itrs: 80.00, Itrs/sec: 24.44, Solved: 100.00%, Time: 3.27
+
+Times - pop: 0.09, expand: 2.80, check: 1.37, heur: 19.49, add: 0.11, itr: 23.86, num_itrs: 2382
+State: 1, SolnCost: 23.00, # Nodes Gen: 285,732, Itrs: 2382, Itrs/sec: 99.68, Solved: True, Time: 23.90
+Means, SolnCost: 22.50, # Nodes Gen: 147612.00, Itrs: 1231.00, Itrs/sec: 62.06, Solved: 100.00%, Time: 13.58
+
+Times - pop: 0.00, expand: 0.18, check: 0.09, heur: 1.22, add: 0.01, itr: 1.50, num_itrs: 156
+State: 2, SolnCost: 19.00, # Nodes Gen: 18,612, Itrs: 156, Itrs/sec: 95.01, Solved: True, Time: 1.64
+Means, SolnCost: 21.33, # Nodes Gen: 104612.00, Itrs: 872.67, Itrs/sec: 73.04, Solved: 100.00%, Time: 9.60
+
