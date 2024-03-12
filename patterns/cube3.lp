@@ -23,13 +23,12 @@ long1 :- cubelet(V0),has_stk_col(V0,V1),onface(V0,V1,V2),has_stk_col(V0,V3),face
 
 cupup :- cup(r_f, w_f, _), cup(o_f, w_f, _), cup(b_f, w_f, _), cup(g_f, w_f, _).
 x6 :- #count{F: x(F, XCol), face_col(F, XCol)} = 6.
-cross6 :- #count{F: cross(F, CCol), face_col(F, CCol)} = 6.
 xwhite :- x(w_f, w).
 crosswhite :- cross(w_f, w), #count{Cbl: in_place(Cbl), center_cbl(Cbl)}=6.
 cupplus :- cup(F1, w_f, _), cup(F2, w_f, _), face_rel(_, F1, F2, cl), cup(F3, y_f, _), cup(F4, y_f, _), face_rel(_, F3, F4, cl).
-cupring :- cup(r_f, _, _), cup(o_f, _, _), cup(b_f, _, _), cup(g_f, _, _).
-checker6 :- #count{F: checkerboard(F)} = 6.
-checkerop :- checkerboard(F1), checkerboard(F2), face_rel(_, F1, F2, op), #count{F: face_same(F)} = 4.
 
-spotcup :- spot(F1, _), cup(F2, F1, _), face_rel(_, F1, F2, cl).
 canon :- #count{F : face_same(F)}=6.
+cross6 :- #count{F: cross(F, CCol), face_col(F, CCol)} = 6.
+cup4 :- cup(r_f, _, _), cup(o_f, _, _), cup(b_f, _, _), cup(g_f, _, _).
+cupspot :- spot(F1, _), cup(F2, F1, _), face_rel(_, F1, F2, cl).
+checkers :- checkerboard(F1), checkerboard(F2), face_rel(_, F1, F2, op), #count{F: face_same(F)} = 4.

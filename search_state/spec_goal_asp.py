@@ -65,9 +65,10 @@ def get_next_model(asp: ASPSpec, spec_clauses: List[Clause], env: EnvGrndAtoms, 
 
 def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[Clause], heur_fn: HeurFnNNet,
                       model_batch_size: int, search_batch_size: int, weight: float, max_search_itrs: int,
-                      bk_add: Optional[str] = None, times: Optional[Times] = None, spec_verbose: bool = False,
-                      search_verbose: bool = False,
-                      viz_model: bool = False) -> Tuple[bool, List[State], List[Any], float, int, int, Times]:
+                      bk_add: Optional[str] = None, models_banned: Optional[List[Model]] = None,
+                      times: Optional[Times] = None, spec_verbose: bool = False, search_verbose: bool = False,
+                      viz_model: bool = False) -> Tuple[bool, List[State], List[Any], float, int, int, List[Model],
+                                                        Times]:
     """
 
     :param env: EnvGrndAtoms environment
@@ -79,6 +80,7 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
     :param weight: Weight on path cost for weighted search. Must be between 0 and 1.
     :param max_search_itrs: Maximum number of iterations when searching from start state to goal model
     :param bk_add: A file for additional background information
+    :param models_banned: Banned models
     :param times: Times
     :param spec_verbose: Verbose specification if true
     :param search_verbose: Verbose search if true
@@ -89,7 +91,11 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
     # Init
     if times is None:
         times = Times(time_names=["ASP init", "Model samp", "Search", "Check", "Model superset"])
-    models_banned: List[Model] = []
+
+    if models_banned is None:
+        models_banned: List[Model] = []
+    else:
+        models_banned: List[Model] = models_banned.copy()
 
     # Initialize ASP
     start_time = time.time()
@@ -135,7 +141,8 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
                 if spec_verbose:
                     print("Found a goal state")
                 path_states, path_actions, path_cost = get_path(goal_node)
-                return True, path_states, path_actions, path_cost, num_models_init, num_models_superset, times
+                return (True, path_states, path_actions, path_cost, num_models_init, num_models_superset, models_banned,
+                        times)
 
         # Get supersets of models
         start_time = time.time()
@@ -152,4 +159,4 @@ def path_to_spec_goal(env: EnvGrndAtoms, state_start: State, spec_clauses: List[
     if spec_verbose:
         print("No path found")
 
-    return False, [], [], -1.0, num_models_init, num_models_superset, times
+    return False, [], [], -1.0, num_models_init, num_models_superset, models_banned, times

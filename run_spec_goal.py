@@ -3,10 +3,10 @@ from typing import List, cast, Dict, Any, Optional
 from deepxube.environments.environment_abstract import EnvGrndAtoms, State
 from deepxube.utils import env_select, program_utils, nnet_utils, viz_utils, data_utils
 from deepxube.utils.timing_utils import Times
+from deepxube.logic.program import Model
 from search_state.spec_goal_asp import path_to_spec_goal
 from deepxube.logic.program import Clause
 from argparse import ArgumentParser
-import torch
 import os
 import sys
 import pickle
@@ -112,16 +112,18 @@ def main():
         path_actions: Optional[List[int]] = None
         num_models_init: int = 0
         num_models_superset: int = 0
+        models_banned: List[Model] = []
         times: Times = Times()
         start_time = time.time()
         while not solved:
             (solved, state_path, path_actions, path_cost, num_mod_init_i, num_mod_sup_i,
-             times_i) = path_to_spec_goal(env, state, clauses, heuristic_fn, args.model_batch_size, args.batch_size,
-                                          args.weight, args.max_search_itrs, bk_add=args.bk_add,
-                                          spec_verbose=args.spec_verbose, search_verbose=args.search_verbose,
-                                          viz_model=args.viz_model)
+             mb_i, times_i) = path_to_spec_goal(env, state, clauses, heuristic_fn, args.model_batch_size,
+                                                args.batch_size, args.weight, args.max_search_itrs, bk_add=args.bk_add,
+                                                models_banned=models_banned, spec_verbose=args.spec_verbose,
+                                                search_verbose=args.search_verbose, viz_model=args.viz_model)
             num_models_init += num_mod_init_i
             num_models_superset += num_mod_sup_i
+            models_banned += mb_i
             times.add_times(times_i)
             if solved and args.viz_goal:
                 viz_utils.visualize_examples(env, [state_path[-1]])
