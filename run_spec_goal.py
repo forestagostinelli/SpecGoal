@@ -72,16 +72,16 @@ def main():
 
     if has_results and (not args.redo):
         results: Dict[str, Any] = pickle.load(open(results_file, "rb"))
-        if not args.debug:
-            sys.stdout = data_utils.Logger(output_file, "a")
+        log_write_mode: str = "a"
     else:
         results: Dict[str, Any] = {"states": states, "actions": [], "path_costs": [],
                                    "ASP init times": [], "model times": [], "search times": [], "check times": [],
                                    "superset times": [], "times": [], "num models init": [], "num models superset": [],
                                    "solved": []}
+        log_write_mode: str = "w"
 
-        if not args.debug:
-            sys.stdout = data_utils.Logger(output_file, "w")
+    if (not args.debug) and (not (args.viz_model or args.viz_model or args.viz_goal)):
+        sys.stdout = data_utils.Logger(output_file, log_write_mode)
 
     # spec clauses
     spec_clauses_str = args.spec.split(";")
@@ -117,13 +117,13 @@ def main():
         start_time = time.time()
         while not solved:
             (solved, state_path, path_actions, path_cost, num_mod_init_i, num_mod_sup_i,
-             mb_i, times_i) = path_to_spec_goal(env, state, clauses, heuristic_fn, args.model_batch_size,
-                                                args.batch_size, args.weight, args.max_search_itrs, bk_add=args.bk_add,
-                                                models_banned=models_banned, spec_verbose=args.spec_verbose,
-                                                search_verbose=args.search_verbose, viz_model=args.viz_model)
+             models_banned, times_i) = path_to_spec_goal(env, state, clauses, heuristic_fn, args.model_batch_size,
+                                                         args.batch_size, args.weight, args.max_search_itrs,
+                                                         bk_add=args.bk_add,
+                                                         models_banned=models_banned, spec_verbose=args.spec_verbose,
+                                                         search_verbose=args.search_verbose, viz_model=args.viz_model)
             num_models_init += num_mod_init_i
             num_models_superset += num_mod_sup_i
-            models_banned += mb_i
             times.add_times(times_i)
             if solved and args.viz_goal:
                 viz_utils.visualize_examples(env, [state_path[-1]])
