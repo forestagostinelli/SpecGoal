@@ -1,0 +1,1985 @@
+device: cuda:0, devices: [0, 1], on_gpu: True
+Times - pop: 0.09, expand: 2.35, check: 0.63, heur: 4.02, add: 0.11, itr: 7.20, num_itrs: 101
+State: 0, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 9.60, Solved: True, Time: 10.52
+Means, SolnCost: 100.00, # Nodes Gen: 373980.00, Itrs: 101.00, Itrs/sec: 9.60, Solved: 100.00%, Time: 10.52
+
+Times - pop: 0.09, expand: 2.16, check: 0.58, heur: 2.13, add: 0.17, itr: 5.13, num_itrs: 95
+State: 1, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 18.00, Solved: True, Time: 5.28
+Means, SolnCost: 97.00, # Nodes Gen: 361980.00, Itrs: 98.00, Itrs/sec: 13.80, Solved: 100.00%, Time: 7.90
+
+Times - pop: 0.08, expand: 2.07, check: 0.54, heur: 1.88, add: 0.10, itr: 4.67, num_itrs: 89
+State: 2, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 18.51, Solved: True, Time: 4.81
+Means, SolnCost: 94.00, # Nodes Gen: 350594.67, Itrs: 95.00, Itrs/sec: 15.37, Solved: 100.00%, Time: 6.87
+
+Times - pop: 0.09, expand: 2.40, check: 0.59, heur: 2.03, add: 0.11, itr: 5.21, num_itrs: 96
+State: 3, SolnCost: 95.00, # Nodes Gen: 357,304, Itrs: 96, Itrs/sec: 17.95, Solved: True, Time: 5.35
+Means, SolnCost: 94.25, # Nodes Gen: 352272.00, Itrs: 95.25, Itrs/sec: 16.01, Solved: 100.00%, Time: 6.49
+
+Times - pop: 0.08, expand: 2.06, check: 0.53, heur: 1.81, add: 0.18, itr: 4.65, num_itrs: 86
+State: 4, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.93, Solved: True, Time: 4.80
+Means, SolnCost: 92.40, # Nodes Gen: 344926.40, Itrs: 93.40, Itrs/sec: 16.40, Solved: 100.00%, Time: 6.15
+
+Times - pop: 0.10, expand: 2.37, check: 0.64, heur: 2.27, add: 0.12, itr: 5.48, num_itrs: 104
+State: 5, SolnCost: 103.00, # Nodes Gen: 387,544, Itrs: 104, Itrs/sec: 18.52, Solved: True, Time: 5.62
+Means, SolnCost: 94.17, # Nodes Gen: 352029.33, Itrs: 95.17, Itrs/sec: 16.75, Solved: 100.00%, Time: 6.06
+
+Times - pop: 0.08, expand: 2.23, check: 0.54, heur: 1.81, add: 0.09, itr: 4.76, num_itrs: 87
+State: 6, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 17.71, Solved: True, Time: 4.91
+Means, SolnCost: 93.00, # Nodes Gen: 347428.57, Itrs: 94.00, Itrs/sec: 16.89, Solved: 100.00%, Time: 5.90
+
+Times - pop: 0.07, expand: 1.39, check: 0.46, heur: 1.71, add: 0.31, itr: 3.93, num_itrs: 75
+State: 7, SolnCost: 74.00, # Nodes Gen: 272,800, Itrs: 75, Itrs/sec: 18.46, Solved: True, Time: 4.06
+Means, SolnCost: 90.62, # Nodes Gen: 338100.00, Itrs: 91.62, Itrs/sec: 17.09, Solved: 100.00%, Time: 5.67
+
+Times - pop: 0.06, expand: 1.45, check: 0.41, heur: 1.52, add: 0.07, itr: 3.51, num_itrs: 68
+State: 8, SolnCost: 67.00, # Nodes Gen: 243,544, Itrs: 68, Itrs/sec: 18.80, Solved: True, Time: 3.62
+Means, SolnCost: 88.00, # Nodes Gen: 327593.78, Itrs: 89.00, Itrs/sec: 17.28, Solved: 100.00%, Time: 5.44
+
+Times - pop: 0.09, expand: 2.46, check: 0.62, heur: 2.17, add: 0.11, itr: 5.46, num_itrs: 101
+State: 9, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 18.14, Solved: True, Time: 5.57
+Means, SolnCost: 89.20, # Nodes Gen: 332232.40, Itrs: 90.20, Itrs/sec: 17.36, Solved: 100.00%, Time: 5.45
+
+Times - pop: 0.08, expand: 2.29, check: 0.57, heur: 1.90, add: 0.09, itr: 4.94, num_itrs: 90
+State: 10, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.69, Solved: True, Time: 5.09
+Means, SolnCost: 89.18, # Nodes Gen: 332169.82, Itrs: 90.18, Itrs/sec: 17.39, Solved: 100.00%, Time: 5.42
+
+Times - pop: 0.09, expand: 2.15, check: 0.59, heur: 2.26, add: 0.10, itr: 5.19, num_itrs: 98
+State: 11, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 18.38, Solved: True, Time: 5.33
+Means, SolnCost: 89.83, # Nodes Gen: 334784.33, Itrs: 90.83, Itrs/sec: 17.47, Solved: 100.00%, Time: 5.41
+
+Times - pop: 0.09, expand: 2.41, check: 0.59, heur: 2.06, add: 0.10, itr: 5.24, num_itrs: 98
+State: 12, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 18.18, Solved: True, Time: 5.39
+Means, SolnCost: 90.38, # Nodes Gen: 336996.62, Itrs: 91.38, Itrs/sec: 17.53, Solved: 100.00%, Time: 5.41
+
+Times - pop: 0.08, expand: 2.36, check: 0.56, heur: 1.95, add: 0.09, itr: 5.05, num_itrs: 93
+State: 13, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 17.88, Solved: True, Time: 5.20
+Means, SolnCost: 90.50, # Nodes Gen: 337484.29, Itrs: 91.50, Itrs/sec: 17.55, Solved: 100.00%, Time: 5.40
+
+Times - pop: 0.08, expand: 2.14, check: 0.54, heur: 1.83, add: 0.18, itr: 4.76, num_itrs: 89
+State: 14, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.16, Solved: True, Time: 4.90
+Means, SolnCost: 90.33, # Nodes Gen: 336717.33, Itrs: 91.33, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.36
+
+Times - pop: 0.09, expand: 2.18, check: 0.58, heur: 1.95, add: 0.30, itr: 5.09, num_itrs: 94
+State: 15, SolnCost: 91.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.97, Solved: True, Time: 5.23
+Means, SolnCost: 90.38, # Nodes Gen: 337504.00, Itrs: 91.50, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.35
+
+Times - pop: 0.09, expand: 2.37, check: 0.58, heur: 2.01, add: 0.10, itr: 5.14, num_itrs: 97
+State: 16, SolnCost: 96.00, # Nodes Gen: 360,800, Itrs: 97, Itrs/sec: 18.34, Solved: True, Time: 5.29
+Means, SolnCost: 90.71, # Nodes Gen: 338874.35, Itrs: 91.82, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.35
+
+Times - pop: 0.08, expand: 2.28, check: 0.53, heur: 1.80, add: 0.08, itr: 4.76, num_itrs: 87
+State: 17, SolnCost: 86.00, # Nodes Gen: 320,800, Itrs: 87, Itrs/sec: 17.72, Solved: True, Time: 4.91
+Means, SolnCost: 90.44, # Nodes Gen: 337870.22, Itrs: 91.56, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.33
+
+Times - pop: 0.09, expand: 2.50, check: 0.60, heur: 2.03, add: 0.09, itr: 5.31, num_itrs: 98
+State: 18, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 18.00, Solved: True, Time: 5.45
+Means, SolnCost: 90.79, # Nodes Gen: 339221.47, Itrs: 91.89, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.33
+
+Times - pop: 0.10, expand: 2.47, check: 0.67, heur: 2.51, add: 0.29, itr: 6.05, num_itrs: 112
+State: 19, SolnCost: 111.00, # Nodes Gen: 419,544, Itrs: 112, Itrs/sec: 18.07, Solved: True, Time: 6.20
+Means, SolnCost: 91.80, # Nodes Gen: 343237.60, Itrs: 92.90, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.38
+
+Times - pop: 0.10, expand: 2.51, check: 0.64, heur: 2.28, add: 0.11, itr: 5.63, num_itrs: 105
+State: 20, SolnCost: 104.00, # Nodes Gen: 392,800, Itrs: 105, Itrs/sec: 18.10, Solved: True, Time: 5.80
+Means, SolnCost: 92.38, # Nodes Gen: 345597.71, Itrs: 93.48, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.40
+
+Times - pop: 0.08, expand: 1.91, check: 0.48, heur: 1.67, add: 0.08, itr: 4.22, num_itrs: 81
+State: 21, SolnCost: 80.00, # Nodes Gen: 293,980, Itrs: 81, Itrs/sec: 18.48, Solved: True, Time: 4.38
+Means, SolnCost: 91.82, # Nodes Gen: 343251.45, Itrs: 92.91, Itrs/sec: 17.75, Solved: 100.00%, Time: 5.35
+
+Times - pop: 0.09, expand: 2.37, check: 0.59, heur: 2.21, add: 0.10, itr: 5.36, num_itrs: 98
+State: 22, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.85, Solved: True, Time: 5.49
+Means, SolnCost: 92.04, # Nodes Gen: 344133.74, Itrs: 93.13, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.36
+
+Times - pop: 0.09, expand: 2.52, check: 0.60, heur: 2.15, add: 0.11, itr: 5.47, num_itrs: 102
+State: 23, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 18.14, Solved: True, Time: 5.62
+Means, SolnCost: 92.42, # Nodes Gen: 345609.17, Itrs: 93.50, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.37
+
+Times - pop: 0.07, expand: 2.00, check: 0.49, heur: 1.74, add: 0.08, itr: 4.38, num_itrs: 81
+State: 24, SolnCost: 80.00, # Nodes Gen: 295,824, Itrs: 81, Itrs/sec: 17.86, Solved: True, Time: 4.54
+Means, SolnCost: 91.92, # Nodes Gen: 343617.76, Itrs: 93.00, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.33
+
+Times - pop: 0.06, expand: 1.47, check: 0.40, heur: 1.47, add: 0.06, itr: 3.47, num_itrs: 67
+State: 25, SolnCost: 66.00, # Nodes Gen: 239,824, Itrs: 67, Itrs/sec: 18.65, Solved: True, Time: 3.59
+Means, SolnCost: 90.92, # Nodes Gen: 339625.69, Itrs: 92.00, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.27
+
+Times - pop: 0.09, expand: 2.45, check: 0.60, heur: 2.15, add: 0.34, itr: 5.64, num_itrs: 100
+State: 26, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.39, Solved: True, Time: 5.75
+Means, SolnCost: 91.22, # Nodes Gen: 340807.85, Itrs: 92.30, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.28
+
+Times - pop: 0.08, expand: 2.16, check: 0.57, heur: 2.01, add: 0.09, itr: 4.92, num_itrs: 91
+State: 27, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.94, Solved: True, Time: 5.07
+Means, SolnCost: 91.18, # Nodes Gen: 340664.71, Itrs: 92.25, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.28
+
+Times - pop: 0.09, expand: 2.28, check: 0.58, heur: 1.96, add: 0.27, itr: 5.16, num_itrs: 94
+State: 28, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.70, Solved: True, Time: 5.31
+Means, SolnCost: 91.24, # Nodes Gen: 340962.62, Itrs: 92.31, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.28
+
+Times - pop: 0.09, expand: 1.87, check: 0.57, heur: 2.12, add: 0.43, itr: 5.08, num_itrs: 94
+State: 29, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.97, Solved: True, Time: 5.23
+Means, SolnCost: 91.30, # Nodes Gen: 341240.67, Itrs: 92.37, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.28
+
+Times - pop: 0.09, expand: 2.24, check: 0.59, heur: 2.18, add: 0.18, itr: 5.28, num_itrs: 96
+State: 30, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.67, Solved: True, Time: 5.43
+Means, SolnCost: 91.42, # Nodes Gen: 341702.06, Itrs: 92.48, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.28
+
+Times - pop: 0.08, expand: 1.59, check: 0.51, heur: 1.88, add: 0.36, itr: 4.41, num_itrs: 83
+State: 31, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 18.20, Solved: True, Time: 4.56
+Means, SolnCost: 91.12, # Nodes Gen: 340548.88, Itrs: 92.19, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.26
+
+Times - pop: 0.08, expand: 2.09, check: 0.52, heur: 1.79, add: 0.09, itr: 4.57, num_itrs: 86
+State: 32, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 18.29, Solved: True, Time: 4.70
+Means, SolnCost: 90.94, # Nodes Gen: 339844.48, Itrs: 92.00, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.24
+
+Times - pop: 0.07, expand: 2.08, check: 0.49, heur: 1.70, add: 0.08, itr: 4.43, num_itrs: 82
+State: 33, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.98, Solved: True, Time: 4.56
+Means, SolnCost: 90.65, # Nodes Gen: 338659.18, Itrs: 91.71, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.83, check: 0.66, heur: 2.25, add: 0.11, itr: 5.95, num_itrs: 108
+State: 34, SolnCost: 107.00, # Nodes Gen: 403,544, Itrs: 108, Itrs/sec: 17.73, Solved: True, Time: 6.09
+Means, SolnCost: 91.11, # Nodes Gen: 340513.03, Itrs: 92.17, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.25
+
+Times - pop: 0.09, expand: 2.17, check: 0.61, heur: 2.33, add: 0.26, itr: 5.46, num_itrs: 102
+State: 35, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 18.07, Solved: True, Time: 5.64
+Means, SolnCost: 91.39, # Nodes Gen: 341597.22, Itrs: 92.44, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.26
+
+Times - pop: 0.08, expand: 2.31, check: 0.56, heur: 1.96, add: 0.10, itr: 5.01, num_itrs: 94
+State: 36, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 18.19, Solved: True, Time: 5.17
+Means, SolnCost: 91.43, # Nodes Gen: 341757.95, Itrs: 92.49, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.26
+
+Times - pop: 0.08, expand: 1.94, check: 0.53, heur: 1.99, add: 0.16, itr: 4.70, num_itrs: 89
+State: 37, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.35, Solved: True, Time: 4.85
+Means, SolnCost: 91.34, # Nodes Gen: 341342.74, Itrs: 92.39, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.25
+
+Times - pop: 0.09, expand: 2.40, check: 0.58, heur: 1.97, add: 0.09, itr: 5.13, num_itrs: 95
+State: 38, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 18.02, Solved: True, Time: 5.27
+Means, SolnCost: 91.41, # Nodes Gen: 341564.21, Itrs: 92.46, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.25
+
+Times - pop: 0.08, expand: 2.14, check: 0.50, heur: 1.75, add: 0.08, itr: 4.56, num_itrs: 84
+State: 39, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.87, Solved: True, Time: 4.70
+Means, SolnCost: 91.20, # Nodes Gen: 340713.70, Itrs: 92.25, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.09, expand: 2.62, check: 0.62, heur: 2.13, add: 0.20, itr: 5.66, num_itrs: 102
+State: 40, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 17.59, Solved: True, Time: 5.80
+Means, SolnCost: 91.44, # Nodes Gen: 341660.78, Itrs: 92.49, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.25
+
+Times - pop: 0.07, expand: 1.77, check: 0.48, heur: 1.75, add: 0.08, itr: 4.16, num_itrs: 81
+State: 41, SolnCost: 80.00, # Nodes Gen: 293,980, Itrs: 81, Itrs/sec: 18.78, Solved: True, Time: 4.31
+Means, SolnCost: 91.17, # Nodes Gen: 340525.52, Itrs: 92.21, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 1.75, check: 0.57, heur: 2.10, add: 0.43, itr: 4.92, num_itrs: 93
+State: 42, SolnCost: 92.00, # Nodes Gen: 345,752, Itrs: 93, Itrs/sec: 18.40, Solved: True, Time: 5.05
+Means, SolnCost: 91.19, # Nodes Gen: 340647.07, Itrs: 92.23, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.26, check: 0.55, heur: 1.85, add: 0.15, itr: 4.89, num_itrs: 89
+State: 43, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 17.66, Solved: True, Time: 5.04
+Means, SolnCost: 91.11, # Nodes Gen: 340355.64, Itrs: 92.16, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.30, check: 0.54, heur: 1.85, add: 0.09, itr: 4.85, num_itrs: 89
+State: 44, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 17.82, Solved: True, Time: 4.99
+Means, SolnCost: 91.04, # Nodes Gen: 340036.18, Itrs: 92.09, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 1.96, check: 0.53, heur: 1.98, add: 0.09, itr: 4.64, num_itrs: 88
+State: 45, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 18.42, Solved: True, Time: 4.78
+Means, SolnCost: 90.96, # Nodes Gen: 339677.65, Itrs: 92.00, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.29, check: 0.58, heur: 1.97, add: 0.09, itr: 5.01, num_itrs: 95
+State: 46, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 18.42, Solved: True, Time: 5.16
+Means, SolnCost: 91.02, # Nodes Gen: 339896.85, Itrs: 92.06, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.69, check: 0.65, heur: 2.40, add: 0.12, itr: 5.96, num_itrs: 108
+State: 47, SolnCost: 107.00, # Nodes Gen: 405,304, Itrs: 108, Itrs/sec: 17.67, Solved: True, Time: 6.11
+Means, SolnCost: 91.35, # Nodes Gen: 341259.50, Itrs: 92.40, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.81, check: 0.66, heur: 2.29, add: 0.20, itr: 6.06, num_itrs: 108
+State: 48, SolnCost: 107.00, # Nodes Gen: 405,304, Itrs: 108, Itrs/sec: 17.32, Solved: True, Time: 6.23
+Means, SolnCost: 91.67, # Nodes Gen: 342566.53, Itrs: 92.71, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.24
+
+Times - pop: 0.10, expand: 2.47, check: 0.67, heur: 2.63, add: 0.17, itr: 6.05, num_itrs: 111
+State: 49, SolnCost: 110.00, # Nodes Gen: 413,980, Itrs: 111, Itrs/sec: 17.83, Solved: True, Time: 6.23
+Means, SolnCost: 92.04, # Nodes Gen: 343994.80, Itrs: 93.08, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.26
+
+Times - pop: 0.07, expand: 1.75, check: 0.47, heur: 1.71, add: 0.08, itr: 4.09, num_itrs: 78
+State: 50, SolnCost: 77.00, # Nodes Gen: 283,544, Itrs: 78, Itrs/sec: 18.33, Solved: True, Time: 4.25
+Means, SolnCost: 91.75, # Nodes Gen: 342809.49, Itrs: 92.78, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.24
+
+Times - pop: 0.08, expand: 1.91, check: 0.54, heur: 1.91, add: 0.27, itr: 4.70, num_itrs: 88
+State: 51, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 18.24, Solved: True, Time: 4.82
+Means, SolnCost: 91.65, # Nodes Gen: 342439.00, Itrs: 92.69, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.07, check: 0.54, heur: 1.87, add: 0.19, itr: 4.75, num_itrs: 89
+State: 52, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.20, Solved: True, Time: 4.89
+Means, SolnCost: 91.58, # Nodes Gen: 342128.45, Itrs: 92.62, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.09, expand: 2.06, check: 0.57, heur: 1.98, add: 0.41, itr: 5.11, num_itrs: 94
+State: 53, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.91, Solved: True, Time: 5.25
+Means, SolnCost: 91.61, # Nodes Gen: 342228.74, Itrs: 92.65, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.33, check: 0.55, heur: 1.91, add: 0.09, itr: 4.97, num_itrs: 91
+State: 54, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.79, Solved: True, Time: 5.12
+Means, SolnCost: 91.58, # Nodes Gen: 342078.76, Itrs: 92.62, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 1.83, check: 0.46, heur: 1.59, add: 0.07, itr: 4.02, num_itrs: 77
+State: 55, SolnCost: 76.00, # Nodes Gen: 277,980, Itrs: 77, Itrs/sec: 18.52, Solved: True, Time: 4.16
+Means, SolnCost: 91.30, # Nodes Gen: 340934.14, Itrs: 92.34, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.35, check: 0.56, heur: 2.00, add: 0.10, itr: 5.10, num_itrs: 94
+State: 56, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 18.00, Solved: True, Time: 5.22
+Means, SolnCost: 91.33, # Nodes Gen: 341050.11, Itrs: 92.37, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.49, check: 0.59, heur: 2.08, add: 0.10, itr: 5.34, num_itrs: 98
+State: 57, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.83, Solved: True, Time: 5.50
+Means, SolnCost: 91.43, # Nodes Gen: 341437.93, Itrs: 92.47, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.44, check: 0.57, heur: 1.98, add: 0.09, itr: 5.17, num_itrs: 93
+State: 58, SolnCost: 92.00, # Nodes Gen: 344,800, Itrs: 93, Itrs/sec: 17.46, Solved: True, Time: 5.33
+Means, SolnCost: 91.44, # Nodes Gen: 341494.92, Itrs: 92.47, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.93, check: 0.47, heur: 1.66, add: 0.08, itr: 4.21, num_itrs: 79
+State: 59, SolnCost: 78.00, # Nodes Gen: 285,980, Itrs: 79, Itrs/sec: 18.14, Solved: True, Time: 4.36
+Means, SolnCost: 91.22, # Nodes Gen: 340569.67, Itrs: 92.25, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.23, check: 0.54, heur: 1.86, add: 0.09, itr: 4.80, num_itrs: 89
+State: 60, SolnCost: 88.00, # Nodes Gen: 328,800, Itrs: 89, Itrs/sec: 18.05, Solved: True, Time: 4.93
+Means, SolnCost: 91.16, # Nodes Gen: 340376.72, Itrs: 92.20, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.05, check: 0.52, heur: 1.84, add: 0.08, itr: 4.58, num_itrs: 86
+State: 61, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 18.23, Solved: True, Time: 4.72
+Means, SolnCost: 91.06, # Nodes Gen: 339976.19, Itrs: 92.10, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.23, check: 0.51, heur: 1.75, add: 0.09, itr: 4.66, num_itrs: 84
+State: 62, SolnCost: 83.00, # Nodes Gen: 309,304, Itrs: 84, Itrs/sec: 17.53, Solved: True, Time: 4.79
+Means, SolnCost: 90.94, # Nodes Gen: 339489.33, Itrs: 91.97, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 2.27, check: 0.55, heur: 1.97, add: 0.09, itr: 4.96, num_itrs: 90
+State: 63, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.65, Solved: True, Time: 5.10
+Means, SolnCost: 90.91, # Nodes Gen: 339365.19, Itrs: 91.94, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 1.94, check: 0.50, heur: 1.80, add: 0.17, itr: 4.49, num_itrs: 83
+State: 64, SolnCost: 82.00, # Nodes Gen: 305,752, Itrs: 83, Itrs/sec: 17.92, Solved: True, Time: 4.63
+Means, SolnCost: 90.77, # Nodes Gen: 338848.06, Itrs: 91.80, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.08, expand: 2.33, check: 0.55, heur: 1.91, add: 0.09, itr: 4.97, num_itrs: 92
+State: 65, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 18.00, Solved: True, Time: 5.11
+Means, SolnCost: 90.77, # Nodes Gen: 338858.61, Itrs: 91.80, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.07, expand: 1.81, check: 0.46, heur: 1.60, add: 0.07, itr: 4.00, num_itrs: 76
+State: 66, SolnCost: 75.00, # Nodes Gen: 275,544, Itrs: 76, Itrs/sec: 18.36, Solved: True, Time: 4.14
+Means, SolnCost: 90.54, # Nodes Gen: 337913.61, Itrs: 91.57, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.09, expand: 2.32, check: 0.62, heur: 2.38, add: 0.10, itr: 5.51, num_itrs: 100
+State: 67, SolnCost: 99.00, # Nodes Gen: 373,304, Itrs: 100, Itrs/sec: 17.76, Solved: True, Time: 5.63
+Means, SolnCost: 90.66, # Nodes Gen: 338434.06, Itrs: 91.69, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.08, expand: 2.22, check: 0.53, heur: 1.84, add: 0.09, itr: 4.75, num_itrs: 87
+State: 68, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.72, Solved: True, Time: 4.91
+Means, SolnCost: 90.59, # Nodes Gen: 338137.62, Itrs: 91.62, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.10, expand: 2.32, check: 0.64, heur: 2.50, add: 0.16, itr: 5.71, num_itrs: 104
+State: 69, SolnCost: 103.00, # Nodes Gen: 387,544, Itrs: 104, Itrs/sec: 17.77, Solved: True, Time: 5.85
+Means, SolnCost: 90.77, # Nodes Gen: 338843.43, Itrs: 91.80, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.07, expand: 1.88, check: 0.47, heur: 1.60, add: 0.07, itr: 4.09, num_itrs: 77
+State: 70, SolnCost: 76.00, # Nodes Gen: 280,800, Itrs: 77, Itrs/sec: 18.13, Solved: True, Time: 4.25
+Means, SolnCost: 90.56, # Nodes Gen: 338025.92, Itrs: 91.59, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.09, expand: 2.41, check: 0.59, heur: 2.12, add: 0.10, itr: 5.31, num_itrs: 96
+State: 71, SolnCost: 95.00, # Nodes Gen: 357,304, Itrs: 96, Itrs/sec: 17.67, Solved: True, Time: 5.43
+Means, SolnCost: 90.62, # Nodes Gen: 338293.67, Itrs: 91.65, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.09, expand: 2.19, check: 0.61, heur: 2.47, add: 0.25, itr: 5.62, num_itrs: 101
+State: 72, SolnCost: 100.00, # Nodes Gen: 376,800, Itrs: 101, Itrs/sec: 17.49, Solved: True, Time: 5.77
+Means, SolnCost: 90.75, # Nodes Gen: 338821.15, Itrs: 91.78, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.08, expand: 2.03, check: 0.52, heur: 1.79, add: 0.17, itr: 4.58, num_itrs: 86
+State: 73, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 18.10, Solved: True, Time: 4.75
+Means, SolnCost: 90.68, # Nodes Gen: 338506.59, Itrs: 91.70, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.07, expand: 2.03, check: 0.48, heur: 1.66, add: 0.08, itr: 4.33, num_itrs: 80
+State: 74, SolnCost: 79.00, # Nodes Gen: 293,304, Itrs: 80, Itrs/sec: 17.93, Solved: True, Time: 4.46
+Means, SolnCost: 90.52, # Nodes Gen: 337903.89, Itrs: 91.55, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.29, check: 0.56, heur: 1.96, add: 0.09, itr: 4.99, num_itrs: 93
+State: 75, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 18.16, Solved: True, Time: 5.12
+Means, SolnCost: 90.54, # Nodes Gen: 337957.53, Itrs: 91.57, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.09, expand: 2.41, check: 0.60, heur: 2.36, add: 0.11, itr: 5.57, num_itrs: 100
+State: 76, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.47, Solved: True, Time: 5.72
+Means, SolnCost: 90.65, # Nodes Gen: 338393.71, Itrs: 91.68, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.08, expand: 2.15, check: 0.51, heur: 1.74, add: 0.08, itr: 4.56, num_itrs: 84
+State: 77, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.79, Solved: True, Time: 4.72
+Means, SolnCost: 90.55, # Nodes Gen: 337998.21, Itrs: 91.58, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.07, expand: 2.04, check: 0.48, heur: 1.66, add: 0.08, itr: 4.33, num_itrs: 80
+State: 78, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.93, Solved: True, Time: 4.46
+Means, SolnCost: 90.41, # Nodes Gen: 337410.18, Itrs: 91.43, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.42, check: 0.59, heur: 2.02, add: 0.10, itr: 5.21, num_itrs: 97
+State: 79, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 18.15, Solved: True, Time: 5.34
+Means, SolnCost: 90.47, # Nodes Gen: 337667.30, Itrs: 91.50, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.06, check: 0.49, heur: 1.70, add: 0.08, itr: 4.40, num_itrs: 82
+State: 80, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 18.01, Solved: True, Time: 4.55
+Means, SolnCost: 90.36, # Nodes Gen: 337196.64, Itrs: 91.38, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.07, expand: 1.59, check: 0.45, heur: 1.62, add: 0.18, itr: 3.91, num_itrs: 75
+State: 81, SolnCost: 74.00, # Nodes Gen: 269,980, Itrs: 75, Itrs/sec: 18.56, Solved: True, Time: 4.04
+Means, SolnCost: 90.16, # Nodes Gen: 336376.93, Itrs: 91.18, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.45, check: 0.60, heur: 2.03, add: 0.10, itr: 5.26, num_itrs: 97
+State: 82, SolnCost: 96.00, # Nodes Gen: 360,800, Itrs: 97, Itrs/sec: 18.01, Solved: True, Time: 5.39
+Means, SolnCost: 90.23, # Nodes Gen: 336671.18, Itrs: 91.25, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.03, check: 0.60, heur: 2.40, add: 0.10, itr: 5.22, num_itrs: 98
+State: 83, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 18.23, Solved: True, Time: 5.38
+Means, SolnCost: 90.31, # Nodes Gen: 336991.10, Itrs: 91.33, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.20, check: 0.56, heur: 2.02, add: 0.10, itr: 4.96, num_itrs: 92
+State: 84, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.98, Solved: True, Time: 5.12
+Means, SolnCost: 90.32, # Nodes Gen: 337021.13, Itrs: 91.34, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 1.96, check: 0.52, heur: 1.98, add: 0.09, itr: 4.63, num_itrs: 86
+State: 85, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 18.01, Solved: True, Time: 4.77
+Means, SolnCost: 90.26, # Nodes Gen: 336771.40, Itrs: 91.28, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 1.90, check: 0.52, heur: 2.00, add: 0.08, itr: 4.58, num_itrs: 85
+State: 86, SolnCost: 84.00, # Nodes Gen: 312,800, Itrs: 85, Itrs/sec: 18.03, Solved: True, Time: 4.71
+Means, SolnCost: 90.18, # Nodes Gen: 336495.86, Itrs: 91.21, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.08, expand: 2.11, check: 0.53, heur: 1.79, add: 0.09, itr: 4.59, num_itrs: 86
+State: 87, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 18.19, Solved: True, Time: 4.73
+Means, SolnCost: 90.12, # Nodes Gen: 336257.77, Itrs: 91.15, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.40, check: 0.62, heur: 2.14, add: 0.29, itr: 5.54, num_itrs: 103
+State: 88, SolnCost: 102.00, # Nodes Gen: 381,980, Itrs: 103, Itrs/sec: 18.11, Solved: True, Time: 5.69
+Means, SolnCost: 90.26, # Nodes Gen: 336771.51, Itrs: 91.28, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.07, expand: 1.99, check: 0.46, heur: 1.61, add: 0.08, itr: 4.22, num_itrs: 78
+State: 89, SolnCost: 77.00, # Nodes Gen: 283,544, Itrs: 78, Itrs/sec: 17.83, Solved: True, Time: 4.37
+Means, SolnCost: 90.11, # Nodes Gen: 336180.09, Itrs: 91.13, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.08, expand: 1.95, check: 0.55, heur: 2.10, add: 0.22, itr: 4.90, num_itrs: 91
+State: 90, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 18.08, Solved: True, Time: 5.03
+Means, SolnCost: 90.11, # Nodes Gen: 336176.18, Itrs: 91.13, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.08, expand: 2.37, check: 0.55, heur: 1.88, add: 0.09, itr: 4.97, num_itrs: 90
+State: 91, SolnCost: 89.00, # Nodes Gen: 333,304, Itrs: 90, Itrs/sec: 17.58, Solved: True, Time: 5.12
+Means, SolnCost: 90.10, # Nodes Gen: 336144.96, Itrs: 91.12, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.08, expand: 2.19, check: 0.54, heur: 1.83, add: 0.15, itr: 4.79, num_itrs: 88
+State: 92, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.83, Solved: True, Time: 4.94
+Means, SolnCost: 90.06, # Nodes Gen: 336009.46, Itrs: 91.09, Itrs/sec: 17.93, Solved: 100.00%, Time: 5.11
+
+Times - pop: 0.08, expand: 2.28, check: 0.57, heur: 2.17, add: 0.09, itr: 5.20, num_itrs: 93
+State: 93, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 17.42, Solved: True, Time: 5.34
+Means, SolnCost: 90.09, # Nodes Gen: 336092.60, Itrs: 91.11, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.31, check: 0.58, heur: 2.02, add: 0.17, itr: 5.16, num_itrs: 94
+State: 94, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.71, Solved: True, Time: 5.31
+Means, SolnCost: 90.12, # Nodes Gen: 336213.14, Itrs: 91.14, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.27, check: 0.58, heur: 1.96, add: 0.19, itr: 5.08, num_itrs: 94
+State: 95, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.95, Solved: True, Time: 5.24
+Means, SolnCost: 90.15, # Nodes Gen: 336331.17, Itrs: 91.17, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.74, check: 0.62, heur: 2.13, add: 0.17, itr: 5.76, num_itrs: 102
+State: 96, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 17.25, Solved: True, Time: 5.91
+Means, SolnCost: 90.26, # Nodes Gen: 336776.66, Itrs: 91.28, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.00, check: 0.57, heur: 1.96, add: 0.39, itr: 5.01, num_itrs: 94
+State: 97, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 18.18, Solved: True, Time: 5.17
+Means, SolnCost: 90.29, # Nodes Gen: 336886.53, Itrs: 91.31, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.14, check: 0.59, heur: 2.05, add: 0.34, itr: 5.21, num_itrs: 98
+State: 98, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 18.28, Solved: True, Time: 5.36
+Means, SolnCost: 90.35, # Nodes Gen: 337155.80, Itrs: 91.37, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.33, check: 0.59, heur: 2.00, add: 0.09, itr: 5.11, num_itrs: 96
+State: 99, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 18.21, Solved: True, Time: 5.27
+Means, SolnCost: 90.40, # Nodes Gen: 337339.68, Itrs: 91.42, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.63, check: 0.61, heur: 2.09, add: 0.10, itr: 5.52, num_itrs: 100
+State: 100, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.62, Solved: True, Time: 5.67
+Means, SolnCost: 90.49, # Nodes Gen: 337678.34, Itrs: 91.50, Itrs/sec: 17.92, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.74, check: 0.61, heur: 2.13, add: 0.11, itr: 5.69, num_itrs: 100
+State: 101, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.10, Solved: True, Time: 5.85
+Means, SolnCost: 90.57, # Nodes Gen: 338010.35, Itrs: 91.59, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.01, check: 0.50, heur: 1.86, add: 0.08, itr: 4.54, num_itrs: 83
+State: 102, SolnCost: 82.00, # Nodes Gen: 301,980, Itrs: 83, Itrs/sec: 17.64, Solved: True, Time: 4.70
+Means, SolnCost: 90.49, # Nodes Gen: 337660.54, Itrs: 91.50, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.58, check: 0.63, heur: 2.14, add: 0.11, itr: 5.54, num_itrs: 102
+State: 103, SolnCost: 101.00, # Nodes Gen: 381,304, Itrs: 102, Itrs/sec: 17.95, Solved: True, Time: 5.68
+Means, SolnCost: 90.59, # Nodes Gen: 338080.19, Itrs: 91.61, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.09, expand: 2.18, check: 0.58, heur: 2.09, add: 0.18, itr: 5.12, num_itrs: 95
+State: 104, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 17.98, Solved: True, Time: 5.28
+Means, SolnCost: 90.62, # Nodes Gen: 338193.52, Itrs: 91.64, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.07, expand: 1.83, check: 0.47, heur: 1.69, add: 0.08, itr: 4.14, num_itrs: 78
+State: 105, SolnCost: 77.00, # Nodes Gen: 283,544, Itrs: 78, Itrs/sec: 18.20, Solved: True, Time: 4.29
+Means, SolnCost: 90.49, # Nodes Gen: 337677.96, Itrs: 91.51, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.68, check: 0.62, heur: 2.11, add: 0.18, itr: 5.68, num_itrs: 101
+State: 106, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 17.37, Solved: True, Time: 5.81
+Means, SolnCost: 90.58, # Nodes Gen: 338017.23, Itrs: 91.60, Itrs/sec: 17.91, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.27, check: 0.58, heur: 2.19, add: 0.10, itr: 5.23, num_itrs: 96
+State: 107, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.81, Solved: True, Time: 5.39
+Means, SolnCost: 90.62, # Nodes Gen: 338179.52, Itrs: 91.64, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.11, expand: 2.90, check: 0.66, heur: 2.20, add: 0.11, itr: 5.97, num_itrs: 105
+State: 108, SolnCost: 103.00, # Nodes Gen: 393,304, Itrs: 105, Itrs/sec: 17.12, Solved: True, Time: 6.13
+Means, SolnCost: 90.73, # Nodes Gen: 338685.25, Itrs: 91.76, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.07, expand: 2.03, check: 0.48, heur: 1.63, add: 0.08, itr: 4.29, num_itrs: 79
+State: 109, SolnCost: 78.00, # Nodes Gen: 285,980, Itrs: 79, Itrs/sec: 17.72, Solved: True, Time: 4.46
+Means, SolnCost: 90.62, # Nodes Gen: 338206.11, Itrs: 91.65, Itrs/sec: 17.90, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.21, check: 0.55, heur: 1.89, add: 0.27, itr: 5.01, num_itrs: 90
+State: 110, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.53, Solved: True, Time: 5.14
+Means, SolnCost: 90.60, # Nodes Gen: 338146.09, Itrs: 91.63, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.17, check: 0.54, heur: 1.89, add: 0.09, itr: 4.77, num_itrs: 89
+State: 111, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.10, Solved: True, Time: 4.92
+Means, SolnCost: 90.58, # Nodes Gen: 338037.46, Itrs: 91.61, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.28, check: 0.56, heur: 1.93, add: 0.09, itr: 4.95, num_itrs: 91
+State: 112, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.87, Solved: True, Time: 5.09
+Means, SolnCost: 90.58, # Nodes Gen: 338001.56, Itrs: 91.60, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.07, expand: 1.52, check: 0.43, heur: 1.54, add: 0.35, itr: 3.90, num_itrs: 72
+State: 113, SolnCost: 71.00, # Nodes Gen: 259,544, Itrs: 72, Itrs/sec: 17.81, Solved: True, Time: 4.04
+Means, SolnCost: 90.40, # Nodes Gen: 337313.33, Itrs: 91.43, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.07, expand: 2.18, check: 0.50, heur: 1.81, add: 0.08, itr: 4.65, num_itrs: 84
+State: 114, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.60, Solved: True, Time: 4.77
+Means, SolnCost: 90.34, # Nodes Gen: 337054.47, Itrs: 91.37, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.30, check: 0.56, heur: 1.90, add: 0.09, itr: 4.93, num_itrs: 91
+State: 115, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.94, Solved: True, Time: 5.07
+Means, SolnCost: 90.34, # Nodes Gen: 337027.97, Itrs: 91.36, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 2.05, check: 0.51, heur: 1.73, add: 0.14, itr: 4.51, num_itrs: 83
+State: 116, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 17.83, Solved: True, Time: 4.66
+Means, SolnCost: 90.26, # Nodes Gen: 336752.51, Itrs: 91.29, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.07, expand: 2.05, check: 0.48, heur: 1.64, add: 0.08, itr: 4.33, num_itrs: 79
+State: 117, SolnCost: 78.00, # Nodes Gen: 288,800, Itrs: 79, Itrs/sec: 17.72, Solved: True, Time: 4.46
+Means, SolnCost: 90.16, # Nodes Gen: 336346.14, Itrs: 91.19, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.08, expand: 1.98, check: 0.50, heur: 1.70, add: 0.08, itr: 4.34, num_itrs: 82
+State: 118, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 18.35, Solved: True, Time: 4.47
+Means, SolnCost: 90.08, # Nodes Gen: 336036.87, Itrs: 91.11, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.60, check: 0.64, heur: 2.15, add: 0.10, itr: 5.58, num_itrs: 103
+State: 119, SolnCost: 102.00, # Nodes Gen: 381,980, Itrs: 103, Itrs/sec: 18.00, Solved: True, Time: 5.72
+Means, SolnCost: 90.18, # Nodes Gen: 336419.73, Itrs: 91.21, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.10, expand: 2.41, check: 0.66, heur: 2.71, add: 0.11, itr: 5.99, num_itrs: 107
+State: 120, SolnCost: 106.00, # Nodes Gen: 399,824, Itrs: 107, Itrs/sec: 17.37, Solved: True, Time: 6.16
+Means, SolnCost: 90.31, # Nodes Gen: 336943.74, Itrs: 91.34, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 2.01, check: 0.54, heur: 1.87, add: 0.27, itr: 4.76, num_itrs: 88
+State: 121, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.85, Solved: True, Time: 4.93
+Means, SolnCost: 90.29, # Nodes Gen: 336833.90, Itrs: 91.31, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.29, check: 0.62, heur: 2.37, add: 0.10, itr: 5.47, num_itrs: 99
+State: 122, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.63, Solved: True, Time: 5.62
+Means, SolnCost: 90.35, # Nodes Gen: 337070.86, Itrs: 91.37, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 2.01, check: 0.54, heur: 1.86, add: 0.48, itr: 4.97, num_itrs: 89
+State: 123, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 17.34, Solved: True, Time: 5.13
+Means, SolnCost: 90.33, # Nodes Gen: 336996.29, Itrs: 91.35, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.48, check: 0.58, heur: 1.97, add: 0.09, itr: 5.21, num_itrs: 94
+State: 124, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.56, Solved: True, Time: 5.35
+Means, SolnCost: 90.35, # Nodes Gen: 337080.67, Itrs: 91.38, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.06, expand: 1.71, check: 0.42, heur: 1.49, add: 0.07, itr: 3.75, num_itrs: 72
+State: 125, SolnCost: 71.00, # Nodes Gen: 259,544, Itrs: 72, Itrs/sec: 18.48, Solved: True, Time: 3.90
+Means, SolnCost: 90.20, # Nodes Gen: 336465.30, Itrs: 91.22, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.33, check: 0.58, heur: 2.01, add: 0.10, itr: 5.12, num_itrs: 96
+State: 126, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 18.32, Solved: True, Time: 5.24
+Means, SolnCost: 90.24, # Nodes Gen: 336615.53, Itrs: 91.26, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.32, check: 0.57, heur: 1.97, add: 0.10, itr: 5.04, num_itrs: 94
+State: 127, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 18.07, Solved: True, Time: 5.20
+Means, SolnCost: 90.26, # Nodes Gen: 336714.66, Itrs: 91.28, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.07, expand: 1.90, check: 0.46, heur: 1.60, add: 0.07, itr: 4.10, num_itrs: 77
+State: 128, SolnCost: 76.00, # Nodes Gen: 277,980, Itrs: 77, Itrs/sec: 18.11, Solved: True, Time: 4.25
+Means, SolnCost: 90.15, # Nodes Gen: 336259.35, Itrs: 91.17, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.24, check: 0.58, heur: 2.13, add: 0.10, itr: 5.13, num_itrs: 95
+State: 129, SolnCost: 94.00, # Nodes Gen: 352,800, Itrs: 95, Itrs/sec: 18.06, Solved: True, Time: 5.26
+Means, SolnCost: 90.18, # Nodes Gen: 336386.58, Itrs: 91.20, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.12
+
+Times - pop: 0.09, expand: 2.54, check: 0.61, heur: 2.07, add: 0.18, itr: 5.49, num_itrs: 99
+State: 130, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.54, Solved: True, Time: 5.64
+Means, SolnCost: 90.24, # Nodes Gen: 336612.49, Itrs: 91.26, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.10, expand: 2.68, check: 0.65, heur: 2.35, add: 0.11, itr: 5.88, num_itrs: 105
+State: 131, SolnCost: 104.00, # Nodes Gen: 391,824, Itrs: 105, Itrs/sec: 17.36, Solved: True, Time: 6.05
+Means, SolnCost: 90.34, # Nodes Gen: 337030.76, Itrs: 91.36, Itrs/sec: 17.89, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.10, expand: 2.85, check: 0.62, heur: 2.16, add: 0.11, itr: 5.83, num_itrs: 103
+State: 132, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.16, Solved: True, Time: 6.00
+Means, SolnCost: 90.43, # Nodes Gen: 337382.59, Itrs: 91.45, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.06, expand: 1.83, check: 0.44, heur: 1.53, add: 0.07, itr: 3.94, num_itrs: 74
+State: 133, SolnCost: 73.00, # Nodes Gen: 267,544, Itrs: 74, Itrs/sec: 17.98, Solved: True, Time: 4.12
+Means, SolnCost: 90.30, # Nodes Gen: 336861.40, Itrs: 91.32, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.71, check: 0.61, heur: 2.10, add: 0.10, itr: 5.60, num_itrs: 100
+State: 134, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.45, Solved: True, Time: 5.73
+Means, SolnCost: 90.36, # Nodes Gen: 337118.31, Itrs: 91.39, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.02, check: 0.53, heur: 1.80, add: 0.17, itr: 4.59, num_itrs: 86
+State: 135, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 18.11, Solved: True, Time: 4.75
+Means, SolnCost: 90.32, # Nodes Gen: 336972.62, Itrs: 91.35, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 1.92, check: 0.53, heur: 1.90, add: 0.30, itr: 4.72, num_itrs: 88
+State: 136, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 18.10, Solved: True, Time: 4.86
+Means, SolnCost: 90.30, # Nodes Gen: 336874.60, Itrs: 91.32, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 1.95, check: 0.58, heur: 2.33, add: 0.20, itr: 5.14, num_itrs: 95
+State: 137, SolnCost: 94.00, # Nodes Gen: 351,824, Itrs: 95, Itrs/sec: 17.96, Solved: True, Time: 5.29
+Means, SolnCost: 90.33, # Nodes Gen: 336982.93, Itrs: 91.35, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 2.05, check: 0.53, heur: 1.91, add: 0.31, itr: 4.89, num_itrs: 86
+State: 138, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 17.06, Solved: True, Time: 5.04
+Means, SolnCost: 90.29, # Nodes Gen: 336841.35, Itrs: 91.31, Itrs/sec: 17.88, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.19, check: 0.57, heur: 2.16, add: 0.20, itr: 5.20, num_itrs: 93
+State: 139, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 17.40, Solved: True, Time: 5.34
+Means, SolnCost: 90.30, # Nodes Gen: 336878.06, Itrs: 91.32, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.08, expand: 2.15, check: 0.54, heur: 1.86, add: 0.09, itr: 4.72, num_itrs: 87
+State: 140, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.85, Solved: True, Time: 4.87
+Means, SolnCost: 90.27, # Nodes Gen: 336744.03, Itrs: 91.29, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.61, check: 0.61, heur: 2.06, add: 0.10, itr: 5.47, num_itrs: 98
+State: 141, SolnCost: 97.00, # Nodes Gen: 365,304, Itrs: 98, Itrs/sec: 17.45, Solved: True, Time: 5.62
+Means, SolnCost: 90.32, # Nodes Gen: 336945.15, Itrs: 91.34, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.13
+
+Times - pop: 0.09, expand: 2.34, check: 0.61, heur: 2.18, add: 0.20, itr: 5.42, num_itrs: 100
+State: 142, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.92, Solved: True, Time: 5.58
+Means, SolnCost: 90.38, # Nodes Gen: 337187.10, Itrs: 91.40, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.63, check: 0.61, heur: 2.04, add: 0.10, itr: 5.47, num_itrs: 97
+State: 143, SolnCost: 96.00, # Nodes Gen: 360,800, Itrs: 97, Itrs/sec: 17.21, Solved: True, Time: 5.64
+Means, SolnCost: 90.42, # Nodes Gen: 337351.08, Itrs: 91.44, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.04, check: 0.56, heur: 1.91, add: 0.31, itr: 4.90, num_itrs: 91
+State: 144, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.98, Solved: True, Time: 5.06
+Means, SolnCost: 90.41, # Nodes Gen: 337347.28, Itrs: 91.43, Itrs/sec: 17.87, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.66, check: 0.61, heur: 2.05, add: 0.10, itr: 5.50, num_itrs: 98
+State: 145, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.32, Solved: True, Time: 5.66
+Means, SolnCost: 90.46, # Nodes Gen: 337526.71, Itrs: 91.48, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.57, check: 0.60, heur: 2.00, add: 0.10, itr: 5.35, num_itrs: 95
+State: 146, SolnCost: 94.00, # Nodes Gen: 353,752, Itrs: 95, Itrs/sec: 17.23, Solved: True, Time: 5.51
+Means, SolnCost: 90.48, # Nodes Gen: 337637.09, Itrs: 91.50, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.06, check: 0.54, heur: 1.87, add: 0.23, itr: 4.79, num_itrs: 89
+State: 147, SolnCost: 88.00, # Nodes Gen: 328,800, Itrs: 89, Itrs/sec: 18.00, Solved: True, Time: 4.94
+Means, SolnCost: 90.47, # Nodes Gen: 337577.38, Itrs: 91.49, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.07, expand: 1.91, check: 0.50, heur: 1.71, add: 0.30, itr: 4.49, num_itrs: 82
+State: 148, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.69, Solved: True, Time: 4.64
+Means, SolnCost: 90.40, # Nodes Gen: 337322.12, Itrs: 91.42, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.43, check: 0.56, heur: 1.96, add: 0.10, itr: 5.14, num_itrs: 94
+State: 149, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.82, Solved: True, Time: 5.27
+Means, SolnCost: 90.42, # Nodes Gen: 337390.27, Itrs: 91.44, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.47, check: 0.58, heur: 2.01, add: 0.10, itr: 5.24, num_itrs: 94
+State: 150, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.42, Solved: True, Time: 5.40
+Means, SolnCost: 90.44, # Nodes Gen: 337457.51, Itrs: 91.46, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.07, expand: 1.68, check: 0.46, heur: 1.58, add: 0.31, itr: 4.11, num_itrs: 76
+State: 151, SolnCost: 75.00, # Nodes Gen: 277,304, Itrs: 76, Itrs/sec: 17.86, Solved: True, Time: 4.25
+Means, SolnCost: 90.34, # Nodes Gen: 337061.76, Itrs: 91.36, Itrs/sec: 17.86, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.10, expand: 2.87, check: 0.64, heur: 2.17, add: 0.10, itr: 5.88, num_itrs: 103
+State: 152, SolnCost: 102.00, # Nodes Gen: 384,800, Itrs: 103, Itrs/sec: 17.12, Solved: True, Time: 6.01
+Means, SolnCost: 90.41, # Nodes Gen: 337373.78, Itrs: 91.43, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.00, check: 0.55, heur: 1.89, add: 0.54, itr: 5.06, num_itrs: 90
+State: 153, SolnCost: 89.00, # Nodes Gen: 333,304, Itrs: 90, Itrs/sec: 17.23, Solved: True, Time: 5.22
+Means, SolnCost: 90.40, # Nodes Gen: 337347.35, Itrs: 91.42, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.24, check: 0.55, heur: 1.92, add: 0.10, itr: 4.89, num_itrs: 91
+State: 154, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 18.02, Solved: True, Time: 5.05
+Means, SolnCost: 90.40, # Nodes Gen: 337337.52, Itrs: 91.42, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.11, expand: 2.18, check: 0.63, heur: 2.12, add: 0.56, itr: 5.59, num_itrs: 101
+State: 155, SolnCost: 100.00, # Nodes Gen: 375,824, Itrs: 101, Itrs/sec: 17.59, Solved: True, Time: 5.74
+Means, SolnCost: 90.46, # Nodes Gen: 337584.23, Itrs: 91.48, Itrs/sec: 17.85, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.05, check: 0.51, heur: 1.82, add: 0.08, itr: 4.54, num_itrs: 83
+State: 156, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 17.64, Solved: True, Time: 4.71
+Means, SolnCost: 90.41, # Nodes Gen: 337375.41, Itrs: 91.43, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.08, expand: 2.41, check: 0.56, heur: 1.91, add: 0.16, itr: 5.12, num_itrs: 91
+State: 157, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.30, Solved: True, Time: 5.26
+Means, SolnCost: 90.41, # Nodes Gen: 337365.59, Itrs: 91.42, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.07, expand: 1.85, check: 0.48, heur: 1.84, add: 0.08, itr: 4.32, num_itrs: 79
+State: 158, SolnCost: 78.00, # Nodes Gen: 287,824, Itrs: 79, Itrs/sec: 17.67, Solved: True, Time: 4.47
+Means, SolnCost: 90.33, # Nodes Gen: 337054.01, Itrs: 91.35, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.11, check: 0.52, heur: 1.99, add: 0.09, itr: 4.79, num_itrs: 86
+State: 159, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.48, Solved: True, Time: 4.92
+Means, SolnCost: 90.29, # Nodes Gen: 336919.58, Itrs: 91.31, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.08, expand: 2.18, check: 0.56, heur: 2.13, add: 0.09, itr: 5.06, num_itrs: 91
+State: 160, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.50, Solved: True, Time: 5.20
+Means, SolnCost: 90.29, # Nodes Gen: 336918.83, Itrs: 91.31, Itrs/sec: 17.84, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.15, check: 0.59, heur: 2.12, add: 0.47, itr: 5.43, num_itrs: 96
+State: 161, SolnCost: 95.00, # Nodes Gen: 357,304, Itrs: 96, Itrs/sec: 17.19, Solved: True, Time: 5.58
+Means, SolnCost: 90.32, # Nodes Gen: 337044.67, Itrs: 91.34, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.14
+
+Times - pop: 0.09, expand: 2.71, check: 0.60, heur: 2.03, add: 0.10, itr: 5.53, num_itrs: 97
+State: 162, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.04, Solved: True, Time: 5.69
+Means, SolnCost: 90.36, # Nodes Gen: 337184.42, Itrs: 91.37, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.09, expand: 2.51, check: 0.60, heur: 2.07, add: 0.20, itr: 5.48, num_itrs: 99
+State: 163, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.55, Solved: True, Time: 5.64
+Means, SolnCost: 90.40, # Nodes Gen: 337360.00, Itrs: 91.42, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.15
+
+Times - pop: 0.10, expand: 2.76, check: 0.65, heur: 2.21, add: 0.11, itr: 5.83, num_itrs: 105
+State: 164, SolnCost: 104.00, # Nodes Gen: 392,800, Itrs: 105, Itrs/sec: 17.51, Solved: True, Time: 6.00
+Means, SolnCost: 90.48, # Nodes Gen: 337696.00, Itrs: 91.50, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.09, expand: 2.42, check: 0.61, heur: 2.17, add: 0.10, itr: 5.40, num_itrs: 100
+State: 165, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.94, Solved: True, Time: 5.57
+Means, SolnCost: 90.54, # Nodes Gen: 337899.90, Itrs: 91.55, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.09, expand: 2.38, check: 0.59, heur: 2.01, add: 0.10, itr: 5.17, num_itrs: 96
+State: 166, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.99, Solved: True, Time: 5.34
+Means, SolnCost: 90.56, # Nodes Gen: 338005.56, Itrs: 91.58, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.09, expand: 2.05, check: 0.58, heur: 2.18, add: 0.19, itr: 5.09, num_itrs: 94
+State: 167, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.91, Solved: True, Time: 5.25
+Means, SolnCost: 90.58, # Nodes Gen: 338072.81, Itrs: 91.60, Itrs/sec: 17.83, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.08, expand: 2.36, check: 0.55, heur: 1.91, add: 0.10, itr: 5.00, num_itrs: 91
+State: 168, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.67, Solved: True, Time: 5.15
+Means, SolnCost: 90.57, # Nodes Gen: 338065.28, Itrs: 91.59, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.09, expand: 2.37, check: 0.57, heur: 1.94, add: 0.09, itr: 5.06, num_itrs: 93
+State: 169, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 17.84, Solved: True, Time: 5.21
+Means, SolnCost: 90.58, # Nodes Gen: 338088.31, Itrs: 91.60, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.08, expand: 2.21, check: 0.55, heur: 1.91, add: 0.28, itr: 5.03, num_itrs: 91
+State: 170, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.55, Solved: True, Time: 5.19
+Means, SolnCost: 90.58, # Nodes Gen: 338075.06, Itrs: 91.60, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.16
+
+Times - pop: 0.11, expand: 2.65, check: 0.68, heur: 2.53, add: 0.26, itr: 6.23, num_itrs: 112
+State: 171, SolnCost: 111.00, # Nodes Gen: 421,304, Itrs: 112, Itrs/sec: 17.53, Solved: True, Time: 6.39
+Means, SolnCost: 90.70, # Nodes Gen: 338558.95, Itrs: 91.72, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.08, expand: 1.96, check: 0.56, heur: 2.07, add: 0.09, itr: 4.76, num_itrs: 89
+State: 172, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 18.02, Solved: True, Time: 4.94
+Means, SolnCost: 90.68, # Nodes Gen: 338496.90, Itrs: 91.70, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.71, check: 0.61, heur: 2.10, add: 0.10, itr: 5.62, num_itrs: 100
+State: 173, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.34, Solved: True, Time: 5.77
+Means, SolnCost: 90.73, # Nodes Gen: 338686.83, Itrs: 91.75, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.10, expand: 2.80, check: 0.64, heur: 2.21, add: 0.23, itr: 5.98, num_itrs: 105
+State: 174, SolnCost: 104.00, # Nodes Gen: 391,824, Itrs: 105, Itrs/sec: 17.08, Solved: True, Time: 6.15
+Means, SolnCost: 90.81, # Nodes Gen: 338990.47, Itrs: 91.82, Itrs/sec: 17.82, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.39, check: 0.58, heur: 1.97, add: 0.21, itr: 5.25, num_itrs: 94
+State: 175, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.34, Solved: True, Time: 5.42
+Means, SolnCost: 90.82, # Nodes Gen: 339039.07, Itrs: 91.84, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 2.41, check: 0.56, heur: 1.91, add: 0.09, itr: 5.06, num_itrs: 91
+State: 176, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.47, Solved: True, Time: 5.21
+Means, SolnCost: 90.81, # Nodes Gen: 339020.90, Itrs: 91.83, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.10, expand: 2.70, check: 0.63, heur: 2.17, add: 0.11, itr: 5.71, num_itrs: 103
+State: 177, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.58, Solved: True, Time: 5.86
+Means, SolnCost: 90.88, # Nodes Gen: 339272.61, Itrs: 91.89, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 1.69, check: 0.52, heur: 1.98, add: 0.24, itr: 4.52, num_itrs: 85
+State: 178, SolnCost: 84.00, # Nodes Gen: 313,752, Itrs: 85, Itrs/sec: 18.13, Solved: True, Time: 4.69
+Means, SolnCost: 90.84, # Nodes Gen: 339130.03, Itrs: 91.85, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.54, check: 0.59, heur: 2.02, add: 0.10, itr: 5.33, num_itrs: 95
+State: 179, SolnCost: 94.00, # Nodes Gen: 352,800, Itrs: 95, Itrs/sec: 17.35, Solved: True, Time: 5.47
+Means, SolnCost: 90.86, # Nodes Gen: 339205.98, Itrs: 91.87, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 2.27, check: 0.56, heur: 1.89, add: 0.16, itr: 4.96, num_itrs: 90
+State: 180, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.59, Solved: True, Time: 5.12
+Means, SolnCost: 90.85, # Nodes Gen: 339163.65, Itrs: 91.86, Itrs/sec: 17.81, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.34, check: 0.60, heur: 2.14, add: 0.26, itr: 5.43, num_itrs: 97
+State: 181, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.37, Solved: True, Time: 5.59
+Means, SolnCost: 90.87, # Nodes Gen: 339267.03, Itrs: 91.89, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.41, check: 0.58, heur: 2.17, add: 0.10, itr: 5.34, num_itrs: 94
+State: 182, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.09, Solved: True, Time: 5.50
+Means, SolnCost: 90.89, # Nodes Gen: 339321.88, Itrs: 91.90, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.28, check: 0.61, heur: 2.35, add: 0.32, itr: 5.66, num_itrs: 101
+State: 183, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 17.36, Solved: True, Time: 5.82
+Means, SolnCost: 90.93, # Nodes Gen: 339510.24, Itrs: 91.95, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 1.83, check: 0.51, heur: 1.86, add: 0.17, itr: 4.45, num_itrs: 83
+State: 184, SolnCost: 82.00, # Nodes Gen: 301,980, Itrs: 83, Itrs/sec: 18.00, Solved: True, Time: 4.61
+Means, SolnCost: 90.89, # Nodes Gen: 339307.37, Itrs: 91.90, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.06, expand: 1.80, check: 0.44, heur: 1.54, add: 0.07, itr: 3.92, num_itrs: 73
+State: 185, SolnCost: 72.00, # Nodes Gen: 264,800, Itrs: 73, Itrs/sec: 18.00, Solved: True, Time: 4.06
+Means, SolnCost: 90.78, # Nodes Gen: 338906.80, Itrs: 91.80, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 2.20, check: 0.52, heur: 1.80, add: 0.08, itr: 4.69, num_itrs: 85
+State: 186, SolnCost: 84.00, # Nodes Gen: 311,824, Itrs: 85, Itrs/sec: 17.65, Solved: True, Time: 4.82
+Means, SolnCost: 90.75, # Nodes Gen: 338761.97, Itrs: 91.76, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.08, expand: 2.00, check: 0.51, heur: 1.80, add: 0.28, itr: 4.67, num_itrs: 84
+State: 187, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.46, Solved: True, Time: 4.81
+Means, SolnCost: 90.71, # Nodes Gen: 338595.91, Itrs: 91.72, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.26, check: 0.56, heur: 2.07, add: 0.09, itr: 5.08, num_itrs: 92
+State: 188, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.62, Solved: True, Time: 5.22
+Means, SolnCost: 90.71, # Nodes Gen: 338600.93, Itrs: 91.72, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 1.88, check: 0.53, heur: 1.79, add: 0.29, itr: 4.59, num_itrs: 86
+State: 189, SolnCost: 84.00, # Nodes Gen: 313,980, Itrs: 86, Itrs/sec: 18.14, Solved: True, Time: 4.74
+Means, SolnCost: 90.67, # Nodes Gen: 338471.35, Itrs: 91.69, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.08, expand: 1.69, check: 0.51, heur: 2.06, add: 0.31, itr: 4.64, num_itrs: 84
+State: 190, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.55, Solved: True, Time: 4.79
+Means, SolnCost: 90.63, # Nodes Gen: 338309.42, Itrs: 91.65, Itrs/sec: 17.80, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.78, check: 0.62, heur: 2.12, add: 0.10, itr: 5.71, num_itrs: 101
+State: 191, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 17.26, Solved: True, Time: 5.85
+Means, SolnCost: 90.68, # Nodes Gen: 338495.21, Itrs: 91.70, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.44, check: 0.61, heur: 2.07, add: 0.20, itr: 5.42, num_itrs: 98
+State: 192, SolnCost: 97.00, # Nodes Gen: 365,304, Itrs: 98, Itrs/sec: 17.55, Solved: True, Time: 5.58
+Means, SolnCost: 90.72, # Nodes Gen: 338634.11, Itrs: 91.74, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.11, check: 0.56, heur: 1.95, add: 0.32, itr: 5.03, num_itrs: 93
+State: 193, SolnCost: 92.00, # Nodes Gen: 344,800, Itrs: 93, Itrs/sec: 17.90, Solved: True, Time: 5.20
+Means, SolnCost: 90.72, # Nodes Gen: 338665.90, Itrs: 91.74, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.17
+
+Times - pop: 0.09, expand: 2.57, check: 0.63, heur: 2.11, add: 0.19, itr: 5.59, num_itrs: 100
+State: 194, SolnCost: 99.00, # Nodes Gen: 373,304, Itrs: 100, Itrs/sec: 17.38, Solved: True, Time: 5.75
+Means, SolnCost: 90.76, # Nodes Gen: 338843.53, Itrs: 91.78, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.35, check: 0.57, heur: 1.95, add: 0.34, itr: 5.30, num_itrs: 93
+State: 195, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 17.03, Solved: True, Time: 5.46
+Means, SolnCost: 90.77, # Nodes Gen: 338868.94, Itrs: 91.79, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.08, expand: 2.44, check: 0.54, heur: 1.88, add: 0.09, itr: 5.04, num_itrs: 89
+State: 196, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 17.16, Solved: True, Time: 5.19
+Means, SolnCost: 90.76, # Nodes Gen: 338803.51, Itrs: 91.78, Itrs/sec: 17.79, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.38, check: 0.59, heur: 2.16, add: 0.10, itr: 5.31, num_itrs: 95
+State: 197, SolnCost: 94.00, # Nodes Gen: 352,800, Itrs: 95, Itrs/sec: 17.38, Solved: True, Time: 5.47
+Means, SolnCost: 90.77, # Nodes Gen: 338874.20, Itrs: 91.79, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.01, check: 0.56, heur: 2.05, add: 0.32, itr: 5.03, num_itrs: 92
+State: 198, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.74, Solved: True, Time: 5.19
+Means, SolnCost: 90.77, # Nodes Gen: 338877.57, Itrs: 91.79, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.10, expand: 2.72, check: 0.63, heur: 2.17, add: 0.11, itr: 5.73, num_itrs: 103
+State: 199, SolnCost: 102.00, # Nodes Gen: 384,800, Itrs: 103, Itrs/sec: 17.51, Solved: True, Time: 5.88
+Means, SolnCost: 90.83, # Nodes Gen: 339107.18, Itrs: 91.85, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.49, check: 0.56, heur: 1.92, add: 0.09, itr: 5.15, num_itrs: 91
+State: 200, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.11, Solved: True, Time: 5.32
+Means, SolnCost: 90.83, # Nodes Gen: 339095.70, Itrs: 91.85, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.18
+
+Times - pop: 0.09, expand: 2.59, check: 0.60, heur: 2.13, add: 0.17, itr: 5.58, num_itrs: 99
+State: 201, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.26, Solved: True, Time: 5.74
+Means, SolnCost: 90.86, # Nodes Gen: 339228.79, Itrs: 91.88, Itrs/sec: 17.78, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.32, check: 0.57, heur: 2.03, add: 0.09, itr: 5.10, num_itrs: 93
+State: 202, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 17.68, Solved: True, Time: 5.26
+Means, SolnCost: 90.87, # Nodes Gen: 339242.34, Itrs: 91.89, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.41, check: 0.56, heur: 1.93, add: 0.09, itr: 5.07, num_itrs: 92
+State: 203, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.60, Solved: True, Time: 5.23
+Means, SolnCost: 90.87, # Nodes Gen: 339243.82, Itrs: 91.89, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.47, check: 0.60, heur: 2.04, add: 0.10, itr: 5.30, num_itrs: 97
+State: 204, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.78, Solved: True, Time: 5.46
+Means, SolnCost: 90.89, # Nodes Gen: 339344.21, Itrs: 91.91, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.63, check: 0.59, heur: 2.07, add: 0.10, itr: 5.47, num_itrs: 96
+State: 205, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.04, Solved: True, Time: 5.64
+Means, SolnCost: 90.91, # Nodes Gen: 339422.85, Itrs: 91.93, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.49, check: 0.55, heur: 1.92, add: 0.09, itr: 5.13, num_itrs: 90
+State: 206, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.01, Solved: True, Time: 5.29
+Means, SolnCost: 90.90, # Nodes Gen: 339384.79, Itrs: 91.92, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.07, expand: 2.03, check: 0.50, heur: 1.84, add: 0.08, itr: 4.53, num_itrs: 82
+State: 207, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.55, Solved: True, Time: 4.67
+Means, SolnCost: 90.86, # Nodes Gen: 339193.25, Itrs: 91.88, Itrs/sec: 17.77, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.14, check: 0.61, heur: 2.47, add: 0.31, itr: 5.63, num_itrs: 99
+State: 208, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.16, Solved: True, Time: 5.77
+Means, SolnCost: 90.89, # Nodes Gen: 339321.42, Itrs: 91.91, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.53, check: 0.60, heur: 2.03, add: 0.10, itr: 5.35, num_itrs: 97
+State: 209, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.58, Solved: True, Time: 5.52
+Means, SolnCost: 90.91, # Nodes Gen: 339410.27, Itrs: 91.93, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.07, expand: 1.92, check: 0.48, heur: 1.75, add: 0.08, itr: 4.30, num_itrs: 79
+State: 210, SolnCost: 78.00, # Nodes Gen: 288,800, Itrs: 79, Itrs/sec: 17.74, Solved: True, Time: 4.45
+Means, SolnCost: 90.85, # Nodes Gen: 339170.41, Itrs: 91.87, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.26, check: 0.56, heur: 1.91, add: 0.25, itr: 5.06, num_itrs: 91
+State: 211, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.50, Solved: True, Time: 5.20
+Means, SolnCost: 90.85, # Nodes Gen: 339154.62, Itrs: 91.87, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.52, check: 0.56, heur: 1.90, add: 0.09, itr: 5.17, num_itrs: 91
+State: 212, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.12, Solved: True, Time: 5.32
+Means, SolnCost: 90.85, # Nodes Gen: 339130.33, Itrs: 91.86, Itrs/sec: 17.76, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.62, check: 0.61, heur: 2.09, add: 0.26, itr: 5.68, num_itrs: 99
+State: 213, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 16.98, Solved: True, Time: 5.83
+Means, SolnCost: 90.88, # Nodes Gen: 339255.79, Itrs: 91.90, Itrs/sec: 17.75, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.53, check: 0.61, heur: 2.10, add: 0.18, itr: 5.51, num_itrs: 98
+State: 214, SolnCost: 97.00, # Nodes Gen: 365,304, Itrs: 98, Itrs/sec: 17.27, Solved: True, Time: 5.68
+Means, SolnCost: 90.91, # Nodes Gen: 339376.95, Itrs: 91.93, Itrs/sec: 17.75, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.48, check: 0.61, heur: 2.26, add: 0.10, itr: 5.55, num_itrs: 99
+State: 215, SolnCost: 98.00, # Nodes Gen: 368,800, Itrs: 99, Itrs/sec: 17.32, Solved: True, Time: 5.71
+Means, SolnCost: 90.94, # Nodes Gen: 339513.17, Itrs: 91.96, Itrs/sec: 17.75, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.28, check: 0.53, heur: 1.83, add: 0.09, itr: 4.81, num_itrs: 86
+State: 216, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 17.29, Solved: True, Time: 4.97
+Means, SolnCost: 90.91, # Nodes Gen: 339410.82, Itrs: 91.93, Itrs/sec: 17.75, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.55, check: 0.60, heur: 2.08, add: 0.37, itr: 5.69, num_itrs: 99
+State: 217, SolnCost: 98.00, # Nodes Gen: 367,824, Itrs: 99, Itrs/sec: 16.95, Solved: True, Time: 5.84
+Means, SolnCost: 90.94, # Nodes Gen: 339541.16, Itrs: 91.96, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.80, check: 0.48, heur: 1.67, add: 0.42, itr: 4.44, num_itrs: 80
+State: 218, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.38, Solved: True, Time: 4.60
+Means, SolnCost: 90.89, # Nodes Gen: 339321.99, Itrs: 91.91, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.39, check: 0.60, heur: 2.04, add: 0.26, itr: 5.38, num_itrs: 97
+State: 219, SolnCost: 96.00, # Nodes Gen: 360,800, Itrs: 97, Itrs/sec: 17.58, Solved: True, Time: 5.52
+Means, SolnCost: 90.91, # Nodes Gen: 339419.62, Itrs: 91.93, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.92, check: 0.65, heur: 2.23, add: 0.11, itr: 6.01, num_itrs: 106
+State: 220, SolnCost: 105.00, # Nodes Gen: 395,544, Itrs: 106, Itrs/sec: 17.17, Solved: True, Time: 6.17
+Means, SolnCost: 90.98, # Nodes Gen: 339673.57, Itrs: 92.00, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.20, check: 0.50, heur: 1.76, add: 0.08, itr: 4.62, num_itrs: 83
+State: 221, SolnCost: 82.00, # Nodes Gen: 303,824, Itrs: 83, Itrs/sec: 17.33, Solved: True, Time: 4.79
+Means, SolnCost: 90.94, # Nodes Gen: 339512.09, Itrs: 91.95, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.25, check: 0.59, heur: 2.04, add: 0.30, itr: 5.26, num_itrs: 95
+State: 222, SolnCost: 94.00, # Nodes Gen: 351,824, Itrs: 95, Itrs/sec: 17.58, Solved: True, Time: 5.40
+Means, SolnCost: 90.95, # Nodes Gen: 339567.30, Itrs: 91.97, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.73, check: 0.46, heur: 1.78, add: 0.07, itr: 4.12, num_itrs: 76
+State: 223, SolnCost: 75.00, # Nodes Gen: 275,544, Itrs: 76, Itrs/sec: 17.80, Solved: True, Time: 4.27
+Means, SolnCost: 90.88, # Nodes Gen: 339281.48, Itrs: 91.90, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.36, check: 0.56, heur: 1.91, add: 0.09, itr: 5.00, num_itrs: 91
+State: 224, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.73, Solved: True, Time: 5.13
+Means, SolnCost: 90.88, # Nodes Gen: 339266.12, Itrs: 91.89, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.11, check: 0.54, heur: 1.85, add: 0.09, itr: 4.66, num_itrs: 87
+State: 225, SolnCost: 86.00, # Nodes Gen: 320,800, Itrs: 87, Itrs/sec: 18.07, Solved: True, Time: 4.82
+Means, SolnCost: 90.85, # Nodes Gen: 339184.41, Itrs: 91.87, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.08, check: 0.52, heur: 1.83, add: 0.19, itr: 4.72, num_itrs: 85
+State: 226, SolnCost: 84.00, # Nodes Gen: 312,800, Itrs: 85, Itrs/sec: 17.50, Solved: True, Time: 4.86
+Means, SolnCost: 90.82, # Nodes Gen: 339068.18, Itrs: 91.84, Itrs/sec: 17.74, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.64, check: 0.61, heur: 2.16, add: 0.33, itr: 5.84, num_itrs: 100
+State: 227, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 16.70, Solved: True, Time: 5.99
+Means, SolnCost: 90.86, # Nodes Gen: 339210.61, Itrs: 91.88, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.26, check: 0.60, heur: 2.36, add: 0.19, itr: 5.51, num_itrs: 98
+State: 228, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.26, Solved: True, Time: 5.68
+Means, SolnCost: 90.89, # Nodes Gen: 339316.87, Itrs: 91.90, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.91, check: 0.49, heur: 1.80, add: 0.14, itr: 4.41, num_itrs: 78
+State: 229, SolnCost: 77.00, # Nodes Gen: 285,304, Itrs: 78, Itrs/sec: 17.09, Solved: True, Time: 4.56
+Means, SolnCost: 90.83, # Nodes Gen: 339082.03, Itrs: 91.84, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.41, check: 0.55, heur: 1.94, add: 0.09, itr: 5.08, num_itrs: 91
+State: 230, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.48, Solved: True, Time: 5.21
+Means, SolnCost: 90.82, # Nodes Gen: 339059.95, Itrs: 91.84, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.08, check: 0.53, heur: 1.86, add: 0.25, itr: 4.81, num_itrs: 87
+State: 231, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 17.55, Solved: True, Time: 4.96
+Means, SolnCost: 90.80, # Nodes Gen: 338977.03, Itrs: 91.82, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.27, check: 0.53, heur: 1.82, add: 0.09, itr: 4.78, num_itrs: 87
+State: 232, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.66, Solved: True, Time: 4.93
+Means, SolnCost: 90.78, # Nodes Gen: 338886.92, Itrs: 91.80, Itrs/sec: 17.73, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.14, check: 0.60, heur: 2.37, add: 0.29, itr: 5.50, num_itrs: 97
+State: 233, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.17, Solved: True, Time: 5.65
+Means, SolnCost: 90.80, # Nodes Gen: 338968.51, Itrs: 91.82, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.72, check: 0.60, heur: 2.08, add: 0.16, itr: 5.66, num_itrs: 99
+State: 234, SolnCost: 98.00, # Nodes Gen: 367,824, Itrs: 99, Itrs/sec: 17.00, Solved: True, Time: 5.82
+Means, SolnCost: 90.83, # Nodes Gen: 339091.30, Itrs: 91.85, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.45, check: 0.56, heur: 1.92, add: 0.09, itr: 5.10, num_itrs: 91
+State: 235, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.29, Solved: True, Time: 5.26
+Means, SolnCost: 90.83, # Nodes Gen: 339077.46, Itrs: 91.85, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.79, check: 0.46, heur: 1.60, add: 0.22, itr: 4.14, num_itrs: 77
+State: 236, SolnCost: 76.00, # Nodes Gen: 277,980, Itrs: 77, Itrs/sec: 17.95, Solved: True, Time: 4.29
+Means, SolnCost: 90.77, # Nodes Gen: 338819.66, Itrs: 91.78, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.64, check: 0.60, heur: 2.02, add: 0.10, itr: 5.45, num_itrs: 96
+State: 237, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.19, Solved: True, Time: 5.58
+Means, SolnCost: 90.79, # Nodes Gen: 338889.93, Itrs: 91.80, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.45, check: 0.55, heur: 1.91, add: 0.09, itr: 5.08, num_itrs: 90
+State: 238, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.18, Solved: True, Time: 5.24
+Means, SolnCost: 90.78, # Nodes Gen: 338859.20, Itrs: 91.79, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.95, check: 0.49, heur: 1.67, add: 0.14, itr: 4.32, num_itrs: 80
+State: 239, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.92, Solved: True, Time: 4.47
+Means, SolnCost: 90.73, # Nodes Gen: 338662.05, Itrs: 91.75, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.32, check: 0.61, heur: 2.29, add: 0.18, itr: 5.50, num_itrs: 99
+State: 240, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.57, Solved: True, Time: 5.64
+Means, SolnCost: 90.76, # Nodes Gen: 338775.40, Itrs: 91.78, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.92, check: 0.64, heur: 2.28, add: 0.11, itr: 6.04, num_itrs: 105
+State: 241, SolnCost: 104.00, # Nodes Gen: 389,980, Itrs: 105, Itrs/sec: 16.92, Solved: True, Time: 6.21
+Means, SolnCost: 90.81, # Nodes Gen: 338986.99, Itrs: 91.83, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.19, check: 0.54, heur: 1.82, add: 0.09, itr: 4.71, num_itrs: 87
+State: 242, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.82, Solved: True, Time: 4.88
+Means, SolnCost: 90.79, # Nodes Gen: 338900.54, Itrs: 91.81, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.21, check: 0.60, heur: 2.26, add: 0.37, itr: 5.54, num_itrs: 98
+State: 243, SolnCost: 97.00, # Nodes Gen: 365,304, Itrs: 98, Itrs/sec: 17.25, Solved: True, Time: 5.68
+Means, SolnCost: 90.82, # Nodes Gen: 339008.75, Itrs: 91.84, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.76, check: 0.48, heur: 1.69, add: 0.38, itr: 4.39, num_itrs: 80
+State: 244, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.59, Solved: True, Time: 4.55
+Means, SolnCost: 90.77, # Nodes Gen: 338815.02, Itrs: 91.79, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.09, check: 0.51, heur: 1.76, add: 0.09, itr: 4.52, num_itrs: 84
+State: 245, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 18.03, Solved: True, Time: 4.66
+Means, SolnCost: 90.74, # Nodes Gen: 338687.90, Itrs: 91.76, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.01, check: 0.52, heur: 1.80, add: 0.17, itr: 4.59, num_itrs: 86
+State: 246, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 18.19, Solved: True, Time: 4.73
+Means, SolnCost: 90.72, # Nodes Gen: 338594.20, Itrs: 91.73, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.47, check: 0.45, heur: 1.57, add: 0.45, itr: 4.02, num_itrs: 75
+State: 247, SolnCost: 74.00, # Nodes Gen: 271,824, Itrs: 75, Itrs/sec: 18.04, Solved: True, Time: 4.16
+Means, SolnCost: 90.65, # Nodes Gen: 338324.97, Itrs: 91.67, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.07, expand: 1.78, check: 0.48, heur: 1.82, add: 0.16, itr: 4.31, num_itrs: 81
+State: 248, SolnCost: 80.00, # Nodes Gen: 293,980, Itrs: 81, Itrs/sec: 18.24, Solved: True, Time: 4.44
+Means, SolnCost: 90.61, # Nodes Gen: 338146.88, Itrs: 91.62, Itrs/sec: 17.72, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.48, check: 0.59, heur: 1.99, add: 0.19, itr: 5.34, num_itrs: 95
+State: 249, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 17.34, Solved: True, Time: 5.48
+Means, SolnCost: 90.62, # Nodes Gen: 338194.21, Itrs: 91.64, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.64, check: 0.58, heur: 1.98, add: 0.10, itr: 5.38, num_itrs: 94
+State: 250, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 16.97, Solved: True, Time: 5.54
+Means, SolnCost: 90.63, # Nodes Gen: 338231.46, Itrs: 91.65, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.39, check: 0.60, heur: 2.20, add: 0.10, itr: 5.37, num_itrs: 97
+State: 251, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.56, Solved: True, Time: 5.52
+Means, SolnCost: 90.65, # Nodes Gen: 338309.83, Itrs: 91.67, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.10, check: 0.50, heur: 1.73, add: 0.08, itr: 4.50, num_itrs: 83
+State: 252, SolnCost: 82.00, # Nodes Gen: 301,980, Itrs: 83, Itrs/sec: 17.82, Solved: True, Time: 4.66
+Means, SolnCost: 90.62, # Nodes Gen: 338166.23, Itrs: 91.63, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.35, check: 0.54, heur: 1.87, add: 0.09, itr: 4.94, num_itrs: 89
+State: 253, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 17.53, Solved: True, Time: 5.08
+Means, SolnCost: 90.61, # Nodes Gen: 338125.51, Itrs: 91.62, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.37, check: 0.58, heur: 2.16, add: 0.10, itr: 5.29, num_itrs: 96
+State: 254, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.64, Solved: True, Time: 5.44
+Means, SolnCost: 90.62, # Nodes Gen: 338193.82, Itrs: 91.64, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.53, check: 0.56, heur: 1.91, add: 0.09, itr: 5.17, num_itrs: 91
+State: 255, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.07, Solved: True, Time: 5.33
+Means, SolnCost: 90.62, # Nodes Gen: 338177.36, Itrs: 91.64, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.13, check: 0.55, heur: 2.10, add: 0.09, itr: 4.95, num_itrs: 89
+State: 256, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 17.44, Solved: True, Time: 5.10
+Means, SolnCost: 90.61, # Nodes Gen: 338137.07, Itrs: 91.63, Itrs/sec: 17.71, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.56, check: 0.59, heur: 2.11, add: 0.10, itr: 5.44, num_itrs: 95
+State: 257, SolnCost: 94.00, # Nodes Gen: 353,752, Itrs: 95, Itrs/sec: 16.98, Solved: True, Time: 5.59
+Means, SolnCost: 90.62, # Nodes Gen: 338197.60, Itrs: 91.64, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.14, check: 0.53, heur: 1.85, add: 0.15, itr: 4.75, num_itrs: 87
+State: 258, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 17.73, Solved: True, Time: 4.91
+Means, SolnCost: 90.61, # Nodes Gen: 338126.66, Itrs: 91.62, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.55, check: 0.62, heur: 2.16, add: 0.23, itr: 5.66, num_itrs: 102
+State: 259, SolnCost: 101.00, # Nodes Gen: 381,304, Itrs: 102, Itrs/sec: 17.55, Solved: True, Time: 5.81
+Means, SolnCost: 90.65, # Nodes Gen: 338292.72, Itrs: 91.66, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.08, expand: 2.04, check: 0.50, heur: 1.72, add: 0.08, itr: 4.41, num_itrs: 82
+State: 260, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.91, Solved: True, Time: 4.58
+Means, SolnCost: 90.61, # Nodes Gen: 338144.26, Itrs: 91.62, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.10, expand: 2.83, check: 0.67, heur: 2.27, add: 0.11, itr: 5.98, num_itrs: 108
+State: 261, SolnCost: 107.00, # Nodes Gen: 403,544, Itrs: 108, Itrs/sec: 17.62, Solved: True, Time: 6.13
+Means, SolnCost: 90.67, # Nodes Gen: 338393.88, Itrs: 91.69, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.33, check: 0.57, heur: 1.98, add: 0.24, itr: 5.20, num_itrs: 93
+State: 262, SolnCost: 92.00, # Nodes Gen: 344,800, Itrs: 93, Itrs/sec: 17.30, Solved: True, Time: 5.37
+Means, SolnCost: 90.68, # Nodes Gen: 338418.24, Itrs: 91.69, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.28, check: 0.52, heur: 1.88, add: 0.09, itr: 4.85, num_itrs: 86
+State: 263, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.19, Solved: True, Time: 5.00
+Means, SolnCost: 90.66, # Nodes Gen: 338331.59, Itrs: 91.67, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.19
+
+Times - pop: 0.09, expand: 2.31, check: 0.60, heur: 2.37, add: 0.10, itr: 5.47, num_itrs: 99
+State: 264, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.62, Solved: True, Time: 5.62
+Means, SolnCost: 90.68, # Nodes Gen: 338435.92, Itrs: 91.70, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.43, check: 0.58, heur: 2.06, add: 0.10, itr: 5.25, num_itrs: 94
+State: 265, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.36, Solved: True, Time: 5.42
+Means, SolnCost: 90.69, # Nodes Gen: 338476.78, Itrs: 91.71, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.42, check: 0.56, heur: 1.97, add: 0.09, itr: 5.13, num_itrs: 91
+State: 266, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.21, Solved: True, Time: 5.29
+Means, SolnCost: 90.69, # Nodes Gen: 338470.50, Itrs: 91.70, Itrs/sec: 17.70, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.40, check: 0.60, heur: 2.12, add: 0.41, itr: 5.62, num_itrs: 98
+State: 267, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 16.96, Solved: True, Time: 5.78
+Means, SolnCost: 90.71, # Nodes Gen: 338564.06, Itrs: 91.73, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.25, check: 0.53, heur: 1.87, add: 0.09, itr: 4.83, num_itrs: 87
+State: 268, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.44, Solved: True, Time: 4.99
+Means, SolnCost: 90.70, # Nodes Gen: 338487.54, Itrs: 91.71, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.10, check: 0.54, heur: 2.02, add: 0.09, itr: 4.83, num_itrs: 87
+State: 269, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.49, Solved: True, Time: 4.97
+Means, SolnCost: 90.68, # Nodes Gen: 338411.59, Itrs: 91.69, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.04, check: 0.48, heur: 1.77, add: 0.18, itr: 4.54, num_itrs: 81
+State: 270, SolnCost: 80.00, # Nodes Gen: 293,980, Itrs: 81, Itrs/sec: 17.29, Solved: True, Time: 4.68
+Means, SolnCost: 90.64, # Nodes Gen: 338247.63, Itrs: 91.65, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.77, check: 0.61, heur: 2.07, add: 0.10, itr: 5.63, num_itrs: 98
+State: 271, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 16.96, Solved: True, Time: 5.78
+Means, SolnCost: 90.66, # Nodes Gen: 338340.63, Itrs: 91.68, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.20, check: 0.53, heur: 1.85, add: 0.09, itr: 4.76, num_itrs: 86
+State: 272, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 17.48, Solved: True, Time: 4.92
+Means, SolnCost: 90.64, # Nodes Gen: 338263.58, Itrs: 91.66, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.38, check: 0.56, heur: 1.94, add: 0.26, itr: 5.23, num_itrs: 92
+State: 273, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.10, Solved: True, Time: 5.38
+Means, SolnCost: 90.64, # Nodes Gen: 338268.25, Itrs: 91.66, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.31, check: 0.59, heur: 2.26, add: 0.10, itr: 5.35, num_itrs: 97
+State: 274, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.61, Solved: True, Time: 5.51
+Means, SolnCost: 90.66, # Nodes Gen: 338339.93, Itrs: 91.68, Itrs/sec: 17.69, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.15, check: 0.63, heur: 2.45, add: 0.47, itr: 5.80, num_itrs: 103
+State: 275, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.27, Solved: True, Time: 5.96
+Means, SolnCost: 90.70, # Nodes Gen: 338504.72, Itrs: 91.72, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.15, check: 0.56, heur: 2.14, add: 0.09, itr: 5.03, num_itrs: 91
+State: 276, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.51, Solved: True, Time: 5.20
+Means, SolnCost: 90.70, # Nodes Gen: 338498.57, Itrs: 91.71, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.68, check: 0.60, heur: 2.07, add: 0.10, itr: 5.54, num_itrs: 98
+State: 277, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.20, Solved: True, Time: 5.70
+Means, SolnCost: 90.72, # Nodes Gen: 338588.66, Itrs: 91.74, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.24, check: 0.57, heur: 2.19, add: 0.10, itr: 5.18, num_itrs: 93
+State: 278, SolnCost: 92.00, # Nodes Gen: 344,800, Itrs: 93, Itrs/sec: 17.40, Solved: True, Time: 5.35
+Means, SolnCost: 90.73, # Nodes Gen: 338610.92, Itrs: 91.74, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.26, check: 0.52, heur: 1.79, add: 0.09, itr: 4.74, num_itrs: 85
+State: 279, SolnCost: 84.00, # Nodes Gen: 311,824, Itrs: 85, Itrs/sec: 17.36, Solved: True, Time: 4.90
+Means, SolnCost: 90.70, # Nodes Gen: 338515.26, Itrs: 91.72, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 2.17, check: 0.50, heur: 1.79, add: 0.08, itr: 4.62, num_itrs: 82
+State: 280, SolnCost: 81.00, # Nodes Gen: 301,304, Itrs: 82, Itrs/sec: 17.22, Solved: True, Time: 4.76
+Means, SolnCost: 90.67, # Nodes Gen: 338382.83, Itrs: 91.68, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.58, check: 0.55, heur: 1.95, add: 0.09, itr: 5.26, num_itrs: 91
+State: 281, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 16.86, Solved: True, Time: 5.40
+Means, SolnCost: 90.67, # Nodes Gen: 338373.76, Itrs: 91.68, Itrs/sec: 17.68, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.56, check: 0.62, heur: 2.12, add: 0.37, itr: 5.77, num_itrs: 99
+State: 282, SolnCost: 98.00, # Nodes Gen: 367,824, Itrs: 99, Itrs/sec: 16.71, Solved: True, Time: 5.92
+Means, SolnCost: 90.69, # Nodes Gen: 338477.82, Itrs: 91.71, Itrs/sec: 17.67, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.67, check: 0.66, heur: 2.50, add: 0.19, itr: 6.12, num_itrs: 107
+State: 283, SolnCost: 106.00, # Nodes Gen: 399,824, Itrs: 107, Itrs/sec: 17.00, Solved: True, Time: 6.29
+Means, SolnCost: 90.75, # Nodes Gen: 338693.83, Itrs: 91.76, Itrs/sec: 17.67, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.60, check: 0.59, heur: 2.03, add: 0.23, itr: 5.54, num_itrs: 96
+State: 284, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 16.79, Solved: True, Time: 5.72
+Means, SolnCost: 90.76, # Nodes Gen: 338752.95, Itrs: 91.78, Itrs/sec: 17.67, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.25, check: 0.58, heur: 2.19, add: 0.17, itr: 5.29, num_itrs: 94
+State: 285, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.25, Solved: True, Time: 5.45
+Means, SolnCost: 90.77, # Nodes Gen: 338783.69, Itrs: 91.78, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.10, expand: 2.81, check: 0.67, heur: 2.31, add: 0.28, itr: 6.17, num_itrs: 107
+State: 286, SolnCost: 106.00, # Nodes Gen: 400,800, Itrs: 107, Itrs/sec: 16.89, Solved: True, Time: 6.34
+Means, SolnCost: 90.82, # Nodes Gen: 338999.78, Itrs: 91.84, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.25, check: 0.55, heur: 2.03, add: 0.09, itr: 5.02, num_itrs: 90
+State: 287, SolnCost: 89.00, # Nodes Gen: 333,304, Itrs: 90, Itrs/sec: 17.31, Solved: True, Time: 5.20
+Means, SolnCost: 90.82, # Nodes Gen: 338980.00, Itrs: 91.83, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.01, check: 0.51, heur: 1.78, add: 0.31, itr: 4.67, num_itrs: 84
+State: 288, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.41, Solved: True, Time: 4.83
+Means, SolnCost: 90.79, # Nodes Gen: 338871.22, Itrs: 91.80, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.49, check: 0.59, heur: 2.11, add: 0.30, itr: 5.57, num_itrs: 97
+State: 289, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 16.96, Solved: True, Time: 5.72
+Means, SolnCost: 90.81, # Nodes Gen: 338937.12, Itrs: 91.82, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.10, check: 0.52, heur: 1.97, add: 0.09, itr: 4.76, num_itrs: 84
+State: 290, SolnCost: 83.00, # Nodes Gen: 309,304, Itrs: 84, Itrs/sec: 17.08, Solved: True, Time: 4.92
+Means, SolnCost: 90.78, # Nodes Gen: 338835.29, Itrs: 91.79, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.10, expand: 2.95, check: 0.70, heur: 2.47, add: 0.11, itr: 6.33, num_itrs: 113
+State: 291, SolnCost: 112.00, # Nodes Gen: 421,980, Itrs: 113, Itrs/sec: 17.43, Solved: True, Time: 6.48
+Means, SolnCost: 90.85, # Nodes Gen: 339120.03, Itrs: 91.87, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 1.92, check: 0.48, heur: 1.69, add: 0.18, itr: 4.34, num_itrs: 80
+State: 292, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.71, Solved: True, Time: 4.52
+Means, SolnCost: 90.81, # Nodes Gen: 338957.65, Itrs: 91.83, Itrs/sec: 17.66, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.11, check: 0.54, heur: 2.05, add: 0.09, itr: 4.87, num_itrs: 87
+State: 293, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.39, Solved: True, Time: 5.00
+Means, SolnCost: 90.80, # Nodes Gen: 338886.30, Itrs: 91.81, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.27, check: 0.60, heur: 2.26, add: 0.10, itr: 5.31, num_itrs: 96
+State: 294, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.57, Solved: True, Time: 5.46
+Means, SolnCost: 90.81, # Nodes Gen: 338942.77, Itrs: 91.82, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.24, check: 0.57, heur: 2.27, add: 0.10, itr: 5.27, num_itrs: 92
+State: 295, SolnCost: 91.00, # Nodes Gen: 341,304, Itrs: 92, Itrs/sec: 16.95, Solved: True, Time: 5.43
+Means, SolnCost: 90.81, # Nodes Gen: 338950.74, Itrs: 91.82, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.29, check: 0.54, heur: 2.03, add: 0.09, itr: 5.04, num_itrs: 88
+State: 296, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 16.95, Solved: True, Time: 5.19
+Means, SolnCost: 90.80, # Nodes Gen: 338904.79, Itrs: 91.81, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.51, check: 0.60, heur: 2.11, add: 0.36, itr: 5.68, num_itrs: 98
+State: 297, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 16.81, Solved: True, Time: 5.83
+Means, SolnCost: 90.82, # Nodes Gen: 338987.48, Itrs: 91.83, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.53, check: 0.60, heur: 2.12, add: 0.10, itr: 5.44, num_itrs: 97
+State: 298, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.31, Solved: True, Time: 5.60
+Means, SolnCost: 90.84, # Nodes Gen: 339051.00, Itrs: 91.85, Itrs/sec: 17.65, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.24, check: 0.59, heur: 2.03, add: 0.54, itr: 5.48, num_itrs: 96
+State: 299, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.02, Solved: True, Time: 5.64
+Means, SolnCost: 90.85, # Nodes Gen: 339105.97, Itrs: 91.86, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.24, check: 0.54, heur: 2.03, add: 0.09, itr: 4.99, num_itrs: 88
+State: 300, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.08, Solved: True, Time: 5.15
+Means, SolnCost: 90.84, # Nodes Gen: 339054.27, Itrs: 91.85, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.09, check: 0.57, heur: 2.07, add: 0.29, itr: 5.12, num_itrs: 92
+State: 301, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.46, Solved: True, Time: 5.27
+Means, SolnCost: 90.84, # Nodes Gen: 339055.89, Itrs: 91.85, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.05, check: 0.53, heur: 2.03, add: 0.09, itr: 4.79, num_itrs: 86
+State: 302, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.39, Solved: True, Time: 4.95
+Means, SolnCost: 90.82, # Nodes Gen: 338978.30, Itrs: 91.83, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.58, check: 0.55, heur: 1.91, add: 0.09, itr: 5.22, num_itrs: 91
+State: 303, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 16.95, Solved: True, Time: 5.37
+Means, SolnCost: 90.82, # Nodes Gen: 338961.86, Itrs: 91.83, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 2.05, check: 0.47, heur: 1.61, add: 0.08, itr: 4.27, num_itrs: 76
+State: 304, SolnCost: 75.00, # Nodes Gen: 277,304, Itrs: 76, Itrs/sec: 17.19, Solved: True, Time: 4.42
+Means, SolnCost: 90.76, # Nodes Gen: 338759.70, Itrs: 91.78, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.43, check: 0.56, heur: 1.99, add: 0.10, itr: 5.16, num_itrs: 93
+State: 305, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 17.56, Solved: True, Time: 5.30
+Means, SolnCost: 90.77, # Nodes Gen: 338770.22, Itrs: 91.78, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.18, check: 0.54, heur: 1.91, add: 0.20, itr: 4.91, num_itrs: 89
+State: 306, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 17.57, Solved: True, Time: 5.06
+Means, SolnCost: 90.76, # Nodes Gen: 338728.56, Itrs: 91.77, Itrs/sec: 17.64, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.48, check: 0.59, heur: 2.24, add: 0.10, itr: 5.49, num_itrs: 97
+State: 307, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.18, Solved: True, Time: 5.65
+Means, SolnCost: 90.78, # Nodes Gen: 338797.05, Itrs: 91.79, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.61, check: 0.57, heur: 1.97, add: 0.16, itr: 5.40, num_itrs: 93
+State: 308, SolnCost: 92.00, # Nodes Gen: 344,800, Itrs: 93, Itrs/sec: 16.72, Solved: True, Time: 5.56
+Means, SolnCost: 90.78, # Nodes Gen: 338816.48, Itrs: 91.79, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.44, check: 0.57, heur: 1.97, add: 0.20, itr: 5.26, num_itrs: 93
+State: 309, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 17.15, Solved: True, Time: 5.42
+Means, SolnCost: 90.78, # Nodes Gen: 338832.63, Itrs: 91.80, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.10, check: 0.53, heur: 2.03, add: 0.09, itr: 4.83, num_itrs: 86
+State: 310, SolnCost: 85.00, # Nodes Gen: 317,304, Itrs: 86, Itrs/sec: 17.24, Solved: True, Time: 4.99
+Means, SolnCost: 90.77, # Nodes Gen: 338763.41, Itrs: 91.78, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.26, check: 0.55, heur: 1.99, add: 0.09, itr: 4.98, num_itrs: 90
+State: 311, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.56, Solved: True, Time: 5.12
+Means, SolnCost: 90.76, # Nodes Gen: 338740.27, Itrs: 91.77, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.19, check: 0.54, heur: 1.84, add: 0.09, itr: 4.74, num_itrs: 87
+State: 312, SolnCost: 86.00, # Nodes Gen: 320,800, Itrs: 87, Itrs/sec: 17.80, Solved: True, Time: 4.89
+Means, SolnCost: 90.74, # Nodes Gen: 338682.95, Itrs: 91.76, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 1.95, check: 0.52, heur: 1.80, add: 0.42, itr: 4.76, num_itrs: 85
+State: 313, SolnCost: 84.00, # Nodes Gen: 311,824, Itrs: 85, Itrs/sec: 17.30, Solved: True, Time: 4.91
+Means, SolnCost: 90.72, # Nodes Gen: 338597.41, Itrs: 91.74, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 2.06, check: 0.50, heur: 1.76, add: 0.29, itr: 4.67, num_itrs: 82
+State: 314, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.02, Solved: True, Time: 4.82
+Means, SolnCost: 90.69, # Nodes Gen: 338473.43, Itrs: 91.70, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.29, check: 0.53, heur: 1.83, add: 0.16, itr: 4.88, num_itrs: 87
+State: 315, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.33, Solved: True, Time: 5.02
+Means, SolnCost: 90.68, # Nodes Gen: 338408.58, Itrs: 91.69, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.47, check: 0.60, heur: 2.09, add: 0.10, itr: 5.35, num_itrs: 95
+State: 316, SolnCost: 94.00, # Nodes Gen: 353,752, Itrs: 95, Itrs/sec: 17.28, Solved: True, Time: 5.50
+Means, SolnCost: 90.69, # Nodes Gen: 338456.98, Itrs: 91.70, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.29, check: 0.60, heur: 2.33, add: 0.25, itr: 5.56, num_itrs: 97
+State: 317, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 16.95, Solved: True, Time: 5.72
+Means, SolnCost: 90.70, # Nodes Gen: 338524.18, Itrs: 91.72, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.47, check: 0.58, heur: 2.12, add: 0.23, itr: 5.49, num_itrs: 95
+State: 318, SolnCost: 94.00, # Nodes Gen: 352,800, Itrs: 95, Itrs/sec: 16.80, Solved: True, Time: 5.65
+Means, SolnCost: 90.71, # Nodes Gen: 338568.93, Itrs: 91.73, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.43, check: 0.54, heur: 1.90, add: 0.09, itr: 5.05, num_itrs: 88
+State: 319, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 16.88, Solved: True, Time: 5.21
+Means, SolnCost: 90.70, # Nodes Gen: 338527.47, Itrs: 91.72, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.41, check: 0.65, heur: 2.90, add: 0.11, itr: 6.17, num_itrs: 104
+State: 320, SolnCost: 103.00, # Nodes Gen: 389,304, Itrs: 104, Itrs/sec: 16.43, Solved: True, Time: 6.33
+Means, SolnCost: 90.74, # Nodes Gen: 338685.66, Itrs: 91.75, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.06, expand: 1.58, check: 0.42, heur: 1.70, add: 0.07, itr: 3.82, num_itrs: 70
+State: 321, SolnCost: 69.00, # Nodes Gen: 251,544, Itrs: 70, Itrs/sec: 17.56, Solved: True, Time: 3.99
+Means, SolnCost: 90.67, # Nodes Gen: 338415.03, Itrs: 91.69, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.39, check: 0.60, heur: 2.05, add: 0.35, itr: 5.49, num_itrs: 97
+State: 322, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.28, Solved: True, Time: 5.61
+Means, SolnCost: 90.69, # Nodes Gen: 338475.60, Itrs: 91.70, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.65, check: 0.59, heur: 1.99, add: 0.09, itr: 5.42, num_itrs: 94
+State: 323, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 16.84, Solved: True, Time: 5.58
+Means, SolnCost: 90.70, # Nodes Gen: 338503.59, Itrs: 91.71, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 3.08, check: 0.65, heur: 2.25, add: 0.11, itr: 6.19, num_itrs: 106
+State: 324, SolnCost: 105.00, # Nodes Gen: 395,544, Itrs: 106, Itrs/sec: 16.70, Solved: True, Time: 6.35
+Means, SolnCost: 90.74, # Nodes Gen: 338679.10, Itrs: 91.75, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.23, check: 0.57, heur: 1.94, add: 0.33, itr: 5.16, num_itrs: 92
+State: 325, SolnCost: 91.00, # Nodes Gen: 341,304, Itrs: 92, Itrs/sec: 17.25, Solved: True, Time: 5.33
+Means, SolnCost: 90.74, # Nodes Gen: 338687.15, Itrs: 91.75, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.09, expand: 2.27, check: 0.59, heur: 2.30, add: 0.28, itr: 5.53, num_itrs: 97
+State: 326, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.07, Solved: True, Time: 5.68
+Means, SolnCost: 90.76, # Nodes Gen: 338746.15, Itrs: 91.77, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 1.96, check: 0.48, heur: 1.76, add: 0.08, itr: 4.35, num_itrs: 79
+State: 327, SolnCost: 78.00, # Nodes Gen: 285,980, Itrs: 79, Itrs/sec: 17.50, Solved: True, Time: 4.51
+Means, SolnCost: 90.72, # Nodes Gen: 338585.28, Itrs: 91.73, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.41, check: 0.56, heur: 1.96, add: 0.10, itr: 5.12, num_itrs: 93
+State: 328, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 17.71, Solved: True, Time: 5.25
+Means, SolnCost: 90.72, # Nodes Gen: 338595.60, Itrs: 91.74, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.09, expand: 2.42, check: 0.56, heur: 1.92, add: 0.09, itr: 5.09, num_itrs: 91
+State: 329, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.35, Solved: True, Time: 5.24
+Means, SolnCost: 90.72, # Nodes Gen: 338590.16, Itrs: 91.73, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.07, expand: 1.71, check: 0.45, heur: 1.63, add: 0.07, itr: 3.93, num_itrs: 73
+State: 330, SolnCost: 72.00, # Nodes Gen: 264,800, Itrs: 73, Itrs/sec: 17.87, Solved: True, Time: 4.09
+Means, SolnCost: 90.66, # Nodes Gen: 338367.23, Itrs: 91.68, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.18, check: 0.53, heur: 1.85, add: 0.27, itr: 4.92, num_itrs: 87
+State: 331, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.24, Solved: True, Time: 5.05
+Means, SolnCost: 90.65, # Nodes Gen: 338305.82, Itrs: 91.66, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.28, check: 0.54, heur: 1.91, add: 0.09, itr: 4.90, num_itrs: 87
+State: 332, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.24, Solved: True, Time: 5.05
+Means, SolnCost: 90.64, # Nodes Gen: 338244.78, Itrs: 91.65, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.63, check: 0.61, heur: 2.15, add: 0.10, itr: 5.58, num_itrs: 99
+State: 333, SolnCost: 98.00, # Nodes Gen: 367,824, Itrs: 99, Itrs/sec: 17.27, Solved: True, Time: 5.73
+Means, SolnCost: 90.66, # Nodes Gen: 338333.34, Itrs: 91.67, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.27, check: 0.57, heur: 1.94, add: 0.19, itr: 5.05, num_itrs: 92
+State: 334, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.64, Solved: True, Time: 5.21
+Means, SolnCost: 90.66, # Nodes Gen: 338336.96, Itrs: 91.67, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.21, check: 0.50, heur: 1.81, add: 0.08, itr: 4.69, num_itrs: 83
+State: 335, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 17.15, Solved: True, Time: 4.84
+Means, SolnCost: 90.63, # Nodes Gen: 338237.14, Itrs: 91.65, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.11, check: 0.53, heur: 1.92, add: 0.18, itr: 4.82, num_itrs: 88
+State: 336, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.71, Solved: True, Time: 4.97
+Means, SolnCost: 90.62, # Nodes Gen: 338193.54, Itrs: 91.64, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.72, check: 0.60, heur: 2.07, add: 0.10, itr: 5.57, num_itrs: 98
+State: 337, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.12, Solved: True, Time: 5.73
+Means, SolnCost: 90.64, # Nodes Gen: 338268.54, Itrs: 91.65, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.50, check: 0.58, heur: 2.03, add: 0.10, itr: 5.29, num_itrs: 95
+State: 338, SolnCost: 94.00, # Nodes Gen: 352,800, Itrs: 95, Itrs/sec: 17.41, Solved: True, Time: 5.46
+Means, SolnCost: 90.65, # Nodes Gen: 338311.41, Itrs: 91.66, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.32, check: 0.57, heur: 1.94, add: 0.35, itr: 5.27, num_itrs: 92
+State: 339, SolnCost: 91.00, # Nodes Gen: 341,304, Itrs: 92, Itrs/sec: 16.95, Solved: True, Time: 5.43
+Means, SolnCost: 90.65, # Nodes Gen: 338320.21, Itrs: 91.66, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.19, check: 0.54, heur: 2.09, add: 0.09, itr: 5.00, num_itrs: 88
+State: 340, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 17.08, Solved: True, Time: 5.15
+Means, SolnCost: 90.64, # Nodes Gen: 338282.04, Itrs: 91.65, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.71, check: 0.60, heur: 2.07, add: 0.10, itr: 5.57, num_itrs: 98
+State: 341, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.12, Solved: True, Time: 5.72
+Means, SolnCost: 90.66, # Nodes Gen: 338355.91, Itrs: 91.67, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.44, check: 0.60, heur: 2.28, add: 0.10, itr: 5.51, num_itrs: 99
+State: 342, SolnCost: 98.00, # Nodes Gen: 365,980, Itrs: 99, Itrs/sec: 17.44, Solved: True, Time: 5.68
+Means, SolnCost: 90.68, # Nodes Gen: 338436.44, Itrs: 91.69, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.41, check: 0.56, heur: 1.96, add: 0.33, itr: 5.35, num_itrs: 93
+State: 343, SolnCost: 92.00, # Nodes Gen: 341,980, Itrs: 93, Itrs/sec: 16.87, Solved: True, Time: 5.51
+Means, SolnCost: 90.69, # Nodes Gen: 338446.74, Itrs: 91.70, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.07, expand: 2.11, check: 0.48, heur: 1.73, add: 0.08, itr: 4.47, num_itrs: 81
+State: 344, SolnCost: 80.00, # Nodes Gen: 296,800, Itrs: 81, Itrs/sec: 17.54, Solved: True, Time: 4.62
+Means, SolnCost: 90.66, # Nodes Gen: 338326.03, Itrs: 91.67, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.09, expand: 2.08, check: 0.58, heur: 2.20, add: 0.29, itr: 5.24, num_itrs: 96
+State: 345, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.86, Solved: True, Time: 5.37
+Means, SolnCost: 90.67, # Nodes Gen: 338375.79, Itrs: 91.68, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.08, expand: 2.24, check: 0.56, heur: 1.95, add: 0.19, itr: 5.02, num_itrs: 92
+State: 346, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.77, Solved: True, Time: 5.18
+Means, SolnCost: 90.67, # Nodes Gen: 338379.16, Itrs: 91.68, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.07, expand: 1.95, check: 0.47, heur: 1.64, add: 0.07, itr: 4.20, num_itrs: 78
+State: 347, SolnCost: 77.00, # Nodes Gen: 283,544, Itrs: 78, Itrs/sec: 17.97, Solved: True, Time: 4.34
+Means, SolnCost: 90.63, # Nodes Gen: 338221.59, Itrs: 91.64, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 1.86, check: 0.52, heur: 1.91, add: 0.24, itr: 4.62, num_itrs: 87
+State: 348, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 18.32, Solved: True, Time: 4.75
+Means, SolnCost: 90.62, # Nodes Gen: 338163.59, Itrs: 91.63, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 2.02, check: 0.48, heur: 1.70, add: 0.19, itr: 4.47, num_itrs: 81
+State: 349, SolnCost: 80.00, # Nodes Gen: 296,800, Itrs: 81, Itrs/sec: 17.57, Solved: True, Time: 4.61
+Means, SolnCost: 90.59, # Nodes Gen: 338045.41, Itrs: 91.60, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.91, check: 0.67, heur: 2.42, add: 0.12, itr: 6.22, num_itrs: 111
+State: 350, SolnCost: 110.00, # Nodes Gen: 416,800, Itrs: 111, Itrs/sec: 17.44, Solved: True, Time: 6.37
+Means, SolnCost: 90.64, # Nodes Gen: 338269.78, Itrs: 91.65, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.28, check: 0.53, heur: 1.81, add: 0.08, itr: 4.78, num_itrs: 86
+State: 351, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.36, Solved: True, Time: 4.95
+Means, SolnCost: 90.62, # Nodes Gen: 338205.22, Itrs: 91.64, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.35, check: 0.57, heur: 1.98, add: 0.24, itr: 5.22, num_itrs: 94
+State: 352, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.52, Solved: True, Time: 5.37
+Means, SolnCost: 90.63, # Nodes Gen: 338236.66, Itrs: 91.64, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 1.97, check: 0.55, heur: 1.91, add: 0.67, itr: 5.18, num_itrs: 91
+State: 353, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.07, Solved: True, Time: 5.33
+Means, SolnCost: 90.63, # Nodes Gen: 338229.84, Itrs: 91.64, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.40, check: 0.53, heur: 1.88, add: 0.09, itr: 4.97, num_itrs: 89
+State: 354, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 17.38, Solved: True, Time: 5.12
+Means, SolnCost: 90.62, # Nodes Gen: 338200.53, Itrs: 91.63, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.06, expand: 1.75, check: 0.41, heur: 1.48, add: 0.14, itr: 3.84, num_itrs: 70
+State: 355, SolnCost: 69.00, # Nodes Gen: 251,544, Itrs: 70, Itrs/sec: 17.57, Solved: True, Time: 3.98
+Means, SolnCost: 90.56, # Nodes Gen: 337957.11, Itrs: 91.57, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.46, check: 0.55, heur: 2.03, add: 0.09, itr: 5.21, num_itrs: 92
+State: 356, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.27, Solved: True, Time: 5.33
+Means, SolnCost: 90.56, # Nodes Gen: 337961.56, Itrs: 91.57, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 1.91, check: 0.49, heur: 1.82, add: 0.27, itr: 4.56, num_itrs: 82
+State: 357, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.44, Solved: True, Time: 4.70
+Means, SolnCost: 90.54, # Nodes Gen: 337854.25, Itrs: 91.55, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.60, check: 0.62, heur: 2.15, add: 0.17, itr: 5.64, num_itrs: 102
+State: 358, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 17.65, Solved: True, Time: 5.78
+Means, SolnCost: 90.57, # Nodes Gen: 337970.37, Itrs: 91.58, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.26, check: 0.56, heur: 2.02, add: 0.09, itr: 5.01, num_itrs: 93
+State: 359, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 17.97, Solved: True, Time: 5.18
+Means, SolnCost: 90.57, # Nodes Gen: 337986.63, Itrs: 91.58, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.72, check: 0.63, heur: 2.21, add: 0.11, itr: 5.76, num_itrs: 105
+State: 360, SolnCost: 104.00, # Nodes Gen: 392,800, Itrs: 105, Itrs/sec: 17.75, Solved: True, Time: 5.92
+Means, SolnCost: 90.61, # Nodes Gen: 338138.47, Itrs: 91.62, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.06, expand: 1.65, check: 0.41, heur: 1.44, add: 0.06, itr: 3.62, num_itrs: 69
+State: 361, SolnCost: 68.00, # Nodes Gen: 248,800, Itrs: 69, Itrs/sec: 18.27, Solved: True, Time: 3.78
+Means, SolnCost: 90.54, # Nodes Gen: 337891.68, Itrs: 91.56, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 1.65, check: 0.53, heur: 2.09, add: 0.45, itr: 4.80, num_itrs: 89
+State: 362, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 18.11, Solved: True, Time: 4.91
+Means, SolnCost: 90.54, # Nodes Gen: 337863.94, Itrs: 91.55, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.42, check: 0.61, heur: 2.12, add: 0.35, itr: 5.59, num_itrs: 100
+State: 363, SolnCost: 99.00, # Nodes Gen: 373,304, Itrs: 100, Itrs/sec: 17.43, Solved: True, Time: 5.74
+Means, SolnCost: 90.56, # Nodes Gen: 337961.31, Itrs: 91.57, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.62, check: 0.57, heur: 2.02, add: 0.09, itr: 5.38, num_itrs: 94
+State: 364, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 16.97, Solved: True, Time: 5.54
+Means, SolnCost: 90.57, # Nodes Gen: 337987.56, Itrs: 91.58, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.45, check: 0.58, heur: 1.98, add: 0.09, itr: 5.17, num_itrs: 94
+State: 365, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.65, Solved: True, Time: 5.33
+Means, SolnCost: 90.57, # Nodes Gen: 338013.67, Itrs: 91.58, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.19, check: 0.58, heur: 2.18, add: 0.20, itr: 5.23, num_itrs: 97
+State: 366, SolnCost: 96.00, # Nodes Gen: 360,800, Itrs: 97, Itrs/sec: 18.02, Solved: True, Time: 5.38
+Means, SolnCost: 90.59, # Nodes Gen: 338075.76, Itrs: 91.60, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.50, check: 0.60, heur: 2.24, add: 0.10, itr: 5.54, num_itrs: 101
+State: 367, SolnCost: 100.00, # Nodes Gen: 373,980, Itrs: 101, Itrs/sec: 17.74, Solved: True, Time: 5.69
+Means, SolnCost: 90.61, # Nodes Gen: 338173.33, Itrs: 91.62, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.48, check: 0.57, heur: 2.03, add: 0.10, itr: 5.27, num_itrs: 97
+State: 368, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.85, Solved: True, Time: 5.43
+Means, SolnCost: 90.63, # Nodes Gen: 338227.00, Itrs: 91.64, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.46, check: 0.56, heur: 1.98, add: 0.09, itr: 5.18, num_itrs: 94
+State: 369, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.62, Solved: True, Time: 5.33
+Means, SolnCost: 90.64, # Nodes Gen: 338252.18, Itrs: 91.65, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.18, check: 0.53, heur: 1.85, add: 0.16, itr: 4.80, num_itrs: 88
+State: 370, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.79, Solved: True, Time: 4.95
+Means, SolnCost: 90.63, # Nodes Gen: 338212.54, Itrs: 91.64, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.22, check: 0.53, heur: 1.88, add: 0.08, itr: 4.79, num_itrs: 89
+State: 371, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.06, Solved: True, Time: 4.93
+Means, SolnCost: 90.62, # Nodes Gen: 338179.66, Itrs: 91.63, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.98, check: 0.63, heur: 2.26, add: 0.11, itr: 6.08, num_itrs: 107
+State: 372, SolnCost: 106.00, # Nodes Gen: 397,980, Itrs: 107, Itrs/sec: 17.18, Solved: True, Time: 6.23
+Means, SolnCost: 90.66, # Nodes Gen: 338339.98, Itrs: 91.67, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.44, check: 0.58, heur: 2.18, add: 0.10, itr: 5.37, num_itrs: 97
+State: 373, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.50, Solved: True, Time: 5.54
+Means, SolnCost: 90.67, # Nodes Gen: 338397.42, Itrs: 91.68, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.15, check: 0.56, heur: 1.97, add: 0.41, itr: 5.17, num_itrs: 94
+State: 374, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.63, Solved: True, Time: 5.33
+Means, SolnCost: 90.68, # Nodes Gen: 338421.81, Itrs: 91.69, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.09, expand: 2.62, check: 0.60, heur: 2.20, add: 0.10, itr: 5.60, num_itrs: 100
+State: 375, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.37, Solved: True, Time: 5.76
+Means, SolnCost: 90.70, # Nodes Gen: 338509.90, Itrs: 91.71, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.07, expand: 2.00, check: 0.50, heur: 1.94, add: 0.08, itr: 4.61, num_itrs: 84
+State: 376, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.64, Solved: True, Time: 4.76
+Means, SolnCost: 90.68, # Nodes Gen: 338427.77, Itrs: 91.69, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.10, expand: 2.65, check: 0.63, heur: 2.21, add: 0.30, itr: 5.89, num_itrs: 105
+State: 377, SolnCost: 104.00, # Nodes Gen: 392,800, Itrs: 105, Itrs/sec: 17.40, Solved: True, Time: 6.03
+Means, SolnCost: 90.72, # Nodes Gen: 338571.61, Itrs: 91.73, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.23
+
+Times - pop: 0.07, expand: 1.78, check: 0.49, heur: 1.88, add: 0.08, itr: 4.30, num_itrs: 83
+State: 378, SolnCost: 82.00, # Nodes Gen: 301,980, Itrs: 83, Itrs/sec: 18.59, Solved: True, Time: 4.46
+Means, SolnCost: 90.69, # Nodes Gen: 338475.06, Itrs: 91.70, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.17, check: 0.52, heur: 1.92, add: 0.08, itr: 4.78, num_itrs: 87
+State: 379, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 17.69, Solved: True, Time: 4.92
+Means, SolnCost: 90.68, # Nodes Gen: 338425.98, Itrs: 91.69, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.40, check: 0.55, heur: 1.93, add: 0.09, itr: 5.05, num_itrs: 91
+State: 380, SolnCost: 90.00, # Nodes Gen: 333,980, Itrs: 91, Itrs/sec: 17.53, Solved: True, Time: 5.19
+Means, SolnCost: 90.68, # Nodes Gen: 338414.31, Itrs: 91.69, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 2.03, check: 0.49, heur: 1.73, add: 0.08, itr: 4.40, num_itrs: 83
+State: 381, SolnCost: 82.00, # Nodes Gen: 301,980, Itrs: 83, Itrs/sec: 18.29, Solved: True, Time: 4.54
+Means, SolnCost: 90.66, # Nodes Gen: 338318.93, Itrs: 91.67, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.21, check: 0.53, heur: 1.86, add: 0.08, itr: 4.77, num_itrs: 89
+State: 382, SolnCost: 88.00, # Nodes Gen: 325,980, Itrs: 89, Itrs/sec: 18.17, Solved: True, Time: 4.90
+Means, SolnCost: 90.65, # Nodes Gen: 338286.72, Itrs: 91.66, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.07, check: 0.53, heur: 1.85, add: 0.26, itr: 4.79, num_itrs: 88
+State: 383, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 17.85, Solved: True, Time: 4.93
+Means, SolnCost: 90.64, # Nodes Gen: 338252.91, Itrs: 91.65, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.07, expand: 1.86, check: 0.48, heur: 1.95, add: 0.08, itr: 4.43, num_itrs: 82
+State: 384, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.96, Solved: True, Time: 4.57
+Means, SolnCost: 90.62, # Nodes Gen: 338152.36, Itrs: 91.63, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.29, check: 0.56, heur: 2.14, add: 0.09, itr: 5.16, num_itrs: 95
+State: 385, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 17.94, Solved: True, Time: 5.30
+Means, SolnCost: 90.62, # Nodes Gen: 338183.01, Itrs: 91.63, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.18, check: 0.51, heur: 1.81, add: 0.08, itr: 4.66, num_itrs: 86
+State: 386, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.89, Solved: True, Time: 4.81
+Means, SolnCost: 90.61, # Nodes Gen: 338124.51, Itrs: 91.62, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.05, expand: 1.47, check: 0.39, heur: 1.41, add: 0.06, itr: 3.39, num_itrs: 68
+State: 387, SolnCost: 67.00, # Nodes Gen: 243,544, Itrs: 68, Itrs/sec: 19.30, Solved: True, Time: 3.52
+Means, SolnCost: 90.55, # Nodes Gen: 337880.74, Itrs: 91.56, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.94, check: 0.50, heur: 1.88, add: 0.27, itr: 4.66, num_itrs: 84
+State: 388, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.63, Solved: True, Time: 4.77
+Means, SolnCost: 90.53, # Nodes Gen: 337802.76, Itrs: 91.54, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.25, check: 0.60, heur: 2.59, add: 0.10, itr: 5.63, num_itrs: 100
+State: 389, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.35, Solved: True, Time: 5.76
+Means, SolnCost: 90.55, # Nodes Gen: 337889.27, Itrs: 91.56, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.25, check: 0.50, heur: 1.76, add: 0.08, itr: 4.66, num_itrs: 84
+State: 390, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 17.44, Solved: True, Time: 4.82
+Means, SolnCost: 90.53, # Nodes Gen: 337811.66, Itrs: 91.54, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.65, check: 0.57, heur: 2.02, add: 0.09, itr: 5.41, num_itrs: 96
+State: 391, SolnCost: 95.00, # Nodes Gen: 355,544, Itrs: 96, Itrs/sec: 17.30, Solved: True, Time: 5.55
+Means, SolnCost: 90.54, # Nodes Gen: 337856.90, Itrs: 91.55, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.06, check: 0.48, heur: 1.71, add: 0.08, itr: 4.40, num_itrs: 82
+State: 392, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 18.02, Solved: True, Time: 4.55
+Means, SolnCost: 90.52, # Nodes Gen: 337759.41, Itrs: 91.53, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.86, check: 0.43, heur: 1.54, add: 0.07, itr: 3.96, num_itrs: 74
+State: 393, SolnCost: 73.00, # Nodes Gen: 267,544, Itrs: 74, Itrs/sec: 18.10, Solved: True, Time: 4.09
+Means, SolnCost: 90.47, # Nodes Gen: 337581.20, Itrs: 91.48, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.78, check: 0.46, heur: 1.72, add: 0.07, itr: 4.09, num_itrs: 77
+State: 394, SolnCost: 76.00, # Nodes Gen: 277,980, Itrs: 77, Itrs/sec: 18.31, Solved: True, Time: 4.21
+Means, SolnCost: 90.44, # Nodes Gen: 337430.31, Itrs: 91.45, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.18, check: 0.51, heur: 1.77, add: 0.08, itr: 4.62, num_itrs: 85
+State: 395, SolnCost: 84.00, # Nodes Gen: 309,980, Itrs: 85, Itrs/sec: 17.94, Solved: True, Time: 4.74
+Means, SolnCost: 90.42, # Nodes Gen: 337360.99, Itrs: 91.43, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.42, check: 0.63, heur: 2.23, add: 0.42, itr: 5.78, num_itrs: 106
+State: 396, SolnCost: 105.00, # Nodes Gen: 395,544, Itrs: 106, Itrs/sec: 17.91, Solved: True, Time: 5.92
+Means, SolnCost: 90.46, # Nodes Gen: 337507.55, Itrs: 91.47, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.13, check: 0.52, heur: 1.93, add: 0.09, itr: 4.74, num_itrs: 88
+State: 397, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 17.94, Solved: True, Time: 4.91
+Means, SolnCost: 90.45, # Nodes Gen: 337476.88, Itrs: 91.46, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.98, check: 0.49, heur: 1.82, add: 0.07, itr: 4.44, num_itrs: 81
+State: 398, SolnCost: 80.00, # Nodes Gen: 296,800, Itrs: 81, Itrs/sec: 17.70, Solved: True, Time: 4.58
+Means, SolnCost: 90.42, # Nodes Gen: 337374.94, Itrs: 91.43, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.10, expand: 2.94, check: 0.66, heur: 2.46, add: 0.11, itr: 6.26, num_itrs: 110
+State: 399, SolnCost: 109.00, # Nodes Gen: 411,544, Itrs: 110, Itrs/sec: 17.21, Solved: True, Time: 6.39
+Means, SolnCost: 90.47, # Nodes Gen: 337560.36, Itrs: 91.48, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.61, check: 0.61, heur: 2.17, add: 0.10, itr: 5.58, num_itrs: 103
+State: 400, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.92, Solved: True, Time: 5.75
+Means, SolnCost: 90.50, # Nodes Gen: 337675.73, Itrs: 91.51, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 1.94, check: 0.53, heur: 1.85, add: 0.35, itr: 4.74, num_itrs: 88
+State: 401, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 17.94, Solved: True, Time: 4.90
+Means, SolnCost: 90.49, # Nodes Gen: 337640.58, Itrs: 91.50, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.67, check: 0.42, heur: 1.52, add: 0.07, itr: 3.73, num_itrs: 73
+State: 402, SolnCost: 72.00, # Nodes Gen: 261,980, Itrs: 73, Itrs/sec: 18.88, Solved: True, Time: 3.87
+Means, SolnCost: 90.44, # Nodes Gen: 337452.83, Itrs: 91.45, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.25, check: 0.57, heur: 2.00, add: 0.26, itr: 5.16, num_itrs: 95
+State: 403, SolnCost: 94.00, # Nodes Gen: 351,824, Itrs: 95, Itrs/sec: 17.97, Solved: True, Time: 5.29
+Means, SolnCost: 90.45, # Nodes Gen: 337488.41, Itrs: 91.46, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.06, expand: 1.89, check: 0.42, heur: 1.54, add: 0.07, itr: 3.99, num_itrs: 74
+State: 404, SolnCost: 73.00, # Nodes Gen: 267,544, Itrs: 74, Itrs/sec: 17.90, Solved: True, Time: 4.13
+Means, SolnCost: 90.41, # Nodes Gen: 337315.70, Itrs: 91.42, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.76, check: 0.61, heur: 2.15, add: 0.10, itr: 5.70, num_itrs: 102
+State: 405, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 17.52, Solved: True, Time: 5.82
+Means, SolnCost: 90.44, # Nodes Gen: 337419.71, Itrs: 91.45, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.08, expand: 2.58, check: 0.56, heur: 2.02, add: 0.09, itr: 5.33, num_itrs: 94
+State: 406, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.12, Solved: True, Time: 5.49
+Means, SolnCost: 90.44, # Nodes Gen: 337444.59, Itrs: 91.45, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.07, expand: 1.94, check: 0.45, heur: 1.64, add: 0.07, itr: 4.17, num_itrs: 77
+State: 407, SolnCost: 76.00, # Nodes Gen: 279,824, Itrs: 77, Itrs/sec: 17.86, Solved: True, Time: 4.31
+Means, SolnCost: 90.41, # Nodes Gen: 337303.36, Itrs: 91.42, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.69, check: 0.61, heur: 2.21, add: 0.10, itr: 5.70, num_itrs: 103
+State: 408, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.67, Solved: True, Time: 5.83
+Means, SolnCost: 90.44, # Nodes Gen: 337417.11, Itrs: 91.44, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.63, check: 0.60, heur: 2.21, add: 0.10, itr: 5.63, num_itrs: 103
+State: 409, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.77, Solved: True, Time: 5.80
+Means, SolnCost: 90.46, # Nodes Gen: 337530.29, Itrs: 91.47, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.10, expand: 2.77, check: 0.66, heur: 2.51, add: 0.11, itr: 6.14, num_itrs: 110
+State: 410, SolnCost: 109.00, # Nodes Gen: 411,544, Itrs: 110, Itrs/sec: 17.44, Solved: True, Time: 6.31
+Means, SolnCost: 90.51, # Nodes Gen: 337710.37, Itrs: 91.52, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.01, check: 0.51, heur: 1.83, add: 0.22, itr: 4.65, num_itrs: 87
+State: 411, SolnCost: 86.00, # Nodes Gen: 320,800, Itrs: 87, Itrs/sec: 18.04, Solved: True, Time: 4.82
+Means, SolnCost: 90.50, # Nodes Gen: 337669.33, Itrs: 91.51, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.29, check: 0.55, heur: 1.94, add: 0.22, itr: 5.09, num_itrs: 92
+State: 412, SolnCost: 91.00, # Nodes Gen: 341,304, Itrs: 92, Itrs/sec: 17.60, Solved: True, Time: 5.23
+Means, SolnCost: 90.50, # Nodes Gen: 337678.13, Itrs: 91.51, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.23, check: 0.56, heur: 1.95, add: 0.09, itr: 4.91, num_itrs: 93
+State: 413, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 18.37, Solved: True, Time: 5.06
+Means, SolnCost: 90.50, # Nodes Gen: 337692.98, Itrs: 91.51, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.29, check: 0.58, heur: 2.10, add: 0.33, itr: 5.38, num_itrs: 98
+State: 414, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.71, Solved: True, Time: 5.54
+Means, SolnCost: 90.52, # Nodes Gen: 337755.27, Itrs: 91.53, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.09, check: 0.52, heur: 1.88, add: 0.08, itr: 4.65, num_itrs: 88
+State: 415, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 18.33, Solved: True, Time: 4.80
+Means, SolnCost: 90.51, # Nodes Gen: 337721.11, Itrs: 91.52, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.01, check: 0.49, heur: 1.77, add: 0.17, itr: 4.50, num_itrs: 83
+State: 416, SolnCost: 82.00, # Nodes Gen: 303,824, Itrs: 83, Itrs/sec: 17.89, Solved: True, Time: 4.64
+Means, SolnCost: 90.49, # Nodes Gen: 337639.82, Itrs: 91.50, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.32, check: 0.61, heur: 2.19, add: 0.48, itr: 5.68, num_itrs: 102
+State: 417, SolnCost: 101.00, # Nodes Gen: 381,304, Itrs: 102, Itrs/sec: 17.53, Solved: True, Time: 5.82
+Means, SolnCost: 90.51, # Nodes Gen: 337744.28, Itrs: 91.52, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.27, check: 0.57, heur: 2.03, add: 0.09, itr: 5.04, num_itrs: 95
+State: 418, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 18.27, Solved: True, Time: 5.20
+Means, SolnCost: 90.52, # Nodes Gen: 337773.48, Itrs: 91.53, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.65, check: 0.61, heur: 2.17, add: 0.10, itr: 5.62, num_itrs: 103
+State: 419, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.84, Solved: True, Time: 5.77
+Means, SolnCost: 90.55, # Nodes Gen: 337883.12, Itrs: 91.56, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.81, check: 0.49, heur: 1.82, add: 0.40, itr: 4.59, num_itrs: 83
+State: 420, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 17.46, Solved: True, Time: 4.75
+Means, SolnCost: 90.53, # Nodes Gen: 337804.54, Itrs: 91.54, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.38, check: 0.57, heur: 2.09, add: 0.09, itr: 5.22, num_itrs: 96
+State: 421, SolnCost: 95.00, # Nodes Gen: 357,304, Itrs: 96, Itrs/sec: 17.93, Solved: True, Time: 5.36
+Means, SolnCost: 90.54, # Nodes Gen: 337850.75, Itrs: 91.55, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.41, check: 0.62, heur: 2.42, add: 0.10, itr: 5.64, num_itrs: 103
+State: 422, SolnCost: 102.00, # Nodes Gen: 383,824, Itrs: 103, Itrs/sec: 17.76, Solved: True, Time: 5.80
+Means, SolnCost: 90.57, # Nodes Gen: 337959.43, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.10, expand: 2.41, check: 0.65, heur: 2.72, add: 0.11, itr: 6.00, num_itrs: 111
+State: 423, SolnCost: 110.00, # Nodes Gen: 413,980, Itrs: 111, Itrs/sec: 18.01, Solved: True, Time: 6.16
+Means, SolnCost: 90.61, # Nodes Gen: 338138.73, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.83, check: 0.42, heur: 1.53, add: 0.07, itr: 3.91, num_itrs: 73
+State: 424, SolnCost: 72.00, # Nodes Gen: 263,824, Itrs: 73, Itrs/sec: 17.91, Solved: True, Time: 4.08
+Means, SolnCost: 90.57, # Nodes Gen: 337963.87, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.82, check: 0.62, heur: 2.21, add: 0.10, itr: 5.85, num_itrs: 105
+State: 425, SolnCost: 104.00, # Nodes Gen: 391,824, Itrs: 105, Itrs/sec: 17.58, Solved: True, Time: 5.97
+Means, SolnCost: 90.60, # Nodes Gen: 338090.30, Itrs: 91.61, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.39, check: 0.55, heur: 1.94, add: 0.09, itr: 5.05, num_itrs: 92
+State: 426, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.65, Solved: True, Time: 5.21
+Means, SolnCost: 90.60, # Nodes Gen: 338093.70, Itrs: 91.61, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.35, check: 0.58, heur: 2.05, add: 0.21, itr: 5.27, num_itrs: 97
+State: 427, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.89, Solved: True, Time: 5.42
+Means, SolnCost: 90.61, # Nodes Gen: 338144.48, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.27, check: 0.57, heur: 1.99, add: 0.27, itr: 5.19, num_itrs: 95
+State: 428, SolnCost: 94.00, # Nodes Gen: 349,980, Itrs: 95, Itrs/sec: 17.79, Solved: True, Time: 5.34
+Means, SolnCost: 90.62, # Nodes Gen: 338172.07, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.39, check: 0.56, heur: 2.20, add: 0.09, itr: 5.32, num_itrs: 94
+State: 429, SolnCost: 93.00, # Nodes Gen: 349,304, Itrs: 94, Itrs/sec: 17.18, Solved: True, Time: 5.47
+Means, SolnCost: 90.63, # Nodes Gen: 338197.95, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.78, check: 0.44, heur: 1.78, add: 0.07, itr: 4.14, num_itrs: 76
+State: 430, SolnCost: 75.00, # Nodes Gen: 275,544, Itrs: 76, Itrs/sec: 17.74, Solved: True, Time: 4.29
+Means, SolnCost: 90.59, # Nodes Gen: 338052.58, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 1.96, check: 0.54, heur: 1.90, add: 0.30, itr: 4.78, num_itrs: 90
+State: 431, SolnCost: 89.00, # Nodes Gen: 333,304, Itrs: 90, Itrs/sec: 18.35, Solved: True, Time: 4.90
+Means, SolnCost: 90.59, # Nodes Gen: 338041.59, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.73, check: 0.65, heur: 2.30, add: 0.32, itr: 6.09, num_itrs: 109
+State: 432, SolnCost: 108.00, # Nodes Gen: 407,824, Itrs: 109, Itrs/sec: 17.48, Solved: True, Time: 6.24
+Means, SolnCost: 90.63, # Nodes Gen: 338202.75, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.74, check: 0.61, heur: 2.29, add: 0.17, itr: 5.89, num_itrs: 103
+State: 433, SolnCost: 102.00, # Nodes Gen: 381,980, Itrs: 103, Itrs/sec: 17.01, Solved: True, Time: 6.06
+Means, SolnCost: 90.65, # Nodes Gen: 338303.62, Itrs: 91.66, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.05, expand: 1.12, check: 0.37, heur: 1.46, add: 0.30, itr: 3.31, num_itrs: 65
+State: 434, SolnCost: 64.00, # Nodes Gen: 229,980, Itrs: 65, Itrs/sec: 18.78, Solved: True, Time: 3.46
+Means, SolnCost: 90.59, # Nodes Gen: 338054.60, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.57, check: 0.60, heur: 2.12, add: 0.23, itr: 5.60, num_itrs: 100
+State: 435, SolnCost: 99.00, # Nodes Gen: 373,304, Itrs: 100, Itrs/sec: 17.51, Solved: True, Time: 5.71
+Means, SolnCost: 90.61, # Nodes Gen: 338135.45, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.12, check: 0.50, heur: 1.74, add: 0.08, itr: 4.51, num_itrs: 83
+State: 436, SolnCost: 82.00, # Nodes Gen: 304,800, Itrs: 83, Itrs/sec: 17.78, Solved: True, Time: 4.67
+Means, SolnCost: 90.59, # Nodes Gen: 338059.17, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.63, check: 0.61, heur: 2.23, add: 0.10, itr: 5.66, num_itrs: 102
+State: 437, SolnCost: 101.00, # Nodes Gen: 379,544, Itrs: 102, Itrs/sec: 17.60, Solved: True, Time: 5.80
+Means, SolnCost: 90.62, # Nodes Gen: 338153.88, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.91, check: 0.47, heur: 1.83, add: 0.08, itr: 4.36, num_itrs: 81
+State: 438, SolnCost: 80.00, # Nodes Gen: 295,824, Itrs: 81, Itrs/sec: 17.93, Solved: True, Time: 4.52
+Means, SolnCost: 90.59, # Nodes Gen: 338057.46, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.85, check: 0.52, heur: 1.99, add: 0.21, itr: 4.64, num_itrs: 87
+State: 439, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 18.23, Solved: True, Time: 4.77
+Means, SolnCost: 90.58, # Nodes Gen: 338016.02, Itrs: 91.59, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.27, check: 0.57, heur: 2.08, add: 0.09, itr: 5.09, num_itrs: 94
+State: 440, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.96, Solved: True, Time: 5.23
+Means, SolnCost: 90.59, # Nodes Gen: 338037.62, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.44, check: 0.60, heur: 2.29, add: 0.09, itr: 5.52, num_itrs: 98
+State: 441, SolnCost: 97.00, # Nodes Gen: 365,304, Itrs: 98, Itrs/sec: 17.30, Solved: True, Time: 5.67
+Means, SolnCost: 90.60, # Nodes Gen: 338099.31, Itrs: 91.61, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.35, check: 0.56, heur: 2.06, add: 0.09, itr: 5.14, num_itrs: 94
+State: 442, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.75, Solved: True, Time: 5.29
+Means, SolnCost: 90.61, # Nodes Gen: 338120.63, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.64, check: 0.60, heur: 2.13, add: 0.19, itr: 5.65, num_itrs: 101
+State: 443, SolnCost: 100.00, # Nodes Gen: 376,800, Itrs: 101, Itrs/sec: 17.40, Solved: True, Time: 5.80
+Means, SolnCost: 90.63, # Nodes Gen: 338207.75, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 1.73, check: 0.46, heur: 1.81, add: 0.07, itr: 4.14, num_itrs: 76
+State: 444, SolnCost: 75.00, # Nodes Gen: 275,544, Itrs: 76, Itrs/sec: 17.67, Solved: True, Time: 4.30
+Means, SolnCost: 90.59, # Nodes Gen: 338066.93, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.64, check: 0.59, heur: 2.09, add: 0.10, itr: 5.50, num_itrs: 99
+State: 445, SolnCost: 98.00, # Nodes Gen: 368,800, Itrs: 99, Itrs/sec: 17.58, Solved: True, Time: 5.63
+Means, SolnCost: 90.61, # Nodes Gen: 338135.84, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.61, check: 0.57, heur: 2.01, add: 0.09, itr: 5.36, num_itrs: 95
+State: 446, SolnCost: 94.00, # Nodes Gen: 353,752, Itrs: 95, Itrs/sec: 17.20, Solved: True, Time: 5.52
+Means, SolnCost: 90.62, # Nodes Gen: 338170.77, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.39, check: 0.56, heur: 2.20, add: 0.09, itr: 5.33, num_itrs: 94
+State: 447, SolnCost: 93.00, # Nodes Gen: 347,544, Itrs: 94, Itrs/sec: 17.14, Solved: True, Time: 5.48
+Means, SolnCost: 90.62, # Nodes Gen: 338191.70, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.59, check: 0.58, heur: 2.14, add: 0.09, itr: 5.49, num_itrs: 97
+State: 448, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 17.20, Solved: True, Time: 5.64
+Means, SolnCost: 90.63, # Nodes Gen: 338235.77, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.34, check: 0.55, heur: 1.95, add: 0.09, itr: 5.00, num_itrs: 91
+State: 449, SolnCost: 90.00, # Nodes Gen: 336,800, Itrs: 91, Itrs/sec: 17.65, Solved: True, Time: 5.16
+Means, SolnCost: 90.63, # Nodes Gen: 338232.58, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.20, check: 0.54, heur: 2.04, add: 0.28, itr: 5.14, num_itrs: 92
+State: 450, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.39, Solved: True, Time: 5.29
+Means, SolnCost: 90.63, # Nodes Gen: 338235.49, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.35, check: 0.52, heur: 1.85, add: 0.09, itr: 4.89, num_itrs: 88
+State: 451, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 17.47, Solved: True, Time: 5.04
+Means, SolnCost: 90.63, # Nodes Gen: 338206.88, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.67, check: 0.47, heur: 1.69, add: 0.48, itr: 4.38, num_itrs: 81
+State: 452, SolnCost: 80.00, # Nodes Gen: 293,980, Itrs: 81, Itrs/sec: 17.90, Solved: True, Time: 4.52
+Means, SolnCost: 90.60, # Nodes Gen: 338109.25, Itrs: 91.61, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.72, check: 0.64, heur: 2.24, add: 0.19, itr: 5.88, num_itrs: 106
+State: 453, SolnCost: 105.00, # Nodes Gen: 395,544, Itrs: 106, Itrs/sec: 17.63, Solved: True, Time: 6.01
+Means, SolnCost: 90.63, # Nodes Gen: 338235.75, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.49, check: 0.59, heur: 2.07, add: 0.09, itr: 5.33, num_itrs: 98
+State: 454, SolnCost: 97.00, # Nodes Gen: 363,544, Itrs: 98, Itrs/sec: 17.83, Solved: True, Time: 5.50
+Means, SolnCost: 90.65, # Nodes Gen: 338291.38, Itrs: 91.66, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.98, check: 0.51, heur: 1.82, add: 0.15, itr: 4.54, num_itrs: 85
+State: 455, SolnCost: 84.00, # Nodes Gen: 312,800, Itrs: 85, Itrs/sec: 18.11, Solved: True, Time: 4.69
+Means, SolnCost: 90.63, # Nodes Gen: 338235.47, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.21, check: 0.55, heur: 2.20, add: 0.09, itr: 5.13, num_itrs: 92
+State: 456, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.47, Solved: True, Time: 5.27
+Means, SolnCost: 90.63, # Nodes Gen: 338238.34, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.12, check: 0.48, heur: 1.75, add: 0.08, itr: 4.50, num_itrs: 82
+State: 457, SolnCost: 81.00, # Nodes Gen: 299,544, Itrs: 82, Itrs/sec: 17.66, Solved: True, Time: 4.64
+Means, SolnCost: 90.61, # Nodes Gen: 338153.85, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.33, check: 0.55, heur: 1.97, add: 0.16, itr: 5.09, num_itrs: 92
+State: 458, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.61, Solved: True, Time: 5.22
+Means, SolnCost: 90.61, # Nodes Gen: 338156.88, Itrs: 91.62, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.19, check: 0.59, heur: 2.30, add: 0.17, itr: 5.33, num_itrs: 99
+State: 459, SolnCost: 98.00, # Nodes Gen: 367,824, Itrs: 99, Itrs/sec: 18.05, Solved: True, Time: 5.48
+Means, SolnCost: 90.63, # Nodes Gen: 338221.37, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.20, check: 0.58, heur: 2.17, add: 0.42, itr: 5.45, num_itrs: 100
+State: 460, SolnCost: 99.00, # Nodes Gen: 371,544, Itrs: 100, Itrs/sec: 17.82, Solved: True, Time: 5.61
+Means, SolnCost: 90.65, # Nodes Gen: 338293.66, Itrs: 91.66, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.93, check: 0.46, heur: 1.64, add: 0.07, itr: 4.17, num_itrs: 78
+State: 461, SolnCost: 77.00, # Nodes Gen: 285,304, Itrs: 78, Itrs/sec: 18.05, Solved: True, Time: 4.32
+Means, SolnCost: 90.62, # Nodes Gen: 338178.96, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.12, check: 0.47, heur: 1.68, add: 0.07, itr: 4.41, num_itrs: 80
+State: 462, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 17.64, Solved: True, Time: 4.53
+Means, SolnCost: 90.59, # Nodes Gen: 338078.24, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.10, check: 0.53, heur: 2.10, add: 0.08, itr: 4.89, num_itrs: 88
+State: 463, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 17.53, Solved: True, Time: 5.02
+Means, SolnCost: 90.59, # Nodes Gen: 338050.71, Itrs: 91.59, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.98, check: 0.51, heur: 2.08, add: 0.08, itr: 4.73, num_itrs: 86
+State: 464, SolnCost: 85.00, # Nodes Gen: 315,544, Itrs: 86, Itrs/sec: 17.64, Solved: True, Time: 4.88
+Means, SolnCost: 90.57, # Nodes Gen: 338002.31, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.88, check: 0.45, heur: 1.61, add: 0.14, itr: 4.14, num_itrs: 76
+State: 465, SolnCost: 75.00, # Nodes Gen: 275,544, Itrs: 76, Itrs/sec: 17.76, Solved: True, Time: 4.28
+Means, SolnCost: 90.54, # Nodes Gen: 337868.27, Itrs: 91.55, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.20
+
+Times - pop: 0.09, expand: 2.70, check: 0.63, heur: 2.31, add: 0.10, itr: 5.83, num_itrs: 105
+State: 466, SolnCost: 104.00, # Nodes Gen: 392,800, Itrs: 105, Itrs/sec: 17.61, Solved: True, Time: 5.96
+Means, SolnCost: 90.57, # Nodes Gen: 337985.90, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.19, check: 0.54, heur: 2.05, add: 0.09, itr: 4.94, num_itrs: 91
+State: 467, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.82, Solved: True, Time: 5.11
+Means, SolnCost: 90.57, # Nodes Gen: 337981.28, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.23, check: 0.55, heur: 1.96, add: 0.18, itr: 5.01, num_itrs: 92
+State: 468, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 17.83, Solved: True, Time: 5.16
+Means, SolnCost: 90.57, # Nodes Gen: 337984.61, Itrs: 91.58, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.55, check: 0.58, heur: 2.05, add: 0.18, itr: 5.45, num_itrs: 97
+State: 469, SolnCost: 96.00, # Nodes Gen: 359,824, Itrs: 97, Itrs/sec: 17.34, Solved: True, Time: 5.59
+Means, SolnCost: 90.58, # Nodes Gen: 338031.08, Itrs: 91.59, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.10, check: 0.54, heur: 2.13, add: 0.09, itr: 4.93, num_itrs: 90
+State: 470, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 17.69, Solved: True, Time: 5.09
+Means, SolnCost: 90.58, # Nodes Gen: 338017.31, Itrs: 91.59, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.70, check: 0.50, heur: 2.17, add: 0.23, itr: 4.69, num_itrs: 85
+State: 471, SolnCost: 84.00, # Nodes Gen: 311,824, Itrs: 85, Itrs/sec: 17.60, Solved: True, Time: 4.83
+Means, SolnCost: 90.56, # Nodes Gen: 337961.81, Itrs: 91.57, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.19, check: 0.51, heur: 1.84, add: 0.16, itr: 4.78, num_itrs: 87
+State: 472, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 17.70, Solved: True, Time: 4.91
+Means, SolnCost: 90.55, # Nodes Gen: 337919.57, Itrs: 91.56, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.20, check: 0.58, heur: 2.16, add: 0.21, itr: 5.23, num_itrs: 97
+State: 473, SolnCost: 96.00, # Nodes Gen: 357,980, Itrs: 97, Itrs/sec: 18.05, Solved: True, Time: 5.37
+Means, SolnCost: 90.57, # Nodes Gen: 337961.89, Itrs: 91.57, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.65, check: 0.63, heur: 2.44, add: 0.10, itr: 5.92, num_itrs: 104
+State: 474, SolnCost: 103.00, # Nodes Gen: 389,304, Itrs: 104, Itrs/sec: 17.10, Solved: True, Time: 6.08
+Means, SolnCost: 90.59, # Nodes Gen: 338069.98, Itrs: 91.60, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.10, expand: 2.61, check: 0.66, heur: 2.45, add: 0.51, itr: 6.33, num_itrs: 111
+State: 475, SolnCost: 110.00, # Nodes Gen: 416,800, Itrs: 111, Itrs/sec: 17.08, Solved: True, Time: 6.50
+Means, SolnCost: 90.63, # Nodes Gen: 338235.38, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.14, check: 0.55, heur: 2.11, add: 0.09, itr: 4.98, num_itrs: 93
+State: 476, SolnCost: 92.00, # Nodes Gen: 343,824, Itrs: 93, Itrs/sec: 18.06, Solved: True, Time: 5.15
+Means, SolnCost: 90.64, # Nodes Gen: 338247.09, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.05, check: 0.55, heur: 2.09, add: 0.49, itr: 5.26, num_itrs: 90
+State: 477, SolnCost: 89.00, # Nodes Gen: 331,544, Itrs: 90, Itrs/sec: 16.61, Solved: True, Time: 5.42
+Means, SolnCost: 90.63, # Nodes Gen: 338233.07, Itrs: 91.64, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.43, check: 0.54, heur: 2.03, add: 0.09, itr: 5.17, num_itrs: 88
+State: 478, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 16.41, Solved: True, Time: 5.36
+Means, SolnCost: 90.62, # Nodes Gen: 338202.41, Itrs: 91.63, Itrs/sec: 17.63, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.88, check: 0.54, heur: 1.88, add: 0.09, itr: 5.47, num_itrs: 88
+State: 479, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 15.54, Solved: True, Time: 5.66
+Means, SolnCost: 90.62, # Nodes Gen: 338171.87, Itrs: 91.62, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.46, check: 0.52, heur: 1.90, add: 0.22, itr: 5.18, num_itrs: 84
+State: 480, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 15.64, Solved: True, Time: 5.37
+Means, SolnCost: 90.60, # Nodes Gen: 338108.19, Itrs: 91.61, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 1.93, check: 0.54, heur: 2.40, add: 0.09, itr: 5.03, num_itrs: 87
+State: 481, SolnCost: 86.00, # Nodes Gen: 317,980, Itrs: 87, Itrs/sec: 16.70, Solved: True, Time: 5.21
+Means, SolnCost: 90.59, # Nodes Gen: 338066.43, Itrs: 91.60, Itrs/sec: 17.62, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.06, expand: 1.97, check: 0.45, heur: 1.61, add: 0.07, itr: 4.16, num_itrs: 72
+State: 482, SolnCost: 71.00, # Nodes Gen: 259,544, Itrs: 72, Itrs/sec: 16.57, Solved: True, Time: 4.34
+Means, SolnCost: 90.55, # Nodes Gen: 337903.86, Itrs: 91.56, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 3.00, check: 0.60, heur: 2.06, add: 0.10, itr: 5.86, num_itrs: 96
+State: 483, SolnCost: 95.00, # Nodes Gen: 357,304, Itrs: 96, Itrs/sec: 15.97, Solved: True, Time: 6.01
+Means, SolnCost: 90.56, # Nodes Gen: 337943.94, Itrs: 91.57, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.71, check: 0.54, heur: 1.89, add: 0.09, itr: 5.32, num_itrs: 88
+State: 484, SolnCost: 87.00, # Nodes Gen: 323,544, Itrs: 88, Itrs/sec: 15.93, Solved: True, Time: 5.53
+Means, SolnCost: 90.55, # Nodes Gen: 337914.25, Itrs: 91.56, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.19, check: 0.52, heur: 1.80, add: 0.33, itr: 4.93, num_itrs: 84
+State: 485, SolnCost: 83.00, # Nodes Gen: 309,304, Itrs: 84, Itrs/sec: 16.41, Solved: True, Time: 5.12
+Means, SolnCost: 90.54, # Nodes Gen: 337855.38, Itrs: 91.55, Itrs/sec: 17.61, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.40, check: 0.49, heur: 1.79, add: 0.08, itr: 4.84, num_itrs: 80
+State: 486, SolnCost: 79.00, # Nodes Gen: 291,544, Itrs: 80, Itrs/sec: 15.93, Solved: True, Time: 5.02
+Means, SolnCost: 90.51, # Nodes Gen: 337760.29, Itrs: 91.52, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 2.19, check: 0.52, heur: 1.79, add: 0.38, itr: 4.95, num_itrs: 84
+State: 487, SolnCost: 83.00, # Nodes Gen: 307,544, Itrs: 84, Itrs/sec: 16.38, Solved: True, Time: 5.13
+Means, SolnCost: 90.50, # Nodes Gen: 337698.37, Itrs: 91.51, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.44, check: 0.57, heur: 2.09, add: 0.24, itr: 5.41, num_itrs: 95
+State: 488, SolnCost: 94.00, # Nodes Gen: 351,824, Itrs: 95, Itrs/sec: 16.98, Solved: True, Time: 5.59
+Means, SolnCost: 90.51, # Nodes Gen: 337727.26, Itrs: 91.51, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.07, expand: 1.55, check: 0.49, heur: 2.42, add: 0.08, itr: 4.62, num_itrs: 82
+State: 489, SolnCost: 81.00, # Nodes Gen: 301,304, Itrs: 82, Itrs/sec: 17.14, Solved: True, Time: 4.78
+Means, SolnCost: 90.49, # Nodes Gen: 337652.92, Itrs: 91.49, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.06, check: 0.54, heur: 2.20, add: 0.22, itr: 5.10, num_itrs: 91
+State: 490, SolnCost: 90.00, # Nodes Gen: 335,824, Itrs: 91, Itrs/sec: 17.38, Solved: True, Time: 5.24
+Means, SolnCost: 90.48, # Nodes Gen: 337649.20, Itrs: 91.49, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.11, check: 0.58, heur: 2.37, add: 0.29, itr: 5.42, num_itrs: 95
+State: 491, SolnCost: 94.00, # Nodes Gen: 351,824, Itrs: 95, Itrs/sec: 17.03, Solved: True, Time: 5.58
+Means, SolnCost: 90.49, # Nodes Gen: 337678.01, Itrs: 91.50, Itrs/sec: 17.60, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.74, check: 0.56, heur: 1.97, add: 0.09, itr: 5.44, num_itrs: 89
+State: 492, SolnCost: 88.00, # Nodes Gen: 327,824, Itrs: 89, Itrs/sec: 15.87, Solved: True, Time: 5.61
+Means, SolnCost: 90.49, # Nodes Gen: 337658.02, Itrs: 91.49, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.09, expand: 2.73, check: 0.55, heur: 1.87, add: 0.25, itr: 5.48, num_itrs: 87
+State: 493, SolnCost: 86.00, # Nodes Gen: 319,824, Itrs: 87, Itrs/sec: 15.36, Solved: True, Time: 5.66
+Means, SolnCost: 90.48, # Nodes Gen: 337621.92, Itrs: 91.49, Itrs/sec: 17.59, Solved: 100.00%, Time: 5.21
+
+Times - pop: 0.08, expand: 2.59, check: 0.58, heur: 1.98, add: 0.42, itr: 5.66, num_itrs: 92
+State: 494, SolnCost: 91.00, # Nodes Gen: 339,544, Itrs: 92, Itrs/sec: 15.75, Solved: True, Time: 5.84
+Means, SolnCost: 90.48, # Nodes Gen: 337625.80, Itrs: 91.49, Itrs/sec: 17.58, Solved: 100.00%, Time: 5.22
+
+Times - pop: 0.08, expand: 2.78, check: 0.56, heur: 1.89, add: 0.09, itr: 5.40, num_itrs: 88
+State: 495, SolnCost: 87.00, # Nodes Gen: 325,304, Itrs: 88, Itrs/sec: 15.74, Solved: True, Time: 5.59
+Means, SolnCost: 90.47, # Nodes Gen: 337600.96, Itrs: 91.48, Itrs/sec: 17.58, Solved: 100.00%, Time: 5.22
+
