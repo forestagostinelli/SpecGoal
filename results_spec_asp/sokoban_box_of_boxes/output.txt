@@ -1,0 +1,403 @@
+Parsed input clauses:
+[goal:- box_of_boxes]
+device: cuda:0, devices: [0, 1], on_gpu: True
+ASP init: 0.351309, Model samp: 2.921470, Search: 27.199461, Check: 0.001832, Model superset: 0.000000, Tot: 30.474072
+State: 0, PathCost: 10.00, # Models init: 8, # Models superset: 0, Solved: True, Time: 30.49
+Means, SolnCost: 10.00, # Models init: 8.00, # Models superset: 0.00, Solved: 100.00%, Times - ASP init: 0.35, Model: 2.92, Search: 27.20, Check: 0.00, Superset: 0.00, Tot: 30.49
+
+ASP init: 0.042471, Model samp: 0.323987, Search: 1.846468, Check: 0.002071, Model superset: 0.000000, Tot: 2.214997
+State: 1, PathCost: 24.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.22
+Means, SolnCost: 17.00, # Models init: 4.50, # Models superset: 0.00, Solved: 100.00%, Times - ASP init: 0.20, Model: 1.62, Search: 14.52, Check: 0.00, Superset: 0.00, Tot: 16.35
+
+ASP init: 0.042955, Model samp: 0.293135, Search: 2.324743, Check: 0.002235, Model superset: 0.000000, Tot: 2.663069
+State: 2, PathCost: 28.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.66
+Means, SolnCost: 20.67, # Models init: 3.33, # Models superset: 0.00, Solved: 100.00%, Times - ASP init: 0.15, Model: 1.18, Search: 10.46, Check: 0.00, Superset: 0.00, Tot: 11.79
+
+ASP init: 0.043091, Model samp: 0.250115, Search: 2.211121, Check: 0.002079, Model superset: 0.000000, Tot: 2.506406
+State: 3, PathCost: 27.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.51
+Means, SolnCost: 22.25, # Models init: 2.75, # Models superset: 0.00, Solved: 100.00%, Times - ASP init: 0.12, Model: 0.95, Search: 8.40, Check: 0.00, Superset: 0.00, Tot: 9.47
+
+ASP init: 0.388445, Model samp: 2.660620, Search: 9.950501, Check: 0.000000, Model superset: 0.000000, Tot: 12.999566
+State: 4, PathCost: -1.00, # Models init: 8, # Models superset: 0, Solved: False, Time: 13.01
+Means, SolnCost: 22.25, # Models init: 2.75, # Models superset: 0.00, Solved: 80.00%, Times - ASP init: 0.12, Model: 0.95, Search: 8.40, Check: 0.00, Superset: 0.00, Tot: 9.47
+
+ASP init: 0.214526, Model samp: 1.373584, Search: 1.602264, Check: 0.000000, Model superset: 0.000000, Tot: 3.190374
+State: 5, PathCost: -1.00, # Models init: 4, # Models superset: 0, Solved: False, Time: 3.19
+Means, SolnCost: 22.25, # Models init: 2.75, # Models superset: 0.00, Solved: 66.67%, Times - ASP init: 0.12, Model: 0.95, Search: 8.40, Check: 0.00, Superset: 0.00, Tot: 9.47
+
+ASP init: 0.041975, Model samp: 0.318388, Search: 1.226580, Check: 0.002044, Model superset: 0.000000, Tot: 1.588988
+State: 6, PathCost: 20.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.59
+Means, SolnCost: 21.80, # Models init: 2.40, # Models superset: 0.00, Solved: 71.43%, Times - ASP init: 0.10, Model: 0.82, Search: 6.96, Check: 0.00, Superset: 0.00, Tot: 7.89
+
+ASP init: 0.042862, Model samp: 0.236974, Search: 4.036210, Check: 0.002171, Model superset: 0.000000, Tot: 4.318217
+State: 7, PathCost: 46.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.32
+Means, SolnCost: 25.83, # Models init: 2.17, # Models superset: 0.00, Solved: 75.00%, Times - ASP init: 0.09, Model: 0.72, Search: 6.47, Check: 0.00, Superset: 0.00, Tot: 7.30
+
+ASP init: 0.086676, Model samp: 0.541365, Search: 7.445599, Check: 0.002162, Model superset: 0.000000, Tot: 8.075802
+State: 8, PathCost: 37.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 8.08
+Means, SolnCost: 27.43, # Models init: 2.14, # Models superset: 0.00, Solved: 77.78%, Times - ASP init: 0.09, Model: 0.70, Search: 6.61, Check: 0.00, Superset: 0.00, Tot: 7.41
+
+ASP init: 0.043179, Model samp: 0.249567, Search: 2.318080, Check: 0.002085, Model superset: 0.000000, Tot: 2.612911
+State: 9, PathCost: 31.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.61
+Means, SolnCost: 27.88, # Models init: 2.00, # Models superset: 0.00, Solved: 80.00%, Times - ASP init: 0.09, Model: 0.64, Search: 6.08, Check: 0.00, Superset: 0.00, Tot: 6.81
+
+ASP init: 0.042895, Model samp: 0.225683, Search: 2.797295, Check: 0.002174, Model superset: 0.000000, Tot: 3.068048
+State: 10, PathCost: 36.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.07
+Means, SolnCost: 28.78, # Models init: 1.89, # Models superset: 0.00, Solved: 81.82%, Times - ASP init: 0.08, Model: 0.60, Search: 5.71, Check: 0.00, Superset: 0.00, Tot: 6.39
+
+ASP init: 0.086567, Model samp: 0.616686, Search: 5.840325, Check: 0.002074, Model superset: 0.000000, Tot: 6.545652
+State: 11, PathCost: 23.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 6.55
+Means, SolnCost: 28.20, # Models init: 1.90, # Models superset: 0.00, Solved: 83.33%, Times - ASP init: 0.08, Model: 0.60, Search: 5.72, Check: 0.00, Superset: 0.00, Tot: 6.41
+
+ASP init: 0.043072, Model samp: 0.221527, Search: 3.786551, Check: 0.002223, Model superset: 0.000000, Tot: 4.053373
+State: 12, PathCost: 45.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.05
+Means, SolnCost: 29.73, # Models init: 1.82, # Models superset: 0.00, Solved: 84.62%, Times - ASP init: 0.08, Model: 0.56, Search: 5.55, Check: 0.00, Superset: 0.00, Tot: 6.20
+
+ASP init: 0.086048, Model samp: 0.623810, Search: 6.719980, Check: 0.002101, Model superset: 0.000000, Tot: 7.431939
+State: 13, PathCost: 45.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.43
+Means, SolnCost: 31.00, # Models init: 1.83, # Models superset: 0.00, Solved: 85.71%, Times - ASP init: 0.08, Model: 0.57, Search: 5.65, Check: 0.00, Superset: 0.00, Tot: 6.30
+
+ASP init: 0.043194, Model samp: 0.307114, Search: 1.577605, Check: 0.002065, Model superset: 0.000000, Tot: 1.929978
+State: 14, PathCost: 20.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.93
+Means, SolnCost: 30.15, # Models init: 1.77, # Models superset: 0.00, Solved: 86.67%, Times - ASP init: 0.08, Model: 0.55, Search: 5.33, Check: 0.00, Superset: 0.00, Tot: 5.96
+
+ASP init: 0.172822, Model samp: 1.323850, Search: 10.614035, Check: 0.001997, Model superset: 0.000000, Tot: 12.112704
+State: 15, PathCost: 28.00, # Models init: 4, # Models superset: 0, Solved: True, Time: 12.12
+Means, SolnCost: 30.00, # Models init: 1.93, # Models superset: 0.00, Solved: 87.50%, Times - ASP init: 0.08, Model: 0.60, Search: 5.71, Check: 0.00, Superset: 0.00, Tot: 6.40
+
+ASP init: 0.042938, Model samp: 0.262347, Search: 3.100068, Check: 0.002082, Model superset: 0.000000, Tot: 3.407435
+State: 16, PathCost: 37.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.41
+Means, SolnCost: 30.47, # Models init: 1.87, # Models superset: 0.00, Solved: 88.24%, Times - ASP init: 0.08, Model: 0.58, Search: 5.54, Check: 0.00, Superset: 0.00, Tot: 6.20
+
+ASP init: 0.043107, Model samp: 0.270333, Search: 2.419638, Check: 0.002078, Model superset: 0.000000, Tot: 2.735156
+State: 17, PathCost: 31.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.74
+Means, SolnCost: 30.50, # Models init: 1.81, # Models superset: 0.00, Solved: 88.89%, Times - ASP init: 0.08, Model: 0.56, Search: 5.34, Check: 0.00, Superset: 0.00, Tot: 5.99
+
+ASP init: 0.043150, Model samp: 0.301928, Search: 2.413906, Check: 0.002093, Model superset: 0.000000, Tot: 2.761077
+State: 18, PathCost: 30.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.76
+Means, SolnCost: 30.47, # Models init: 1.76, # Models superset: 0.00, Solved: 89.47%, Times - ASP init: 0.08, Model: 0.55, Search: 5.17, Check: 0.00, Superset: 0.00, Tot: 5.80
+
+ASP init: 0.042948, Model samp: 0.310453, Search: 2.112757, Check: 0.002106, Model superset: 0.000000, Tot: 2.468263
+State: 19, PathCost: 30.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.47
+Means, SolnCost: 30.44, # Models init: 1.72, # Models superset: 0.00, Solved: 90.00%, Times - ASP init: 0.07, Model: 0.53, Search: 5.00, Check: 0.00, Superset: 0.00, Tot: 5.61
+
+ASP init: 0.215734, Model samp: 1.598605, Search: 19.440292, Check: 0.002139, Model superset: 0.000000, Tot: 21.256770
+State: 20, PathCost: 49.00, # Models init: 5, # Models superset: 0, Solved: True, Time: 21.26
+Means, SolnCost: 31.42, # Models init: 1.89, # Models superset: 0.00, Solved: 90.48%, Times - ASP init: 0.08, Model: 0.59, Search: 5.76, Check: 0.00, Superset: 0.00, Tot: 6.44
+
+ASP init: 0.086888, Model samp: 0.667823, Search: 6.684846, Check: 0.002034, Model superset: 0.000000, Tot: 7.441592
+State: 21, PathCost: 27.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.44
+Means, SolnCost: 31.20, # Models init: 1.90, # Models superset: 0.00, Solved: 90.91%, Times - ASP init: 0.08, Model: 0.59, Search: 5.81, Check: 0.00, Superset: 0.00, Tot: 6.49
+
+ASP init: 0.086249, Model samp: 0.494727, Search: 8.150552, Check: 0.002271, Model superset: 0.000000, Tot: 8.733800
+State: 22, PathCost: 48.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 8.74
+Means, SolnCost: 32.00, # Models init: 1.90, # Models superset: 0.00, Solved: 91.30%, Times - ASP init: 0.08, Model: 0.59, Search: 5.92, Check: 0.00, Superset: 0.00, Tot: 6.59
+
+ASP init: 0.043035, Model samp: 0.311146, Search: 3.704193, Check: 0.002074, Model superset: 0.000000, Tot: 4.060448
+State: 23, PathCost: 42.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.06
+Means, SolnCost: 32.45, # Models init: 1.86, # Models superset: 0.00, Solved: 91.67%, Times - ASP init: 0.08, Model: 0.58, Search: 5.82, Check: 0.00, Superset: 0.00, Tot: 6.48
+
+ASP init: 0.086128, Model samp: 0.556145, Search: 6.592947, Check: 0.002086, Model superset: 0.000000, Tot: 7.237307
+State: 24, PathCost: 29.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.24
+Means, SolnCost: 32.30, # Models init: 1.87, # Models superset: 0.00, Solved: 92.00%, Times - ASP init: 0.08, Model: 0.58, Search: 5.85, Check: 0.00, Superset: 0.00, Tot: 6.51
+
+ASP init: 0.042953, Model samp: 0.245385, Search: 3.804039, Check: 0.002269, Model superset: 0.000000, Tot: 4.094646
+State: 25, PathCost: 44.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.10
+Means, SolnCost: 32.79, # Models init: 1.83, # Models superset: 0.00, Solved: 92.31%, Times - ASP init: 0.08, Model: 0.56, Search: 5.77, Check: 0.00, Superset: 0.00, Tot: 6.41
+
+ASP init: 0.129179, Model samp: 0.857424, Search: 11.156077, Check: 0.002175, Model superset: 0.000000, Tot: 12.144854
+State: 26, PathCost: 40.00, # Models init: 3, # Models superset: 0, Solved: True, Time: 12.15
+Means, SolnCost: 33.08, # Models init: 1.88, # Models superset: 0.00, Solved: 92.59%, Times - ASP init: 0.08, Model: 0.57, Search: 5.98, Check: 0.00, Superset: 0.00, Tot: 6.64
+
+ASP init: 0.173033, Model samp: 1.277619, Search: 15.571816, Check: 0.002057, Model superset: 0.000000, Tot: 17.024526
+State: 27, PathCost: 34.00, # Models init: 4, # Models superset: 0, Solved: True, Time: 17.03
+Means, SolnCost: 33.12, # Models init: 1.96, # Models superset: 0.00, Solved: 92.86%, Times - ASP init: 0.08, Model: 0.60, Search: 6.35, Check: 0.00, Superset: 0.00, Tot: 7.04
+
+ASP init: 0.043363, Model samp: 0.305963, Search: 0.635278, Check: 0.001977, Model superset: 0.000000, Tot: 0.986581
+State: 28, PathCost: 13.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 0.99
+Means, SolnCost: 32.37, # Models init: 1.93, # Models superset: 0.00, Solved: 93.10%, Times - ASP init: 0.08, Model: 0.59, Search: 6.14, Check: 0.00, Superset: 0.00, Tot: 6.82
+
+ASP init: 0.086270, Model samp: 0.639736, Search: 6.508151, Check: 0.002043, Model superset: 0.000000, Tot: 7.236200
+State: 29, PathCost: 40.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.24
+Means, SolnCost: 32.64, # Models init: 1.93, # Models superset: 0.00, Solved: 93.33%, Times - ASP init: 0.08, Model: 0.59, Search: 6.15, Check: 0.00, Superset: 0.00, Tot: 6.83
+
+ASP init: 0.043131, Model samp: 0.305143, Search: 3.234299, Check: 0.002057, Model superset: 0.000000, Tot: 3.584631
+State: 30, PathCost: 41.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.59
+Means, SolnCost: 32.93, # Models init: 1.90, # Models superset: 0.00, Solved: 93.55%, Times - ASP init: 0.08, Model: 0.58, Search: 6.05, Check: 0.00, Superset: 0.00, Tot: 6.72
+
+ASP init: 0.042984, Model samp: 0.230825, Search: 2.269799, Check: 0.002231, Model superset: 0.000000, Tot: 2.545839
+State: 31, PathCost: 30.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.55
+Means, SolnCost: 32.83, # Models init: 1.87, # Models superset: 0.00, Solved: 93.75%, Times - ASP init: 0.08, Model: 0.57, Search: 5.92, Check: 0.00, Superset: 0.00, Tot: 6.58
+
+ASP init: 0.086082, Model samp: 0.521105, Search: 7.699342, Check: 0.002137, Model superset: 0.000000, Tot: 8.308665
+State: 32, PathCost: 36.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 8.31
+Means, SolnCost: 32.94, # Models init: 1.87, # Models superset: 0.00, Solved: 93.94%, Times - ASP init: 0.08, Model: 0.57, Search: 5.98, Check: 0.00, Superset: 0.00, Tot: 6.64
+
+ASP init: 0.561515, Model samp: 4.628318, Search: 53.276898, Check: 0.000000, Model superset: 0.000000, Tot: 58.466731
+State: 33, PathCost: -1.00, # Models init: 12, # Models superset: 0, Solved: False, Time: 58.48
+Means, SolnCost: 32.94, # Models init: 1.87, # Models superset: 0.00, Solved: 91.18%, Times - ASP init: 0.08, Model: 0.57, Search: 5.98, Check: 0.00, Superset: 0.00, Tot: 6.64
+
+ASP init: 0.041978, Model samp: 0.284063, Search: 3.437044, Check: 0.002065, Model superset: 0.000000, Tot: 3.765151
+State: 34, PathCost: 44.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.77
+Means, SolnCost: 33.28, # Models init: 1.84, # Models superset: 0.00, Solved: 91.43%, Times - ASP init: 0.08, Model: 0.56, Search: 5.90, Check: 0.00, Superset: 0.00, Tot: 6.55
+
+ASP init: 0.042945, Model samp: 0.292782, Search: 1.328623, Check: 0.002133, Model superset: 0.000000, Tot: 1.666482
+State: 35, PathCost: 22.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.67
+Means, SolnCost: 32.94, # Models init: 1.82, # Models superset: 0.00, Solved: 91.67%, Times - ASP init: 0.08, Model: 0.55, Search: 5.76, Check: 0.00, Superset: 0.00, Tot: 6.40
+
+ASP init: 0.776550, Model samp: 6.472547, Search: 68.491359, Check: 0.000000, Model superset: 0.000000, Tot: 75.740456
+State: 36, PathCost: -1.00, # Models init: 17, # Models superset: 0, Solved: False, Time: 75.77
+Means, SolnCost: 32.94, # Models init: 1.82, # Models superset: 0.00, Solved: 89.19%, Times - ASP init: 0.08, Model: 0.55, Search: 5.76, Check: 0.00, Superset: 0.00, Tot: 6.40
+
+ASP init: 0.041870, Model samp: 0.238160, Search: 3.846908, Check: 0.002226, Model superset: 0.000000, Tot: 4.129163
+State: 37, PathCost: 43.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.13
+Means, SolnCost: 33.24, # Models init: 1.79, # Models superset: 0.00, Solved: 89.47%, Times - ASP init: 0.08, Model: 0.54, Search: 5.71, Check: 0.00, Superset: 0.00, Tot: 6.33
+
+ASP init: 0.042999, Model samp: 0.296643, Search: 2.950219, Check: 0.002089, Model superset: 0.000000, Tot: 3.291950
+State: 38, PathCost: 38.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.29
+Means, SolnCost: 33.37, # Models init: 1.77, # Models superset: 0.00, Solved: 89.74%, Times - ASP init: 0.08, Model: 0.53, Search: 5.63, Check: 0.00, Superset: 0.00, Tot: 6.24
+
+ASP init: 0.043020, Model samp: 0.301279, Search: 2.477895, Check: 0.002196, Model superset: 0.000000, Tot: 2.824390
+State: 39, PathCost: 30.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.83
+Means, SolnCost: 33.28, # Models init: 1.75, # Models superset: 0.00, Solved: 90.00%, Times - ASP init: 0.08, Model: 0.53, Search: 5.54, Check: 0.00, Superset: 0.00, Tot: 6.15
+
+ASP init: 0.476124, Model samp: 3.711653, Search: 40.939338, Check: 0.000000, Model superset: 0.000000, Tot: 45.127115
+State: 40, PathCost: -1.00, # Models init: 10, # Models superset: 0, Solved: False, Time: 45.14
+Means, SolnCost: 33.28, # Models init: 1.75, # Models superset: 0.00, Solved: 87.80%, Times - ASP init: 0.08, Model: 0.53, Search: 5.54, Check: 0.00, Superset: 0.00, Tot: 6.15
+
+ASP init: 0.560880, Model samp: 4.436508, Search: 54.010662, Check: 0.000000, Model superset: 0.000000, Tot: 59.008049
+State: 41, PathCost: -1.00, # Models init: 12, # Models superset: 0, Solved: False, Time: 59.03
+Means, SolnCost: 33.28, # Models init: 1.75, # Models superset: 0.00, Solved: 85.71%, Times - ASP init: 0.08, Model: 0.53, Search: 5.54, Check: 0.00, Superset: 0.00, Tot: 6.15
+
+ASP init: 0.041900, Model samp: 0.300533, Search: 3.222230, Check: 0.002160, Model superset: 0.000000, Tot: 3.566823
+State: 42, PathCost: 37.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.57
+Means, SolnCost: 33.38, # Models init: 1.73, # Models superset: 0.00, Solved: 86.05%, Times - ASP init: 0.07, Model: 0.52, Search: 5.48, Check: 0.00, Superset: 0.00, Tot: 6.08
+
+ASP init: 0.389846, Model samp: 3.518600, Search: 29.980258, Check: 0.002003, Model superset: 0.000000, Tot: 33.890707
+State: 43, PathCost: 38.00, # Models init: 9, # Models superset: 0, Solved: True, Time: 33.90
+Means, SolnCost: 33.50, # Models init: 1.92, # Models superset: 0.00, Solved: 86.36%, Times - ASP init: 0.08, Model: 0.60, Search: 6.12, Check: 0.00, Superset: 0.00, Tot: 6.81
+
+ASP init: 0.043090, Model samp: 0.297672, Search: 2.071743, Check: 0.002016, Model superset: 0.000000, Tot: 2.414521
+State: 44, PathCost: 26.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.42
+Means, SolnCost: 33.31, # Models init: 1.90, # Models superset: 0.00, Solved: 86.67%, Times - ASP init: 0.08, Model: 0.59, Search: 6.02, Check: 0.00, Superset: 0.00, Tot: 6.70
+
+ASP init: 0.042878, Model samp: 0.295726, Search: 1.820599, Check: 0.002094, Model superset: 0.000000, Tot: 2.161297
+State: 45, PathCost: 25.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.16
+Means, SolnCost: 33.10, # Models init: 1.88, # Models superset: 0.00, Solved: 86.96%, Times - ASP init: 0.08, Model: 0.59, Search: 5.91, Check: 0.00, Superset: 0.00, Tot: 6.59
+
+ASP init: 0.042988, Model samp: 0.253695, Search: 3.148453, Check: 0.002084, Model superset: 0.000000, Tot: 3.447220
+State: 46, PathCost: 36.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.45
+Means, SolnCost: 33.17, # Models init: 1.85, # Models superset: 0.00, Solved: 87.23%, Times - ASP init: 0.08, Model: 0.58, Search: 5.85, Check: 0.00, Superset: 0.00, Tot: 6.51
+
+ASP init: 0.043272, Model samp: 0.300040, Search: 2.865189, Check: 0.002065, Model superset: 0.000000, Tot: 3.210566
+State: 47, PathCost: 40.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.21
+Means, SolnCost: 33.33, # Models init: 1.83, # Models superset: 0.00, Solved: 87.50%, Times - ASP init: 0.08, Model: 0.57, Search: 5.78, Check: 0.00, Superset: 0.00, Tot: 6.43
+
+ASP init: 0.042780, Model samp: 0.293523, Search: 1.040177, Check: 0.002063, Model superset: 0.000000, Tot: 1.378543
+State: 48, PathCost: 18.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.38
+Means, SolnCost: 32.98, # Models init: 1.81, # Models superset: 0.00, Solved: 87.76%, Times - ASP init: 0.08, Model: 0.56, Search: 5.67, Check: 0.00, Superset: 0.00, Tot: 6.31
+
+ASP init: 0.043159, Model samp: 0.275528, Search: 2.662486, Check: 0.002097, Model superset: 0.000000, Tot: 2.983270
+State: 49, PathCost: 31.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.98
+Means, SolnCost: 32.93, # Models init: 1.80, # Models superset: 0.00, Solved: 88.00%, Times - ASP init: 0.08, Model: 0.56, Search: 5.60, Check: 0.00, Superset: 0.00, Tot: 6.24
+
+ASP init: 0.042896, Model samp: 0.233781, Search: 1.927416, Check: 0.002119, Model superset: 0.000000, Tot: 2.206211
+State: 50, PathCost: 26.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.21
+Means, SolnCost: 32.78, # Models init: 1.78, # Models superset: 0.00, Solved: 88.24%, Times - ASP init: 0.08, Model: 0.55, Search: 5.52, Check: 0.00, Superset: 0.00, Tot: 6.15
+
+ASP init: 0.733998, Model samp: 6.188541, Search: 37.018304, Check: 0.000000, Model superset: 0.000000, Tot: 43.940843
+State: 51, PathCost: -1.00, # Models init: 16, # Models superset: 0, Solved: False, Time: 43.96
+Means, SolnCost: 32.78, # Models init: 1.78, # Models superset: 0.00, Solved: 86.54%, Times - ASP init: 0.08, Model: 0.55, Search: 5.52, Check: 0.00, Superset: 0.00, Tot: 6.15
+
+ASP init: 0.041977, Model samp: 0.298206, Search: 2.416933, Check: 0.002192, Model superset: 0.000000, Tot: 2.759307
+State: 52, PathCost: 31.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.76
+Means, SolnCost: 32.74, # Models init: 1.76, # Models superset: 0.00, Solved: 86.79%, Times - ASP init: 0.08, Model: 0.55, Search: 5.45, Check: 0.00, Superset: 0.00, Tot: 6.07
+
+ASP init: 0.086714, Model samp: 0.573982, Search: 7.390190, Check: 0.002121, Model superset: 0.000000, Tot: 8.053007
+State: 53, PathCost: 38.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 8.06
+Means, SolnCost: 32.85, # Models init: 1.77, # Models superset: 0.00, Solved: 87.04%, Times - ASP init: 0.08, Model: 0.55, Search: 5.49, Check: 0.00, Superset: 0.00, Tot: 6.12
+
+ASP init: 0.043042, Model samp: 0.256617, Search: 3.026450, Check: 0.002134, Model superset: 0.000000, Tot: 3.328243
+State: 54, PathCost: 38.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.33
+Means, SolnCost: 32.96, # Models init: 1.75, # Models superset: 0.00, Solved: 87.27%, Times - ASP init: 0.08, Model: 0.54, Search: 5.44, Check: 0.00, Superset: 0.00, Tot: 6.06
+
+ASP init: 0.042973, Model samp: 0.300844, Search: 3.307444, Check: 0.002108, Model superset: 0.000000, Tot: 3.653368
+State: 55, PathCost: 39.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.65
+Means, SolnCost: 33.08, # Models init: 1.73, # Models superset: 0.00, Solved: 87.50%, Times - ASP init: 0.07, Model: 0.54, Search: 5.40, Check: 0.00, Superset: 0.00, Tot: 6.01
+
+ASP init: 0.042841, Model samp: 0.302155, Search: 0.549597, Check: 0.002029, Model superset: 0.000000, Tot: 0.896621
+State: 56, PathCost: 13.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 0.90
+Means, SolnCost: 32.68, # Models init: 1.72, # Models superset: 0.00, Solved: 87.72%, Times - ASP init: 0.07, Model: 0.53, Search: 5.30, Check: 0.00, Superset: 0.00, Tot: 5.91
+
+ASP init: 0.519243, Model samp: 3.857003, Search: 33.178123, Check: 0.000000, Model superset: 0.000000, Tot: 37.554370
+State: 57, PathCost: -1.00, # Models init: 11, # Models superset: 0, Solved: False, Time: 37.57
+Means, SolnCost: 32.68, # Models init: 1.72, # Models superset: 0.00, Solved: 86.21%, Times - ASP init: 0.07, Model: 0.53, Search: 5.30, Check: 0.00, Superset: 0.00, Tot: 5.91
+
+ASP init: 0.388776, Model samp: 3.054619, Search: 34.128556, Check: 0.002079, Model superset: 0.000000, Tot: 37.574029
+State: 58, PathCost: 44.00, # Models init: 9, # Models superset: 0, Solved: True, Time: 37.59
+Means, SolnCost: 32.90, # Models init: 1.86, # Models superset: 0.00, Solved: 86.44%, Times - ASP init: 0.08, Model: 0.58, Search: 5.86, Check: 0.00, Superset: 0.00, Tot: 6.53
+
+ASP init: 0.562510, Model samp: 3.906059, Search: 36.654994, Check: 0.000000, Model superset: 0.000000, Tot: 41.123563
+State: 59, PathCost: -1.00, # Models init: 12, # Models superset: 0, Solved: False, Time: 41.14
+Means, SolnCost: 32.90, # Models init: 1.86, # Models superset: 0.00, Solved: 85.00%, Times - ASP init: 0.08, Model: 0.58, Search: 5.86, Check: 0.00, Superset: 0.00, Tot: 6.53
+
+ASP init: 0.042239, Model samp: 0.299390, Search: 3.607639, Check: 0.002061, Model superset: 0.000000, Tot: 3.951329
+State: 60, PathCost: 42.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.95
+Means, SolnCost: 33.08, # Models init: 1.85, # Models superset: 0.00, Solved: 85.25%, Times - ASP init: 0.08, Model: 0.57, Search: 5.82, Check: 0.00, Superset: 0.00, Tot: 6.48
+
+ASP init: 0.042979, Model samp: 0.281861, Search: 1.938044, Check: 0.002068, Model superset: 0.000000, Tot: 2.264951
+State: 61, PathCost: 26.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.27
+Means, SolnCost: 32.94, # Models init: 1.83, # Models superset: 0.00, Solved: 85.48%, Times - ASP init: 0.08, Model: 0.57, Search: 5.75, Check: 0.00, Superset: 0.00, Tot: 6.40
+
+ASP init: 0.173455, Model samp: 1.217387, Search: 16.142476, Check: 0.002113, Model superset: 0.000000, Tot: 17.535432
+State: 62, PathCost: 28.00, # Models init: 4, # Models superset: 0, Solved: True, Time: 17.54
+Means, SolnCost: 32.85, # Models init: 1.87, # Models superset: 0.00, Solved: 85.71%, Times - ASP init: 0.08, Model: 0.58, Search: 5.94, Check: 0.00, Superset: 0.00, Tot: 6.61
+
+ASP init: 0.043437, Model samp: 0.292694, Search: 2.711358, Check: 0.002119, Model superset: 0.000000, Tot: 3.049608
+State: 63, PathCost: 35.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.05
+Means, SolnCost: 32.89, # Models init: 1.85, # Models superset: 0.00, Solved: 85.94%, Times - ASP init: 0.08, Model: 0.58, Search: 5.88, Check: 0.00, Superset: 0.00, Tot: 6.54
+
+ASP init: 0.434069, Model samp: 3.377017, Search: 38.004441, Check: 0.000000, Model superset: 0.000000, Tot: 41.815528
+State: 64, PathCost: -1.00, # Models init: 9, # Models superset: 0, Solved: False, Time: 41.83
+Means, SolnCost: 32.89, # Models init: 1.85, # Models superset: 0.00, Solved: 84.62%, Times - ASP init: 0.08, Model: 0.58, Search: 5.88, Check: 0.00, Superset: 0.00, Tot: 6.54
+
+ASP init: 0.041912, Model samp: 0.231683, Search: 2.887543, Check: 0.002280, Model superset: 0.000000, Tot: 3.163418
+State: 65, PathCost: 35.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.16
+Means, SolnCost: 32.93, # Models init: 1.84, # Models superset: 0.00, Solved: 84.85%, Times - ASP init: 0.08, Model: 0.57, Search: 5.83, Check: 0.00, Superset: 0.00, Tot: 6.48
+
+ASP init: 0.734909, Model samp: 5.607984, Search: 60.282361, Check: 0.000000, Model superset: 0.000000, Tot: 66.625254
+State: 66, PathCost: -1.00, # Models init: 16, # Models superset: 0, Solved: False, Time: 66.65
+Means, SolnCost: 32.93, # Models init: 1.84, # Models superset: 0.00, Solved: 83.58%, Times - ASP init: 0.08, Model: 0.57, Search: 5.83, Check: 0.00, Superset: 0.00, Tot: 6.48
+
+ASP init: 0.042164, Model samp: 0.292423, Search: 3.344199, Check: 0.002189, Model superset: 0.000000, Tot: 3.680976
+State: 67, PathCost: 40.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.68
+Means, SolnCost: 33.05, # Models init: 1.82, # Models superset: 0.00, Solved: 83.82%, Times - ASP init: 0.08, Model: 0.56, Search: 5.78, Check: 0.00, Superset: 0.00, Tot: 6.43
+
+ASP init: 0.042977, Model samp: 0.285350, Search: 1.991798, Check: 0.002228, Model superset: 0.000000, Tot: 2.322353
+State: 68, PathCost: 26.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.32
+Means, SolnCost: 32.93, # Models init: 1.81, # Models superset: 0.00, Solved: 84.06%, Times - ASP init: 0.08, Model: 0.56, Search: 5.72, Check: 0.00, Superset: 0.00, Tot: 6.36
+
+ASP init: 0.086021, Model samp: 0.602603, Search: 7.182505, Check: 0.002199, Model superset: 0.000000, Tot: 7.873329
+State: 69, PathCost: 32.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.88
+Means, SolnCost: 32.92, # Models init: 1.81, # Models superset: 0.00, Solved: 84.29%, Times - ASP init: 0.08, Model: 0.56, Search: 5.74, Check: 0.00, Superset: 0.00, Tot: 6.39
+
+ASP init: 0.086230, Model samp: 0.549021, Search: 6.051587, Check: 0.002004, Model superset: 0.000000, Tot: 6.688841
+State: 70, PathCost: 32.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 6.69
+Means, SolnCost: 32.90, # Models init: 1.82, # Models superset: 0.00, Solved: 84.51%, Times - ASP init: 0.08, Model: 0.56, Search: 5.75, Check: 0.00, Superset: 0.00, Tot: 6.39
+
+ASP init: 0.043386, Model samp: 0.298505, Search: 2.663462, Check: 0.002052, Model superset: 0.000000, Tot: 3.007406
+State: 71, PathCost: 34.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.01
+Means, SolnCost: 32.92, # Models init: 1.80, # Models superset: 0.00, Solved: 84.72%, Times - ASP init: 0.08, Model: 0.56, Search: 5.70, Check: 0.00, Superset: 0.00, Tot: 6.34
+
+ASP init: 0.043056, Model samp: 0.279307, Search: 3.073118, Check: 0.002108, Model superset: 0.000000, Tot: 3.397589
+State: 72, PathCost: 39.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.40
+Means, SolnCost: 33.02, # Models init: 1.79, # Models superset: 0.00, Solved: 84.93%, Times - ASP init: 0.08, Model: 0.55, Search: 5.66, Check: 0.00, Superset: 0.00, Tot: 6.29
+
+ASP init: 0.042941, Model samp: 0.304754, Search: 3.446784, Check: 0.002137, Model superset: 0.000000, Tot: 3.796615
+State: 73, PathCost: 42.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.80
+Means, SolnCost: 33.16, # Models init: 1.78, # Models superset: 0.00, Solved: 85.14%, Times - ASP init: 0.08, Model: 0.55, Search: 5.62, Check: 0.00, Superset: 0.00, Tot: 6.25
+
+ASP init: 0.042922, Model samp: 0.299995, Search: 2.216448, Check: 0.002142, Model superset: 0.000000, Tot: 2.561507
+State: 74, PathCost: 27.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.56
+Means, SolnCost: 33.06, # Models init: 1.77, # Models superset: 0.00, Solved: 85.33%, Times - ASP init: 0.08, Model: 0.54, Search: 5.57, Check: 0.00, Superset: 0.00, Tot: 6.19
+
+ASP init: 0.086668, Model samp: 0.576842, Search: 7.431633, Check: 0.002066, Model superset: 0.000000, Tot: 8.097209
+State: 75, PathCost: 33.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 8.10
+Means, SolnCost: 33.06, # Models init: 1.77, # Models superset: 0.00, Solved: 85.53%, Times - ASP init: 0.08, Model: 0.54, Search: 5.60, Check: 0.00, Superset: 0.00, Tot: 6.22
+
+ASP init: 0.215726, Model samp: 1.513777, Search: 20.180032, Check: 0.002252, Model superset: 0.000000, Tot: 21.911788
+State: 76, PathCost: 41.00, # Models init: 5, # Models superset: 0, Solved: True, Time: 21.92
+Means, SolnCost: 33.18, # Models init: 1.82, # Models superset: 0.00, Solved: 85.71%, Times - ASP init: 0.08, Model: 0.56, Search: 5.82, Check: 0.00, Superset: 0.00, Tot: 6.46
+
+ASP init: 0.130059, Model samp: 0.948586, Search: 10.389907, Check: 0.002043, Model superset: 0.000000, Tot: 11.470595
+State: 77, PathCost: 38.00, # Models init: 3, # Models superset: 0, Solved: True, Time: 11.47
+Means, SolnCost: 33.25, # Models init: 1.84, # Models superset: 0.00, Solved: 85.90%, Times - ASP init: 0.08, Model: 0.56, Search: 5.89, Check: 0.00, Superset: 0.00, Tot: 6.53
+
+ASP init: 0.043267, Model samp: 0.304580, Search: 2.238105, Check: 0.002030, Model superset: 0.000000, Tot: 2.587982
+State: 78, PathCost: 28.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.59
+Means, SolnCost: 33.18, # Models init: 1.82, # Models superset: 0.00, Solved: 86.08%, Times - ASP init: 0.08, Model: 0.56, Search: 5.83, Check: 0.00, Superset: 0.00, Tot: 6.48
+
+ASP init: 0.043129, Model samp: 0.306013, Search: 1.962525, Check: 0.002159, Model superset: 0.000000, Tot: 2.313827
+State: 79, PathCost: 28.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.32
+Means, SolnCost: 33.10, # Models init: 1.81, # Models superset: 0.00, Solved: 86.25%, Times - ASP init: 0.08, Model: 0.56, Search: 5.78, Check: 0.00, Superset: 0.00, Tot: 6.42
+
+ASP init: 0.042763, Model samp: 0.312123, Search: 3.081850, Check: 0.002100, Model superset: 0.000000, Tot: 3.438836
+State: 80, PathCost: 36.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.44
+Means, SolnCost: 33.14, # Models init: 1.80, # Models superset: 0.00, Solved: 86.42%, Times - ASP init: 0.08, Model: 0.55, Search: 5.74, Check: 0.00, Superset: 0.00, Tot: 6.37
+
+ASP init: 0.043136, Model samp: 0.249982, Search: 1.027624, Check: 0.002035, Model superset: 0.000000, Tot: 1.322777
+State: 81, PathCost: 23.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.32
+Means, SolnCost: 33.00, # Models init: 1.79, # Models superset: 0.00, Solved: 86.59%, Times - ASP init: 0.08, Model: 0.55, Search: 5.67, Check: 0.00, Superset: 0.00, Tot: 6.30
+
+ASP init: 0.129842, Model samp: 0.948683, Search: 9.920411, Check: 0.002049, Model superset: 0.000000, Tot: 11.000985
+State: 82, PathCost: 44.00, # Models init: 3, # Models superset: 0, Solved: True, Time: 11.01
+Means, SolnCost: 33.15, # Models init: 1.81, # Models superset: 0.00, Solved: 86.75%, Times - ASP init: 0.08, Model: 0.56, Search: 5.73, Check: 0.00, Superset: 0.00, Tot: 6.37
+
+ASP init: 0.086367, Model samp: 0.623336, Search: 6.357628, Check: 0.002016, Model superset: 0.000000, Tot: 7.069346
+State: 83, PathCost: 33.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.07
+Means, SolnCost: 33.15, # Models init: 1.81, # Models superset: 0.00, Solved: 86.90%, Times - ASP init: 0.08, Model: 0.56, Search: 5.74, Check: 0.00, Superset: 0.00, Tot: 6.38
+
+ASP init: 0.043684, Model samp: 0.238840, Search: 3.845787, Check: 0.002221, Model superset: 0.000000, Tot: 4.130532
+State: 84, PathCost: 45.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.13
+Means, SolnCost: 33.31, # Models init: 1.80, # Models superset: 0.00, Solved: 87.06%, Times - ASP init: 0.08, Model: 0.55, Search: 5.71, Check: 0.00, Superset: 0.00, Tot: 6.35
+
+ASP init: 0.043007, Model samp: 0.252366, Search: 3.814089, Check: 0.002216, Model superset: 0.000000, Tot: 4.111678
+State: 85, PathCost: 47.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.11
+Means, SolnCost: 33.49, # Models init: 1.79, # Models superset: 0.00, Solved: 87.21%, Times - ASP init: 0.08, Model: 0.55, Search: 5.69, Check: 0.00, Superset: 0.00, Tot: 6.32
+
+ASP init: 0.433944, Model samp: 3.304309, Search: 31.793657, Check: 0.000000, Model superset: 0.000000, Tot: 35.531910
+State: 86, PathCost: -1.00, # Models init: 9, # Models superset: 0, Solved: False, Time: 35.54
+Means, SolnCost: 33.49, # Models init: 1.79, # Models superset: 0.00, Solved: 86.21%, Times - ASP init: 0.08, Model: 0.55, Search: 5.69, Check: 0.00, Superset: 0.00, Tot: 6.32
+
+ASP init: 0.042279, Model samp: 0.284887, Search: 2.788620, Check: 0.002184, Model superset: 0.000000, Tot: 3.117970
+State: 87, PathCost: 37.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.12
+Means, SolnCost: 33.54, # Models init: 1.78, # Models superset: 0.00, Solved: 86.36%, Times - ASP init: 0.08, Model: 0.54, Search: 5.65, Check: 0.00, Superset: 0.00, Tot: 6.27
+
+ASP init: 0.086713, Model samp: 0.580324, Search: 6.997549, Check: 0.002127, Model superset: 0.000000, Tot: 7.666713
+State: 88, PathCost: 41.00, # Models init: 2, # Models superset: 0, Solved: True, Time: 7.67
+Means, SolnCost: 33.64, # Models init: 1.78, # Models superset: 0.00, Solved: 86.52%, Times - ASP init: 0.08, Model: 0.54, Search: 5.67, Check: 0.00, Superset: 0.00, Tot: 6.29
+
+ASP init: 0.043169, Model samp: 0.304372, Search: 3.267201, Check: 0.002298, Model superset: 0.000000, Tot: 3.617040
+State: 89, PathCost: 38.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.62
+Means, SolnCost: 33.69, # Models init: 1.77, # Models superset: 0.00, Solved: 86.67%, Times - ASP init: 0.08, Model: 0.54, Search: 5.64, Check: 0.00, Superset: 0.00, Tot: 6.26
+
+ASP init: 0.042906, Model samp: 0.310697, Search: 2.704773, Check: 0.002090, Model superset: 0.000000, Tot: 3.060466
+State: 90, PathCost: 34.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.06
+Means, SolnCost: 33.70, # Models init: 1.76, # Models superset: 0.00, Solved: 86.81%, Times - ASP init: 0.08, Model: 0.54, Search: 5.60, Check: 0.00, Superset: 0.00, Tot: 6.22
+
+ASP init: 0.260235, Model samp: 2.006391, Search: 22.964191, Check: 0.002055, Model superset: 0.000000, Tot: 25.232872
+State: 91, PathCost: 27.00, # Models init: 6, # Models superset: 0, Solved: True, Time: 25.24
+Means, SolnCost: 33.61, # Models init: 1.81, # Models superset: 0.00, Solved: 86.96%, Times - ASP init: 0.08, Model: 0.56, Search: 5.82, Check: 0.00, Superset: 0.00, Tot: 6.46
+
+ASP init: 0.043035, Model samp: 0.311082, Search: 1.402448, Check: 0.002119, Model superset: 0.000000, Tot: 1.758684
+State: 92, PathCost: 22.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 1.76
+Means, SolnCost: 33.47, # Models init: 1.80, # Models superset: 0.00, Solved: 87.10%, Times - ASP init: 0.08, Model: 0.55, Search: 5.76, Check: 0.00, Superset: 0.00, Tot: 6.40
+
+ASP init: 0.042913, Model samp: 0.255043, Search: 3.895072, Check: 0.002228, Model superset: 0.000000, Tot: 4.195257
+State: 93, PathCost: 42.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.20
+Means, SolnCost: 33.57, # Models init: 1.79, # Models superset: 0.00, Solved: 87.23%, Times - ASP init: 0.08, Model: 0.55, Search: 5.74, Check: 0.00, Superset: 0.00, Tot: 6.37
+
+ASP init: 0.043237, Model samp: 0.269358, Search: 2.309713, Check: 0.002180, Model superset: 0.000000, Tot: 2.624488
+State: 94, PathCost: 29.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.63
+Means, SolnCost: 33.52, # Models init: 1.78, # Models superset: 0.00, Solved: 87.37%, Times - ASP init: 0.08, Model: 0.55, Search: 5.70, Check: 0.00, Superset: 0.00, Tot: 6.33
+
+ASP init: 0.303550, Model samp: 2.341834, Search: 17.723002, Check: 0.001967, Model superset: 0.000000, Tot: 20.370353
+State: 95, PathCost: 31.00, # Models init: 7, # Models superset: 0, Solved: True, Time: 20.38
+Means, SolnCost: 33.49, # Models init: 1.85, # Models superset: 0.00, Solved: 87.50%, Times - ASP init: 0.08, Model: 0.57, Search: 5.84, Check: 0.00, Superset: 0.00, Tot: 6.49
+
+ASP init: 0.043140, Model samp: 0.305060, Search: 2.613243, Check: 0.002058, Model superset: 0.000000, Tot: 2.963501
+State: 96, PathCost: 33.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 2.96
+Means, SolnCost: 33.48, # Models init: 1.84, # Models superset: 0.00, Solved: 87.63%, Times - ASP init: 0.08, Model: 0.57, Search: 5.80, Check: 0.00, Superset: 0.00, Tot: 6.45
+
+ASP init: 0.043009, Model samp: 0.249686, Search: 3.388203, Check: 0.002222, Model superset: 0.000000, Tot: 3.683120
+State: 97, PathCost: 39.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 3.68
+Means, SolnCost: 33.55, # Models init: 1.83, # Models superset: 0.00, Solved: 87.76%, Times - ASP init: 0.08, Model: 0.56, Search: 5.77, Check: 0.00, Superset: 0.00, Tot: 6.42
+
+ASP init: 0.346857, Model samp: 2.548442, Search: 34.454221, Check: 0.002158, Model superset: 0.000000, Tot: 37.351677
+State: 98, PathCost: 45.00, # Models init: 8, # Models superset: 0, Solved: True, Time: 37.36
+Means, SolnCost: 33.68, # Models init: 1.90, # Models superset: 0.00, Solved: 87.88%, Times - ASP init: 0.08, Model: 0.58, Search: 6.10, Check: 0.00, Superset: 0.00, Tot: 6.78
+
+ASP init: 0.043212, Model samp: 0.302107, Search: 3.696399, Check: 0.002098, Model superset: 0.000000, Tot: 4.043816
+State: 99, PathCost: 42.00, # Models init: 1, # Models superset: 0, Solved: True, Time: 4.05
+Means, SolnCost: 33.77, # Models init: 1.89, # Models superset: 0.00, Solved: 88.00%, Times - ASP init: 0.08, Model: 0.58, Search: 6.08, Check: 0.00, Superset: 0.00, Tot: 6.74
+
