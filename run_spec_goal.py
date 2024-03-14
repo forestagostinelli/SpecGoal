@@ -80,7 +80,7 @@ def main():
                                    "solved": []}
         log_write_mode: str = "w"
 
-    if (not args.debug) and (not (args.viz_model or args.viz_model or args.viz_goal)):
+    if (not args.debug) and (not (args.viz_start or args.viz_model or args.viz_goal)):
         sys.stdout = data_utils.Logger(output_file, log_write_mode)
 
     # spec clauses
@@ -113,9 +113,10 @@ def main():
         num_models_init: int = 0
         num_models_superset: int = 0
         models_banned: List[Model] = []
+        do_itr: bool = True
         times: Times = Times()
         start_time = time.time()
-        while not solved:
+        while do_itr:
             (solved, state_path, path_actions, path_cost, num_mod_init_i, num_mod_sup_i,
              models_banned, times_i) = path_to_spec_goal(env, state, clauses, heuristic_fn, args.model_batch_size,
                                                          args.batch_size, args.weight, args.max_search_itrs,
@@ -127,6 +128,8 @@ def main():
             times.add_times(times_i)
             if solved and args.viz_goal:
                 viz_utils.visualize_examples(env, [state_path[-1]])
+
+            do_itr = (not solved) and (num_mod_init_i > 0)
         tot_time = time.time() - start_time
 
         results["actions"].append(path_actions)
