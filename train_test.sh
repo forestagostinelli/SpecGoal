@@ -9,7 +9,7 @@ python run_search.py --states data/cube3/test/rand.pkl --heur models/cube3/curre
 ###### Specify goals with ASP
 for goal in "canon" "cross6" "cup4" "cupspot" "checkers"
 do
-  python run_spec_goal.py --states data/cube3/test/spec_asp.pkl --env cube3 --bk_add patterns/cube3.lp --model_batch_size 1 --heur models/cube3/current.pt --batch_size 1000 --weight 0.6 --results results_spec_asp/cube3_${goal}/ --spec "goal :- ${goal}"
+  python run_spec_goal.py --states data/cube3/test/spec_asp.pkl --env cube3 --bk_add patterns/cube3.lp --model_batch_size 1 --heur models/cube3/current.pt --batch_size 1000 --weight 0.6 --max_search_itrs 50 --results results_spec_asp/cube3_${goal}/ --spec "goal :- ${goal}"
 done
 
 ##### Compare to a shortest path
@@ -26,7 +26,7 @@ python run_search.py --states data/sokoban/test/canon.pkl --heur models/sokoban/
 ###### Specify goals with ASP
 for goal in "all_boxes_immoveable" "box_of_boxes" "agent_box_corners"
 do
-  python run_spec_goal.py --states data/sokoban/test/spec_asp.pkl --env sokoban --bk_add patterns/sokoban.lp --model_batch_size 1 --heur models/sokoban/current.pt --batch_size 1000 --weight 0.6 --results results_spec_asp/sokoban_${goal}/ --spec "goal :- ${goal}"
+  python run_spec_goal.py --states data/sokoban/test/spec_asp.pkl --env sokoban --bk_add patterns/sokoban.lp --model_batch_size 1 --heur models/sokoban/current.pt --batch_size 1000 --weight 0.6 --max_search_itrs 50 --results results_spec_asp/sokoban_${goal}/ --spec "goal :- ${goal}"
 done
 
 

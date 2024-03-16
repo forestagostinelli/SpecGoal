@@ -1,8 +1,10 @@
 from typing import List, Dict, Optional, Any
 
 from deepxube.environments.environment_abstract import Environment, State, Goal
-from deepxube.utils import nnet_utils, search_utils, data_utils
-from deepxube.search_state.astar import AStar, Node, get_path
+from deepxube.utils import data_utils
+from deepxube.nnet import nnet_utils
+from deepxube.search.search_utils import is_valid_soln
+from deepxube.search.astar import AStar, Node, get_path
 from deepxube.utils import env_select
 import numpy as np
 from argparse import ArgumentParser
@@ -110,7 +112,7 @@ def main():
         goal_node: Optional[Node] = astar.instances[0].goal_node
         if goal_node is not None:
             path_states, path_actions, path_cost = get_path(goal_node)
-            assert search_utils.is_valid_soln(state, goal, path_actions, env)
+            assert is_valid_soln(state, goal, path_actions, env)
             solved = True
 
         # record solution information

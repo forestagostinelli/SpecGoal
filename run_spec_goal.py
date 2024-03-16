@@ -1,11 +1,12 @@
 from typing import List, cast, Dict, Any, Optional
 
 from deepxube.environments.environment_abstract import EnvGrndAtoms, State
-from deepxube.utils import env_select, program_utils, nnet_utils, viz_utils, data_utils
+from deepxube.utils import env_select, viz_utils, data_utils
+from deepxube.nnet import nnet_utils
 from deepxube.utils.timing_utils import Times
-from deepxube.logic.program import Model
-from search_state.spec_goal_asp import path_to_spec_goal
-from deepxube.logic.program import Clause
+from deepxube.logic.logic_objects import Model, Clause
+from deepxube.logic.logic_utils import parse_clause
+from deepxube.specification.spec_goal_asp import path_to_spec_goal
 from argparse import ArgumentParser
 import os
 import sys
@@ -87,7 +88,7 @@ def main():
     spec_clauses_str = args.spec.split(";")
     clauses: List[Clause] = []
     for clause_str in spec_clauses_str:
-        clause = program_utils.parse_clause(clause_str)[0]
+        clause = parse_clause(clause_str)[0]
         clauses.append(clause)
     print("Parsed input clauses:")
     print(clauses)
