@@ -38,8 +38,17 @@ python run_train.py --env puzzle15 --step_max 1000 --batch_size 10000 --itrs_per
 python run_search.py --states data/puzzle15/test/canon.pkl --heur models/puzzle15/current.pt --env puzzle15 --batch_size 1000 --weight 1.0 --results_dir results/puzzle15_cannon/ --time_limit 200
 python run_search.py --states data/puzzle15/test/rand.pkl --heur models/puzzle15/current.pt --env puzzle15 --batch_size 1000 --weight 1.0 --results_dir results/puzzle15_rand/ --time_limit 200
 
+##### Compare to a shortest path
+python compare_solutions.py --soln1 data/puzzle15/test/canon.pkl --soln2 results/puzzle15_canon/results.pkl
 
 
 ### 24-puzzle
 ###### Train heuristic function
 python run_train.py --env puzzle24 --step_max 1000 --batch_size 10000 --itrs_per_update 5000 --greedy_step_update_max 100 --max_itrs 4000000 --num_update_procs 48 --nnet_dir models/puzzle24/
+
+###### Search with trained heuristic function
+python run_search.py --states data/puzzle24/test/canon.pkl --heur models/puzzle24/current.pt --env puzzle24 --batch_size 1000 --weight 1.0 --results_dir results/puzzle24_cannon/ --time_limit 200
+python run_search.py --states data/puzzle24/test/rand.pkl --heur models/puzzle24/current.pt --env puzzle24 --batch_size 1000 --weight 1.0 --results_dir results/puzzle24_rand/ --time_limit 200
+
+##### Compare to a shortest path
+python compare_solutions.py --soln1 data/puzzle24/test/canon.pkl --soln2 results/puzzle24_canon/results.pkl
