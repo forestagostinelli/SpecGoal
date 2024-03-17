@@ -1,7 +1,7 @@
 from argparse import ArgumentParser
 from deepxube.environments.environment_abstract import Environment
 from deepxube.training import avi
-from deepxube.utils import env_select
+from deepxube.environments.env_utils import get_environment
 
 
 def main():
@@ -18,7 +18,7 @@ def main():
     parser.add_argument('--debug', action='store_true', default=False, help="")
     args = parser.parse_args()
 
-    env: Environment = env_select.get_environment(args.env)
+    env: Environment = get_environment(args.env)
     avi.train(env, args.step_max, args.nnet_dir, batch_size=args.batch_size, itrs_per_update=args.itrs_per_update,
               max_itrs=args.max_itrs, greedy_update_step_max=args.greedy_step_update_max,
               num_update_procs=args.num_update_procs, display=args.display, debug=args.debug)

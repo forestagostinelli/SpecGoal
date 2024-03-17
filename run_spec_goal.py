@@ -1,7 +1,8 @@
 from typing import List, cast, Dict, Any, Optional
 
 from deepxube.environments.environment_abstract import EnvGrndAtoms, State
-from deepxube.utils import env_select, viz_utils, data_utils
+from deepxube.utils import viz_utils, data_utils
+from deepxube.environments.env_utils import get_environment
 from deepxube.nnet import nnet_utils
 from deepxube.utils.timing_utils import Times
 from deepxube.logic.logic_objects import Model, Clause
@@ -58,7 +59,7 @@ def main():
         os.makedirs(args.results_dir)
 
     # environment
-    env: EnvGrndAtoms = cast(EnvGrndAtoms, env_select.get_environment(args.env))
+    env: EnvGrndAtoms = cast(EnvGrndAtoms, get_environment(args.env))
 
     # get data
     data: Dict = pickle.load(open(args.states, "rb"))

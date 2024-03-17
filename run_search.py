@@ -5,7 +5,7 @@ from deepxube.utils import data_utils
 from deepxube.nnet import nnet_utils
 from deepxube.search.search_utils import is_valid_soln
 from deepxube.search.astar import AStar, Node, get_path
-from deepxube.utils import env_select
+from deepxube.environments.env_utils import get_environment
 import numpy as np
 from argparse import ArgumentParser
 import torch
@@ -46,7 +46,7 @@ def main():
         os.makedirs(args.results_dir)
 
     # environment
-    env: Environment = env_select.get_environment(args.env)
+    env: Environment = get_environment(args.env)
 
     # get data
     # sys.path.insert(0, '../DeepXube/deepxube/')  # TODO update states to not need this
