@@ -3,6 +3,7 @@ __pycache__/
 models/
 models.tar.gz
 dummy/
+extra/
 jobs/
 submit.sh
 .idea/
