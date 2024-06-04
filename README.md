@@ -1,5 +1,7 @@
 # Specifying Goals to Deep Neural Networks with Answer Set Programming
 
+Code for [Specifying Goals to Deep Neural Networks with Answer Set Programming](https://ojs.aaai.org/index.php/ICAPS/article/view/31454/33614).
+
 ## Installation
 `pip install deepxube==0.1.1`
 
