@@ -1,6 +1,6 @@
 from typing import List, Dict, Optional, Any
 
-from deepxube.environments.environment_abstract import Environment, State, Goal
+from deepxube.environments.environment_abstract import Environment, State, Action, Goal
 from deepxube.utils import data_utils
 from deepxube.nnet import nnet_utils
 from deepxube.search.search_utils import is_valid_soln
@@ -105,7 +105,7 @@ def main():
 
         solved: bool = False
         path_states: Optional[List[State]] = None
-        path_actions: Optional[List[int]] = None
+        path_actions: Optional[List[Action]] = None
         path_cost: float = np.inf
         itrs_per_sec: float = num_itrs / solve_time
         num_nodes_gen_idx: int = astar.instances[0].num_nodes_generated
