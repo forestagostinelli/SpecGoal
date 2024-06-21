@@ -10,7 +10,7 @@ def main():
     parser.add_argument('--step_max', type=int, required=True, help="")
     parser.add_argument('--nnet_dir', type=str, required=True, help="")
     parser.add_argument('--batch_size', type=int, default=1000, help="")
-    parser.add_argument('--itrs_per_update', type=int, default=5000000, help="")
+    parser.add_argument('--itrs_per_update', type=int, default=5000, help="")
     parser.add_argument('--max_itrs', type=int, default=1000000, help="")
     parser.add_argument('--greedy_step_update_max', type=int, default=30, help="")
     parser.add_argument('--num_update_procs', type=int, default=48, help="")
